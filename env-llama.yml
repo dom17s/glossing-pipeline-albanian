@@ -14,4 +14,3 @@ dependencies:
       - accelerate
       - einops
       - bitsandbytes
-      - ipykernel
