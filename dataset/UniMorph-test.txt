@@ -1,0 +1,5000 @@
+votoj	do të votonit	V;2;PL;COND;PRS
+zhvirgjërohem	të ishe zhvirgjëruar	V;2;SG;SBJV;PRF;PST
+qesh	qeshni	V;2;PL;IND;PRS
+pastroj	keni pastruar	V;2;PL;IND;PRF
+urim	urimeve	N;GEN;PL;NDEF
+përmirësoj	të përmirësonit	V;2;PL;SBJV;PST
+pompoj	do të pompojë	V;3;SG;IND;FUT
+qij	paskemi qirë	V;1;PL;ADM;PRF
+krahasoj	pastë krahasuar	V;3;SG;OPT;PRF
+preferoj	të preferoja	V;1;SG;SBJV;PST
+zgjoj	zgjuam	V;1;PL;IND;PST
+mbroj	paskemi mbruar	V;1;PL;ADM;PRF
+reagim	reagimit	N;ABL;SG;DEF
+mas	matkam	V;1;SG;ADM;PRS
+ledhatoj	paskësha ledhatuar	V;1;SG;ADM;PRF;PST
+ledhatoj	patët ledhatuar	V;2;PL;IND;PRF;PRF
+shpall	do të shpallja	V;1;SG;COND;PRS
+gaboj	të gabojë	V;3;SG;SBJV;PRS
+ndihmoj	pate ndihmuar	V;2;SG;IND;PRF;PST
+mësohem	të jesh mësuar	V;2;SG;SBJV;PRF
+dhemb	pata dhembur	V;1;SG;IND;PRF;PST
+çlirohem	çliroheni	V;2;PL;IND;PRS
+mirësi	mirësi	N;NOM;PL;NDEF
+zhvirgjërohem	të jetë zhvirgjëruar	V;3;SG;SBJV;PRF
+pranoj	pranuakëshit	V;2;PL;ADM;IPFV
+lëshoj	lëshuakemi	V;1;PL;ADM;PRS
+kronologji	kronologjive	N;GEN;PL;NDEF
+konsistoj	patëm konsistuar	V;1;PL;IND;PRF;PST
+udhëtoj	do të kishit udhëtuar	V;2;PL;COND;PRF
+votoj	paçin votuar	V;3;PL;OPT;PRF
+kam	të kisha pasur	V;1;SG;SBJV;PRF;PST
+shuaj	do të shuajin	V;3;PL;IND;FUT
+biseksualitet	biseksualitetit	N;GEN;SG;DEF
+shtëpi	shtëpie	N;GEN;SG;NDEF
+transferoj	të transferonte	V;3;SG;SBJV;PST
+peshë	peshash	N;ABL;PL;NDEF
+krijoj	të kishin krijuar	V;3;PL;SBJV;PRF;PST
+armatos	paskam armatosur	V;1;SG;ADM;PRF
+zgjoj	paskëshin zgjuar	V;3;PL;ADM;PRF;PST
+abdikoj	ka abdikuar	V;3;SG;IND;PRF
+thjeshtësi	thjeshtësie	N;DAT;SG;NDEF
+iki	ikishit	V;2;PL;OPT;PRS
+perineum	perineum	N;ACC;SG;NDEF
+konsistoj	konsistofshim	V;1;PL;OPT;PRS
+fsheh	paskemi fshehur	V;1;PL;ADM;PRF
+zgjoj	zgjoja	V;1;SG;IND;IPFV
+vazhdoj	vazhdonim	V;1;PL;IND;IPFV
+mas	të kesh matur	V;2;SG;SBJV;PRF
+grumbulloj	të grumbullojë	V;3;SG;SBJV;PRS
+rajon	rajonin	N;ACC;SG;DEF
+lidh	do të lidhësh	V;2;SG;IND;FUT
+pasthirrmë	pasthirrmave	N;GEN;PL;NDEF
+femër	femrës	N;ABL;SG;DEF
+ligjëroj	keni ligjëruar	V;2;PL;IND;PRF
+vazhdoj	të vazhdojnë	V;3;PL;SBJV;PRS
+kam	kemi pasur	V;1;PL;IND;PRF
+mendoj	do të mendojnë	V;3;PL;IND;FUT
+njoftoj	njoftoi	V;3;SG;IND;PST
+argëtoj	të argëtojnë	V;3;PL;SBJV;PRS
+urroj	urruar	V;V.PTCP
+mbarohem	të mbarohemi	V;1;PL;SBJV;PRS
+bisedoj	do të kishte biseduar	V;3;SG;COND;PRF
+përkthej	do të përkthente	V;3;SG;COND;PRS
+sulmohem	u sulmova	V;1;SG;IND;PST
+them	paskëshim thënë	V;1;PL;ADM;PRF;PST
+çliroj	paskemi çliruar	V;1;PL;ADM;PRF
+përgjithësim	përgjithësimet	N;NOM;PL;DEF
+mas	do të mas	V;1;SG;IND;FUT
+shikoj	të keni shikuar	V;2;PL;SBJV;PRF
+pastroj	pastrove	V;2;SG;IND;PST
+përkufizoj	do të përkufizonit	V;2;PL;COND;PRS
+dhuroj	të kisha dhuruar	V;1;SG;SBJV;PRF;PST
+çliroj	ka çliruar	V;3;SG;IND;PRF
+admiroj	admiruakemi	V;1;PL;ADM;PRS
+lë	për të lënë	V;NFIN
+duroj	do të kemi duruar	V;1;PL;IND;PRF;FUT
+vij	ardhkëshim	V;1;PL;ADM;IPFV
+admiroj	duke pasë admiruar	V;V.PTCP;PST
+gjeolog	gjeologët	N;NOM;PL;DEF
+shtrembëroj	do të shtrembëronim	V;1;PL;COND;PRS
+relaksohem	qoftë relaksuar	V;3;SG;OPT;PRF
+gënjej	të gënjeni	V;2;PL;SBJV;PRS
+luftoj	luftojmë	V;1;PL;IND;PRS
+përmirësoj	përmirësuakan	V;3;PL;ADM;PRS
+vendos	do të vendos	V;1;SG;IND;FUT
+dhemb	do të dhembësh	V;2;SG;IND;FUT
+mendoj	do të mendonim	V;1;PL;COND;PRS
+reagoj	reagoja	V;1;SG;IND;IPFV
+grumbulloj	të kisha grumbulluar	V;1;SG;SBJV;PRF;PST
+fushatë	fushatave	N;ABL;PL;DEF
+shurrohem	qofshin shurruar	V;3;PL;OPT;PRF
+degjoj	paskam degjuar	V;1;SG;ADM;PRF
+shurrohem	do të shurrohesh	V;2;SG;IND;FUT
+shikoj	shikuakëshim	V;1;PL;ADM;IPFV
+shkretoj	të shkretoj	V;1;SG;SBJV;PRS
+duroj	do të keni duruar	V;2;PL;IND;PRF;FUT
+duroj	duroje	V;2;SG;IND;IPFV
+shurrohem	të shurrohesha	V;1;SG;SBJV;PST
+përmirësoj	të kesh përmirësuar	V;2;SG;SBJV;PRF
+xhelozi	xhelozie	N;ABL;SG;NDEF
+përkufizoj	të përkufizonte	V;3;SG;SBJV;PST
+qëndroj	të qëndrosh	V;2;SG;SBJV;PRS
+thek	thekin	V;3;PL;IND;PRS
+thaj	do të thajë	V;3;SG;IND;FUT
+peshkaqen	peshkaqeneve	N;GEN;PL;DEF
+lëshoj	lëshofshin	V;3;PL;OPT;PRS
+qesh	pata qeshur	V;1;SG;IND;PRF;PST
+vagjinë	vagjina	N;NOM;SG;DEF
+kërkoj	do të kërkonit	V;2;PL;COND;PRS
+embriologji	embriologjie	N;DAT;SG;NDEF
+konsistoj	konsistove	V;2;SG;IND;PST
+udhëheq	udhëheqsha	V;1;SG;OPT;PRS
+ha	do të kisha ngrënë	V;1;SG;COND;PRF
+qaj	të kishe qarë	V;2;SG;SBJV;PRF;PST
+paradigmë	paradigmave	N;DAT;PL;DEF
+kërkoj	të kërkojë	V;3;SG;SBJV;PRS
+shoh	do të kishte parë	V;3;SG;COND;PRF
+luftoj	luftuar	V;V.PTCP
+çok	çoke	N;ABL;SG;NDEF
+zgjoj	zgjofshim	V;1;PL;OPT;PRS
+sulmim	sulmimeve	N;GEN;PL;NDEF
+abonohem	u abonuakan	V;3;PL;ADM;PRS
+ndryshohem	qenkeni ndryshuar	V;2;PL;ADM;PRF
+shkërdhej	do të shkërdhesh	V;2;SG;IND;FUT
+derdhje	derdhjes	N;DAT;SG;DEF
+notoj	të kishit notuar	V;2;PL;SBJV;PRF;PRF
+takohem	qenkemi takuar	V;1;PL;ADM;PRF
+prodhoj	pati prodhuar	V;3;SG;IND;PRF;PST
+atësi	atësisë	N;DAT;SG;DEF
+trajtë	trajta	N;NOM;PL;NDEF
+shtyp	do të kisha shtypur	V;1;SG;COND;PRF
+besoj	paskëshit besuar	V;2;PL;ADM;PRF;PRF
+parapëlqej	ka parapëlqyer	V;3;SG;IND;PRF
+shurroj	shurronin	V;3;PL;IND;IPFV
+mardh	paska mardhur	V;3;SG;ADM;PRF
+radiolog	radiologëve	N;ABL;PL;DEF
+abstenoj	ka abstenuar	V;3;SG;IND;PRF
+gëzoj	të kishit gëzuar	V;2;PL;SBJV;PRF;PRF
+ëndërroj	do të ketë ëndërruar	V;3;SG;IND;PRF;FUT
+tërheq	pate tërhequr	V;2;SG;IND;PRF;PST
+sodomizoj	sodomizonim	V;1;PL;IND;IPFV
+hap	hapa	V;1;SG;IND;PST
+gju	gjurin	N;ACC;SG;DEF
+themeloj	themeluakëshe	V;2;SG;ADM;IPFV
+lexoj	do të kishte lexuar	V;3;SG;COND;PRF
+fërkoj	fërkojnë	V;3;PL;IND;PRS
+luftoj	luftuakemi	V;1;PL;ADM;PRS
+abuzoj	paskësh abuzuar	V;3;SG;ADM;PRF;PST
+ha	të haja	V;1;SG;SBJV;PST
+veçoj	pata veçuar	V;1;SG;IND;PRF;PST
+ndih	keni ndihur	V;2;PL;IND;PRF
+rri	do të rrini	V;2;PL;IND;FUT
+bashkëndodhi	bashkëndodhive	N;GEN;PL;NDEF
+institucion	institucioneve	N;DAT;PL;DEF
+sajoj	kam sajuar	V;1;SG;IND;PRF
+kronologji	kronologji	N;NOM;SG;NDEF
+njoftoj	pata njoftuar	V;1;SG;IND;PRF;PST
+dhunoj	dhunuakëshit	V;2;PL;ADM;IPFV
+shkërdhej	të shkërdhejë	V;3;SG;SBJV;PRS
+kuptoj	të kuptoj	V;1;SG;SBJV;PRS
+fsheh	fsheh	V;2;SG;IND;PRS
+mbarohem	mbarohem	V;1;SG;IND;PRS
+tempull	tempullit	N;GEN;SG;DEF
+lakuriqësi	lakuriqësisë	N;GEN;SG;DEF
+ofendoj	të ofendoni	V;2;PL;SBJV;PRS
+krahasoj	të krahasojmë	V;1;PL;SBJV;PRS
+ereksion	ereksioni	N;NOM;SG;DEF
+vazhdoj	të kemi vazhduar	V;1;PL;SBJV;PRF
+ofendoj	të kishte ofenduar	V;3;SG;SBJV;PRF;PST
+kam	do të kishin	V;3;PL;COND;PRS
+asgjësoj	të asgjësoni	V;2;PL;SBJV;PRS
+mbroj	mbrove	V;2;SG;IND;PST
+sqaroj	sqaruar	V;V.PTCP
+zoologji	zoologjisë	N;GEN;SG;DEF
+muskul	muskujve	N;GEN;PL;DEF
+jetoj	të jetojnë	V;3;PL;SBJV;PRS
+bioteknologji	bioteknologjie	N;ABL;SG;NDEF
+gëzoj	të gëzoj	V;1;SG;SBJV;PRS
+palloj	palluake	V;2;SG;ADM;PRS
+thaj	thanim	V;1;PL;IND;IPFV
+vij	paskëshe ardhur	V;2;SG;ADM;PRF;PST
+duroj	duronin	V;3;PL;IND;IPFV
+dhuroj	të kem dhuruar	V;1;SG;SBJV;PRF
+bashkëveprim	bashkëveprimit	N;GEN;SG;DEF
+shtegtoj	paça shtegtuar	V;1;SG;OPT;PRF
+kundërthem	kundërthënçin	V;3;PL;OPT;PRS
+njoftoj	të kem njoftuar	V;1;SG;SBJV;PRF
+asgjësoj	paskësha asgjësuar	V;1;SG;ADM;PRF;PST
+kulturë	kulturave	N;DAT;PL;NDEF
+zhvillohem	do të jem zhvilluar	V;1;SG;IND;PRF;FUT
+mas	kemi matur	V;1;PL;IND;PRF
+lidh	paskan lidhur	V;3;PL;ADM;PRF
+sulmohem	të sulmoheshit	V;2;PL;SBJV;PST
+afrohem	afrohesh	V;2;SG;IND;PRS
+parapëlqej	parapëlqyeke	V;2;SG;ADM;PRS
+demokraci	demokracie	N;DAT;SG;NDEF
+abdikoj	abdikuakan	V;3;PL;ADM;PRS
+lëpij	do të lëpinim	V;1;PL;COND;PRS
+zgjedh	të kem zgjedhur	V;1;SG;SBJV;PRF
+iki	ikish	V;2;SG;OPT;PRS
+shpallje	shpalljeje	N;GEN;SG;NDEF
+plagoj	të kenë plaguar	V;3;PL;SBJV;PRF
+fiziolog	fiziologut	N;DAT;SG;DEF
+rri	do të kesh ndenjur	V;2;SG;IND;PRF;FUT
+zbeh	zbehshin	V;3;PL;OPT;PRS
+keqkuptoj	paçit keqkuptuar	V;2;PL;OPT;PRF
+ofendoj	paçin ofenduar	V;3;PL;OPT;PRF
+bisedoj	bisedofsh	V;2;SG;OPT;PRS
+numër	numri	N;DAT;SG;NDEF
+ngacmoj	paçit ngacmuar	V;2;PL;OPT;PRF
+absorboj	do të absorbojmë	V;1;PL;IND;FUT
+shtyp	të shtypja	V;1;SG;SBJV;PST
+përkthim	përkthimeve	N;GEN;PL;DEF
+konsistoj	do të konsistoja	V;1;SG;COND;PRS
+shurrohem	të ishit shurruar	V;2;PL;SBJV;PRF;PRF
+armatos	do të armatosësh	V;2;SG;IND;FUT
+lëshoj	pastë lëshuar	V;3;SG;OPT;PRF
+hoxhë	hoxhë	N;ACC;SG;NDEF
+zhvirgjërohem	të zhvirgjërohesha	V;1;SG;SBJV;PST
+udhëtoj	udhëtonim	V;1;PL;IND;IPFV
+afrohem	të jeni afruar	V;2;PL;SBJV;PRF
+jam	do të ishin	V;3;PL;COND;PRS
+gjuhë	gjuha	N;NOM;SG;DEF
+jap	do të kishim dhënë	V;1;PL;COND;PRF
+ngacmoj	ngacmuakëshit	V;2;PL;ADM;IPFV
+ngacmoj	ngacmoj	V;1;SG;IND;PRS
+strukturë	strukturave	N;DAT;PL;DEF
+shtyp	shtypi	V;3;SG;IND;PST
+veçoj	paçin veçuar	V;3;PL;OPT;PRF
+ngre	ngrittë	V;3;SG;OPT;PRS
+punësoj	paskëshim punësuar	V;1;PL;ADM;PRF;PST
+shkëlqej	të kesh shkëlqyer	V;2;SG;SBJV;PRF
+biseksual	biseksuali	N;NOM;SG;DEF
+pshurr	pshurr	V;2;SG;IMP
+ndih	ndihsha	V;1;SG;OPT;PRS
+relaksohem	të jemi relaksuar	V;1;PL;SBJV;PRF
+gropë	gropën	N;ACC;SG;DEF
+hardhucë	hardhucës	N;GEN;SG;DEF
+krahasoj	krahason	V;2;SG;IND;PRS
+themeloj	të kisha themeluar	V;1;SG;SBJV;PRF;PST
+abrogoj	abrogofshin	V;3;PL;OPT;PRS
+trëndafil	trëndafila	N;NOM;PL;NDEF
+injoroj	pate injoruar	V;2;SG;IND;PRF;PST
+bëhem	do të jetë bërë	V;3;SG;IND;PRF;FUT
+krahasoj	të kesh krahasuar	V;2;SG;SBJV;PRF
+pshurr	të pshurrnit	V;2;PL;SBJV;PST
+gjithësi	gjithësinë	N;ACC;SG;DEF
+shigjetë	shigjetave	N;ABL;PL;DEF
+bekoj	paskeni bekuar	V;2;PL;ADM;PRF
+gjylpanë	gjylpanës	N;GEN;SG;DEF
+lezbike	lezbikes	N;ABL;SG;DEF
+dermatologji	dermatologjie	N;ABL;SG;NDEF
+udhëtoj	do të udhëtojë	V;3;SG;IND;FUT
+ngre	ngrita	V;1;SG;IND;PST
+shpif	patët shpifur	V;2;PL;IND;PRF;PRF
+kalë	kali	N;GEN;SG;NDEF
+kurriz	kurrizit	N;ABL;SG;DEF
+provoj	duke provuar	V;V.PTCP;PRS
+emën	emnave	N;ABL;PL;DEF
+pastroj	pastronin	V;3;PL;IND;IPFV
+fërgoj	paçit fërguar	V;2;PL;OPT;PRF
+afrohem	të afroheni	V;2;PL;SBJV;PRS
+mbuloj	të kishit mbuluar	V;2;PL;SBJV;PRF;PRF
+ndryshoj	ndrysho	V;2;SG;IMP
+bretkosë	bretkosa	N;NOM;SG;DEF
+vrimë	vrimat	N;ACC;PL;DEF
+merimangë	merimange	N;GEN;SG;NDEF
+shtyp	të shtypnim	V;1;PL;SBJV;PST
+shqiptar	shqiptar	N;NOM;SG;NDEF
+gjuhësi	gjuhësia	N;NOM;SG;DEF
+hap	për të hapur	V;NFIN
+njoftoj	të kisha njoftuar	V;1;SG;SBJV;PRF;PST
+rrepë	rrepave	N;DAT;PL;DEF
+përdor	të ketë përdorur	V;3;SG;SBJV;PRF
+mbuloj	do të kishte mbuluar	V;3;SG;COND;PRF
+asnjanësoj	ka asnjanësuar	V;3;SG;IND;PRF
+zhvillohem	të zhvillohesha	V;1;SG;SBJV;PST
+shkëlqej	do të shkëlqenit	V;2;PL;COND;PRS
+miqësohem	të jem miqësuar	V;1;SG;SBJV;PRF
+zhvirgjërohem	të zhvirgjërohet	V;3;SG;SBJV;PRS
+rrezik	rrezik	N;ACC;SG;NDEF
+rri	të rrinit	V;2;PL;SBJV;PST
+shkëlqej	shkëlqen	V;3;SG;IND;PRS
+harroj	do të kishte harruar	V;3;SG;COND;PRF
+plagoj	kemi plaguar	V;1;PL;IND;PRF
+degjoj	të degjonin	V;3;PL;SBJV;PST
+përdor	përdorke	V;2;SG;ADM;PRS
+rrepë	rrepën	N;ACC;SG;DEF
+ngre	paskeni ngritur	V;2;PL;ADM;PRF
+ndihmoj	do të ndihmonin	V;3;PL;COND;PRS
+muskul	muskujt	N;NOM;PL;DEF
+trishtohem	do të jetë trishtuar	V;3;SG;IND;PRF;FUT
+masturbohem	do të ishe masturbuar	V;2;SG;COND;PRF
+ndaj	ndan	V;2;SG;IND;PRS
+fe	feve	N;ABL;PL;DEF
+fortësi	fortësive	N;ABL;PL;DEF
+krijoj	krijuake	V;2;SG;ADM;PRS
+dhuroj	do të kem dhuruar	V;1;SG;IND;PRF;FUT
+gjuhësi	gjuhësisë	N;DAT;SG;DEF
+masturbohem	do të masturboheshit	V;2;PL;COND;PRS
+zbeh	zbeh	V;3;SG;IND;PRS
+shpif	të kishte shpifur	V;3;SG;SBJV;PRF;PST
+fsheh	paçim fshehur	V;1;PL;OPT;PRF
+qaj	qakeni	V;2;PL;ADM;PRS
+ofendoj	do të kishim ofenduar	V;1;PL;COND;PRF
+nderoj	do të kesh nderuar	V;2;SG;IND;PRF;FUT
+provoj	do të kishe provuar	V;2;SG;COND;PRF
+sodomizoj	do të keni sodomizuar	V;2;PL;IND;PRF;FUT
+krah	krahëve	N;GEN;PL;NDEF
+lidh	lidhnit	V;2;PL;IND;IPFV
+grumbulloj	do të grumbullonin	V;3;PL;COND;PRS
+nderoj	do të ketë nderuar	V;3;SG;IND;PRF;FUT
+dërmoj	dërmoftë	V;3;SG;OPT;PRS
+kundërshtoj	kundërshtuakëshim	V;1;PL;ADM;IPFV
+mënyrë	mënyra	N;ACC;PL;NDEF
+çlirohem	të çlirohem	V;1;SG;SBJV;PRS
+ndaloj	paçin ndaluar	V;3;PL;OPT;PRF
+punëtor	punëtorit	N;DAT;SG;DEF
+arësyetoj	do të kenë arësyetuar	V;3;PL;IND;PRF;FUT
+pastroj	pastrofshin	V;3;PL;OPT;PRS
+duroj	të kishe duruar	V;2;SG;SBJV;PRF;PST
+vrimë e zezë	vrima të zeza	N;NOM;PL;NDEF
+stimuloj	kemi stimuluar	V;1;PL;IND;PRF
+zbukuroj	zbukuroni	V;2;PL;IND;PRS
+lë	do të linit	V;2;PL;COND;PRS
+punësoj	të punësonte	V;3;SG;SBJV;PST
+lë	të ketë lënë	V;3;SG;SBJV;PRF
+dërmoj	paskeni dërmuar	V;2;PL;ADM;PRF
+masturboj	masturbojmë	V;1;PL;IND;PRS
+urinoj	urinuake	V;2;SG;ADM;PRS
+armatos	do të armatos	V;1;SG;IND;FUT
+luftoj	paskëshit luftuar	V;2;PL;ADM;PRF;PRF
+jap	jep	V;3;SG;IND;PRS
+vazhdoj	paskësh vazhduar	V;3;SG;ADM;PRF;PST
+pasqyrë	pasqyrave	N;GEN;PL;NDEF
+njeri	njerëzish	N;ABL;PL;NDEF
+filxhan	filxhanëve	N;DAT;PL;NDEF
+keqkuptoj	keqkuptoje	V;2;SG;IND;IPFV
+ngjitem	të ngjitet	V;3;SG;SBJV;PRS
+qortoj	paskemi qortuar	V;1;PL;ADM;PRF
+punësoj	paskeni punësuar	V;2;PL;ADM;PRF
+organizoj	organizonin	V;3;PL;IND;IPFV
+lule	luleje	N;DAT;SG;NDEF
+ndal	ndalkëshim	V;1;PL;ADM;IPFV
+vij	ardhke	V;2;SG;ADM;PRS
+imam	imamëve	N;DAT;PL;DEF
+përfitoj	përfiton	V;3;SG;IND;PRS
+parapëlqej	kemi parapëlqyer	V;1;PL;IND;PRF
+zhvirgjërim	zhvirgjërimet	N;NOM;PL;DEF
+pornografi	pornografinë	N;ACC;SG;DEF
+numër	numrat	N;NOM;PL;DEF
+gjeografi	gjeografie	N;DAT;SG;NDEF
+drejtim	drejtimeve	N;GEN;PL;DEF
+lëpij	lëpirë	V;V.PTCP
+shoh	paskëshit parë	V;2;PL;ADM;PRF;PRF
+gjylpanë	gjylpane	N;GEN;SG;NDEF
+fsheh	fshehni	V;2;PL;IND;PRS
+mësohem	mësoheshit	V;2;PL;IND;IPFV
+vampir	vampirët	N;ACC;PL;DEF
+ndaloj	ndaluake	V;2;SG;ADM;PRS
+fërgoj	fërguakam	V;1;SG;ADM;PRS
+mbuloj	paske mbuluar	V;2;SG;ADM;PRF
+propozoj	propozoje	V;2;SG;IND;IPFV
+dhemb	të kishim dhembur	V;1;PL;SBJV;PRF;PST
+degjoj	degjuakëshit	V;2;PL;ADM;IPFV
+argëtoj	kam argëtuar	V;1;SG;IND;PRF
+absorboj	paske absorbuar	V;2;SG;ADM;PRF
+dhunoj	do të kishe dhunuar	V;2;SG;COND;PRF
+zgjohem	zgjoheni	V;2;PL;IND;PRS
+zgjohem	do të jem zgjuar	V;1;SG;IND;PRF;FUT
+rënkoj	rënkuat	V;2;PL;IND;PST
+hierarki	hierarkisë	N;GEN;SG;DEF
+arratisem	janë arratisuar	V;3;PL;IND;PRF
+çlirohem	do të jeni çliruar	V;2;PL;IND;PRF;FUT
+qortoj	keni qortuar	V;2;PL;IND;PRF
+miqësohem	qenkëshit miqësuar	V;2;PL;ADM;PRF;PRF
+përsos	përsosur	V;V.PTCP
+dorëzohem	qenka dorëzuar	V;3;SG;ADM;PRF
+mbuloj	mbuluakam	V;1;SG;ADM;PRS
+faturë	fature	N;ABL;SG;NDEF
+sakrifikoj	paska sakrifikuar	V;3;SG;ADM;PRF
+mbaroj	do të kesh mbaruar	V;2;SG;IND;PRF;FUT
+shkatërroj	shkatërruakësha	V;1;SG;ADM;IPFV
+përgjithësoj	përgjithësuaka	V;3;SG;ADM;PRS
+trëndafil	trëndafilave	N;DAT;PL;DEF
+bisedoj	biseduakësha	V;1;SG;ADM;IPFV
+dërgoj	të dërgoni	V;2;PL;SBJV;PRS
+bioteknologji	bioteknologjie	N;GEN;SG;NDEF
+bythë	bythëve	N;GEN;PL;DEF
+shurroj	të shurrojnë	V;3;PL;SBJV;PRS
+dëmtoj	dëmtuakëshim	V;1;PL;ADM;IPFV
+kombësi	kombësitë	N;NOM;PL;DEF
+skllavëroj	skllavëruakan	V;3;PL;ADM;PRS
+urim	urimit	N;DAT;SG;DEF
+jetoj	ka jetuar	V;3;SG;IND;PRF
+dëmtoj	dëmtoi	V;3;SG;IND;PST
+bëhem	u bëfsha	V;1;SG;OPT;PRS
+ngrij	patëm ngrirë	V;1;PL;IND;PRF;PST
+themeloj	të themeloje	V;2;SG;SBJV;PST
+vjeshtë	vjeshtave	N;ABL;PL;DEF
+përkthim	përkthimit	N;DAT;SG;DEF
+shtrembëroj	shtrembërova	V;1;SG;IND;PST
+harroj	duke harruar	V;V.PTCP;PRS
+mysliman	myslimanë	N;ACC;PL;NDEF
+mardh	do të mardhin	V;3;PL;IND;FUT
+ndaloj	ndaloje	V;2;SG;IND;IPFV
+heteroseksualitet	heteroseksualiteti	N;ABL;SG;NDEF
+zgjedh	do të zgjedhin	V;3;PL;IND;FUT
+shkollë	shkolla	N;NOM;SG;DEF
+miqësohem	u miqësuaka	V;3;SG;ADM;PRS
+fushatë	fushatës	N;GEN;SG;DEF
+hap	do të hapnim	V;1;PL;COND;PRS
+ngrij	të kishim ngrirë	V;1;PL;SBJV;PRF;PST
+krahasoj	keni krahasuar	V;2;PL;IND;PRF
+daj	pate darë	V;2;SG;IND;PRF;PST
+njoftoj	do të njoftosh	V;2;SG;IND;FUT
+pshurr	kanë pshurrur	V;3;PL;IND;PRF
+kërkoj	kërkuakëshit	V;2;PL;ADM;IPFV
+sulmohem	sulmohesh	V;2;SG;IND;PRS
+ndërlikoj	do të ndërlikoj	V;1;SG;IND;FUT
+shpall	të kemi shpallur	V;1;PL;SBJV;PRF
+shkretoj	të kesh shkretuar	V;2;SG;SBJV;PRF
+vij	të kishte ardhur	V;3;SG;SBJV;PRF;PST
+ligjëroj	të ligjërosh	V;2;SG;SBJV;PRS
+parapëlqej	të parapëlqejnë	V;3;PL;SBJV;PRS
+admiroj	paskëshim admiruar	V;1;PL;ADM;PRF;PST
+dhunoj	pata dhunuar	V;1;SG;IND;PRF;PST
+zbeh	zbehin	V;3;PL;IND;PRS
+tërësi	tërësisë	N;GEN;SG;DEF
+përdor	paska përdorur	V;3;SG;ADM;PRF
+zgjedh	paskam zgjedhur	V;1;SG;ADM;PRF
+flamur	flamurëve	N;ABL;PL;DEF
+vrimë	vrima	N;NOM;PL;NDEF
+gjarpër	gjarpërit	N;GEN;SG;DEF
+histori	histori	N;NOM;SG;NDEF
+ndihmoj	do të kishe ndihmuar	V;2;SG;COND;PRF
+kundërshtoj	duke kundërshtuar	V;V.PTCP;PRS
+shkërdhej	do të shkërdhenin	V;3;PL;COND;PRS
+çifut	çifutë	N;NOM;PL;NDEF
+ligjëroj	të ketë ligjëruar	V;3;SG;SBJV;PRF
+admiroj	admiro	V;2;SG;IMP
+nderoj	do të nderonim	V;1;PL;COND;PRS
+urinoj	urinoje	V;2;SG;IND;IPFV
+sëmundje	sëmundjes	N;GEN;SG;DEF
+nënkuptoj	të nënkuptonim	V;1;PL;SBJV;PST
+lëshoj	të kishin lëshuar	V;3;PL;SBJV;PRF;PST
+shkretoj	paskësha shkretuar	V;1;SG;ADM;PRF;PST
+vazhdoj	do të kishe vazhduar	V;2;SG;COND;PRF
+them	kam thënë	V;1;SG;IND;PRF
+bëj	bëftë	V;3;SG;OPT;PRS
+absorboj	do të absorboni	V;2;PL;IND;FUT
+dorëzohem	dorëzohesh	V;2;SG;IND;PRS
+rrezikoj	paskëshin rrezikuar	V;3;PL;ADM;PRF;PST
+provoj	provoja	V;1;SG;IND;IPFV
+prapanicë	prapanice	N;ABL;SG;NDEF
+peshohem	ishit peshuar	V;2;PL;IND;PRF;PRF
+abstenoj	paçim abstenuar	V;1;PL;OPT;PRF
+lexoj	lexofsh	V;2;SG;OPT;PRS
+zhvillohem	qoftë zhvilluar	V;3;SG;OPT;PRF
+uroj	paçin uruar	V;3;PL;OPT;PRF
+prek	paskësh prekur	V;3;SG;ADM;PRF;PST
+seksolog	seksologëve	N;DAT;PL;NDEF
+astronomi	astronomisë	N;DAT;SG;DEF
+sulmohem	u sulmuakemi	V;1;PL;ADM;PRS
+ngacmoj	do të kishe ngacmuar	V;2;SG;COND;PRF
+mbroj	mbroni	V;2;PL;IND;PRS
+relaksohem	relaksohesha	V;1;SG;IND;IPFV
+rri	ndenjkësh	V;3;SG;ADM;IPFV
+kërkoj	ka kërkuar	V;3;SG;IND;PRF
+dhunoj	paskeni dhunuar	V;2;PL;ADM;PRF
+shikoj	të shikonte	V;3;SG;SBJV;PST
+peshohem	do të peshoheni	V;2;PL;IND;FUT
+ndihmoj	do të keni ndihmuar	V;2;PL;IND;PRF;FUT
+ngjitem	për t'u ngjituar	V;NFIN
+duroj	duruaka	V;3;SG;ADM;PRS
+përparoj	përparuakam	V;1;SG;ADM;PRS
+lexoj	të lexoj	V;1;SG;SBJV;PRS
+injorohem	do të injorohesh	V;2;SG;IND;FUT
+asnjanësoj	të asnjanësonit	V;2;PL;SBJV;PST
+adhuroj	do të adhuroje	V;2;SG;COND;PRS
+mësohem	jeni mësuar	V;2;PL;IND;PRF
+kurriz	kurrizëve	N;DAT;PL;DEF
+abrogoj	do të keni abroguar	V;2;PL;IND;PRF;FUT
+ndal	paçit ndalur	V;2;PL;OPT;PRF
+bashkëpunoj	të kenë bashkëpunuar	V;3;PL;SBJV;PRF
+ndal	do të ndalte	V;3;SG;COND;PRS
+masturboj	masturbofshim	V;1;PL;OPT;PRS
+këmbë	këmbe	N;DAT;SG;NDEF
+hap	të ketë hapur	V;3;SG;SBJV;PRF
+notoj	të kesh notuar	V;2;SG;SBJV;PRF
+ofendoj	ofenduakan	V;3;PL;ADM;PRS
+shtrembëroj	do të kishim shtrembëruar	V;1;PL;COND;PRF
+lexoj	lexuakam	V;1;SG;ADM;PRS
+njoftim	njoftimit	N;DAT;SG;DEF
+shtegtoj	të shtegtojnë	V;3;PL;SBJV;PRS
+zbuloj	paça zbuluar	V;1;SG;OPT;PRF
+përgjithësoj	do të ketë përgjithësuar	V;3;SG;IND;PRF;FUT
+zbukuroj	zbukuruakëshin	V;3;PL;ADM;IPFV
+afirmoj	të kenë afirmuar	V;3;PL;SBJV;PRF
+ngjitem	ngjitesh	V;2;SG;IND;PRS
+harroj	të kemi harruar	V;1;PL;SBJV;PRF
+ndal	të kesh ndalur	V;2;SG;SBJV;PRF
+lidh	lidhët	V;2;PL;IND;PST
+fitore	fitoren	N;ACC;SG;DEF
+kërkoj	kërkuakësha	V;1;SG;ADM;IPFV
+urinë	urine	N;DAT;SG;NDEF
+jap	do të ketë dhënë	V;3;SG;IND;PRF;FUT
+reagim	reagimet	N;ACC;PL;DEF
+thek	do të ketë thekur	V;3;SG;IND;PRF;FUT
+reagoj	paska reaguar	V;3;SG;ADM;PRF
+ndryshim	ndryshimi	N;GEN;SG;NDEF
+afirmoj	paça afirmuar	V;1;SG;OPT;PRF
+prek	të prekin	V;3;PL;SBJV;PRS
+shuaj	do të shuajte	V;3;SG;COND;PRS
+shqyptar	shqyptari	N;ABL;SG;NDEF
+bekoj	do të kem bekuar	V;1;SG;IND;PRF;FUT
+degjoj	degjofshim	V;1;PL;OPT;PRS
+urroj	urruam	V;1;PL;IND;PST
+dashuroj	ka dashuruar	V;3;SG;IND;PRF
+ngjitem	qenkeni ngjituar	V;2;PL;ADM;PRF
+mbretëri	mbretëritë	N;NOM;PL;DEF
+shurroj	paska shurruar	V;3;SG;ADM;PRF
+shpall	do të ketë shpallur	V;3;SG;IND;PRF;FUT
+morfologji	morfologjive	N;GEN;PL;NDEF
+ngjitem	është ngjituar	V;3;SG;IND;PRF
+zbukuroj	do të zbukurojnë	V;3;PL;IND;FUT
+dhunoj	dhunuat	V;2;PL;IND;PST
+ëndërroj	paçim ëndërruar	V;1;PL;OPT;PRF
+themeloj	do të themelonin	V;3;PL;COND;PRS
+njoftoj	të kishin njoftuar	V;3;PL;SBJV;PRF;PST
+tërheq	të kishit tërhequr	V;2;PL;SBJV;PRF;PRF
+plagoj	të plagonte	V;3;SG;SBJV;PST
+sakrifikoj	sakrifikofsh	V;2;SG;OPT;PRS
+masturboj	për të masturbuar	V;NFIN
+delfin	delfineve	N;DAT;PL;DEF
+zbukuroj	të kishit zbukuruar	V;2;PL;SBJV;PRF;PRF
+ngjyrë	ngjyre	N;ABL;SG;NDEF
+qortoj	paske qortuar	V;2;SG;ADM;PRF
+kurvë	kurvës	N;ABL;SG;DEF
+dashuroj	do të kishin dashuruar	V;3;PL;COND;PRF
+gjakmarrje	gjakmarrjes	N;DAT;SG;DEF
+krijoj	do të kishim krijuar	V;1;PL;COND;PRF
+ngjitem	duke u ngjituar	V;V.PTCP;PRS
+forcë	forcën	N;ACC;SG;DEF
+përkufizoj	përkufizojnë	V;3;PL;IND;PRS
+masturboj	patëm masturbuar	V;1;PL;IND;PRF;PST
+jap	dhënçit	V;2;PL;OPT;PRS
+lëpij	të lëpinte	V;3;SG;SBJV;PST
+komunikoj	paskëshin komunikuar	V;3;PL;ADM;PRF;PST
+pompoj	për të pompuar	V;NFIN
+propozoj	do të kemi propozuar	V;1;PL;IND;PRF;FUT
+besoj	paçin besuar	V;3;PL;OPT;PRF
+shfuqizoj	shfuqizuake	V;2;SG;ADM;PRS
+peshohem	u peshofshin	V;3;PL;OPT;PRS
+mësohem	u mësoftë	V;3;SG;OPT;PRS
+thaj	thafshim	V;1;PL;OPT;PRS
+keqkuptoj	do të keqkuptoni	V;2;PL;IND;FUT
+qëndroj	do të kem qëndruar	V;1;SG;IND;PRF;FUT
+çlirohem	do të ishit çliruar	V;2;PL;COND;PRF
+bëhem	qofshin bërë	V;3;PL;OPT;PRF
+shtrembërim	shtrembërimit	N;ABL;SG;DEF
+lyp	paska lypur	V;3;SG;ADM;PRF
+shpresoj	keni shpresuar	V;2;PL;IND;PRF
+qëndroj	paskësha qëndruar	V;1;SG;ADM;PRF;PST
+farmakologji	farmakologjisë	N;ABL;SG;DEF
+shpjegoj	të shpjegojnë	V;3;PL;SBJV;PRS
+çliroj	çlirofshin	V;3;PL;OPT;PRS
+palloj	paç palluar	V;2;SG;OPT;PRF
+ëndërroj	do të kisha ëndërruar	V;1;SG;COND;PRF
+përkthej	do të përkthenim	V;1;PL;COND;PRS
+veçanti	veçantitë	N;ACC;PL;DEF
+njoftoj	paçim njoftuar	V;1;PL;OPT;PRF
+mësoj	të kishte mësuar	V;3;SG;SBJV;PRF;PST
+parapëlqej	parapëlqe	V;2;SG;IMP
+liri	lirive	N;GEN;PL;DEF
+urinoj	të kishim urinuar	V;1;PL;SBJV;PRF;PST
+heteroseksualitet	heteroseksualitetit	N;ABL;SG;DEF
+zbukuroj	do të zbukuronit	V;2;PL;COND;PRS
+kërcej	kërcenit	V;2;PL;IND;IPFV
+filloj	të kishte filluar	V;3;SG;SBJV;PRF;PST
+injoroj	injorofshim	V;1;PL;OPT;PRS
+dërgoj	të kishit dërguar	V;2;PL;SBJV;PRF;PRF
+iki	iki	V;2;SG;IND;PRS
+gjenealogji	gjenealogji	N;NOM;SG;NDEF
+krahasim	krahasimeve	N;GEN;PL;DEF
+mbuloj	mbulonin	V;3;PL;IND;IPFV
+miqësohem	do të miqësoheshe	V;2;SG;COND;PRS
+mendoj	të mendonit	V;2;PL;SBJV;PST
+gëzoj	të gëzonit	V;2;PL;SBJV;PST
+provoj	provonim	V;1;PL;IND;IPFV
+shkëlqej	duke shkëlqyer	V;V.PTCP;PRS
+takoj	të kishit takuar	V;2;PL;SBJV;PRF;PRF
+dhuratë	dhuratave	N;GEN;PL;DEF
+admiroj	admirofsh	V;2;SG;OPT;PRS
+arsimoj	arsimojnë	V;3;PL;IND;PRS
+uroj	të uroje	V;2;SG;SBJV;PST
+notoj	paç notuar	V;2;SG;OPT;PRF
+sqaroj	do të kishe sqaruar	V;2;SG;COND;PRF
+lëshoj	do të kisha lëshuar	V;1;SG;COND;PRF
+flirtoj	paç flirtuar	V;2;SG;OPT;PRF
+iki	ikikeni	V;2;PL;ADM;PRS
+urroj	urroja	V;1;SG;IND;IPFV
+sajoj	do të sajosh	V;2;SG;IND;FUT
+kundërthem	kundërthoshin	V;3;PL;IND;IPFV
+dhunoj	dhunoja	V;1;SG;IND;IPFV
+degjoj	të keni degjuar	V;2;PL;SBJV;PRF
+uroj	të kishte uruar	V;3;SG;SBJV;PRF;PST
+adhuroj	adhuruake	V;2;SG;ADM;PRS
+dëshiroj	paskemi dëshiruar	V;1;PL;ADM;PRF
+qendër	qendrave	N;GEN;PL;NDEF
+përdor	paskëshim përdorur	V;1;PL;ADM;PRF;PST
+përgjithësim	përgjithësimi	N;ABL;SG;NDEF
+tërheq	do të tërhiqte	V;3;SG;COND;PRS
+hidhërohem	të jenë hidhëruar	V;3;PL;SBJV;PRF
+lëshoj	paskësh lëshuar	V;3;SG;ADM;PRF;PST
+miqësohem	u miqësova	V;1;SG;IND;PST
+ndryshoj	ndryshuakeni	V;2;PL;ADM;PRS
+tërheq	të kisha tërhequr	V;1;SG;SBJV;PRF;PST
+hap	paskëshit hapur	V;2;PL;ADM;PRF;PRF
+sakrifikoj	sakrifikoni	V;2;PL;IND;PRS
+qëndroj	do të qëndrosh	V;2;SG;IND;FUT
+propozoj	propozuakëshit	V;2;PL;ADM;IPFV
+ligjëroj	ligjëruat	V;2;PL;IND;PST
+sakrifikoj	sakrifikuan	V;3;PL;IND;PST
+propozoj	do të propozonit	V;2;PL;COND;PRS
+komunikoj	do të komunikonim	V;1;PL;COND;PRS
+provoj	provofshin	V;3;PL;OPT;PRS
+masturbohem	qenke masturbuar	V;2;SG;ADM;PRF
+reagoj	paskëshin reaguar	V;3;PL;ADM;PRF;PST
+kundërthem	kundërthënkëshit	V;2;PL;ADM;IPFV
+përkufizoj	përkufizonit	V;2;PL;IND;IPFV
+apologji	apologjitë	N;ACC;PL;DEF
+filloj	paskëshit filluar	V;2;PL;ADM;PRF;PRF
+astrobiolog	astrobiologët	N;ACC;PL;DEF
+them	the	V;2;SG;IND;PST
+preferoj	preferoje	V;2;SG;IND;IPFV
+qaj	duke pasë qarë	V;V.PTCP;PST
+kërkesë	kërkesash	N;ABL;PL;NDEF
+planet	planete	N;NOM;PL;NDEF
+kam	paska pasur	V;3;SG;ADM;PRF
+dëmtoj	dëmtofsh	V;2;SG;OPT;PRS
+abstenoj	do të abstenonte	V;3;SG;COND;PRS
+thek	keni thekur	V;2;PL;IND;PRF
+ligjëroj	të ligjërojmë	V;1;PL;SBJV;PRS
+ofendoj	ofenduakësh	V;3;SG;ADM;IPFV
+ndërlikoj	do të ndërlikonim	V;1;PL;COND;PRS
+peshkaqen	peshkaqenet	N;NOM;PL;DEF
+urroj	paskësh urruar	V;3;SG;ADM;PRF;PST
+besoj	pate besuar	V;2;SG;IND;PRF;PST
+tërheq	të tërhiqnit	V;2;PL;SBJV;PST
+ndryshohem	të ndryshohesha	V;1;SG;SBJV;PST
+përsos	patën përsosur	V;3;PL;IND;PRF;PST
+udhëzoj	udhëzuat	V;2;PL;IND;PST
+shkak	shkak	N;ACC;SG;NDEF
+përkufizoj	përkufizojmë	V;1;PL;IND;PRS
+perineum	perineumi	N;ABL;SG;NDEF
+absorboj	absorbuam	V;1;PL;IND;PST
+masturbohem	do të jesh masturbuar	V;2;SG;IND;PRF;FUT
+lëpij	të lëpinit	V;2;PL;SBJV;PST
+urinoj	urinuakëshe	V;2;SG;ADM;IPFV
+mas	matkësh	V;3;SG;ADM;IPFV
+kurvë	kurve	N;DAT;SG;NDEF
+hap	do të hapësh	V;2;SG;IND;FUT
+shpif	do të kishe shpifur	V;2;SG;COND;PRF
+vazhdoj	vazhduakësha	V;1;SG;ADM;IPFV
+krijoj	krijuakan	V;3;PL;ADM;PRS
+ofendoj	ofendoftë	V;3;SG;OPT;PRS
+delfin	delfinet	N;NOM;PL;DEF
+ndih	ndihshit	V;2;PL;OPT;PRS
+pompoj	do të pompojnë	V;3;PL;IND;FUT
+përkthej	do të përktheni	V;2;PL;IND;FUT
+lë	pati lënë	V;3;SG;IND;PRF;PST
+jetoj	do të ketë jetuar	V;3;SG;IND;PRF;FUT
+zbukuroj	zbukuroni	V;2;PL;IMP
+mas	të kem matur	V;1;SG;SBJV;PRF
+mirësoj	mirësofshim	V;1;PL;OPT;PRS
+mbroj	paçit mbruar	V;2;PL;OPT;PRF
+zgjoj	do të zgjonit	V;2;PL;COND;PRS
+armatos	pata armatosur	V;1;SG;IND;PRF;PST
+qaj	do të keni qarë	V;2;PL;IND;PRF;FUT
+bëhem	qenkëshin bërë	V;3;PL;ADM;PRF;PST
+ndal	të kishim ndalur	V;1;PL;SBJV;PRF;PST
+dhuroj	paske dhuruar	V;2;SG;ADM;PRF
+takoj	takova	V;1;SG;IND;PST
+ndih	paskam ndihur	V;1;SG;ADM;PRF
+kafshoj	kafshuakan	V;3;PL;ADM;PRS
+puth	puthke	V;2;SG;ADM;PRS
+mësoj	paskeni mësuar	V;2;PL;ADM;PRF
+kundërshtoj	të kundërshtoj	V;1;SG;SBJV;PRS
+mirësoj	të kishte mirësuar	V;3;SG;SBJV;PRF;PST
+rri	të kesh ndenjur	V;2;SG;SBJV;PRF
+ndih	ndihkëshit	V;2;PL;ADM;IPFV
+fsheh	të kishin fshehur	V;3;PL;SBJV;PRF;PST
+zhvirgjërohem	qenkam zhvirgjëruar	V;1;SG;ADM;PRF
+përparoj	të përparonte	V;3;SG;SBJV;PST
+sakrifikoj	sakrifikoj	V;1;SG;IND;PRS
+liqen	liqenesh	N;ABL;PL;NDEF
+thek	të kenë thekur	V;3;PL;SBJV;PRF
+prish	prishtë	V;3;SG;OPT;PRS
+shkatërroj	kam shkatërruar	V;1;SG;IND;PRF
+rrugë	rrugës	N;DAT;SG;DEF
+fërgoj	pata fërguar	V;1;SG;IND;PRF;PST
+bisedoj	do të bisedojnë	V;3;PL;IND;FUT
+punësohem	do të isha punësuar	V;1;SG;COND;PRF
+justifikoj	justifikoi	V;3;SG;IND;PST
+ndihmoj	duke pasë ndihmuar	V;V.PTCP;PST
+punësohem	ishim punësuar	V;1;PL;IND;PRF;PST
+njeri	njeriu	N;ABL;SG;NDEF
+birë	birës	N;GEN;SG;DEF
+ofendoj	do të kishin ofenduar	V;3;PL;COND;PRF
+zbuloj	të zbuloje	V;2;SG;SBJV;PST
+udhëtoj	udhëtofsha	V;1;SG;OPT;PRS
+dëshiroj	dëshiruakësh	V;3;SG;ADM;IPFV
+shikoj	do të ketë shikuar	V;3;SG;IND;PRF;FUT
+xhelozi	xhelozie	N;DAT;SG;NDEF
+iki	ikia	V;1;SG;IND;PST
+valixhe	valixheve	N;GEN;PL;DEF
+zgjoj	do të zgjonin	V;3;PL;COND;PRS
+lajthi	lajthitë	N;ACC;PL;DEF
+vrimë e zezë	vrimash të zeza	N;ABL;PL;NDEF
+thithkë	thithka	N;NOM;SG;DEF
+relaksohem	të relaksoheshit	V;2;PL;SBJV;PST
+shfuqizoj	shfuqizonte	V;3;SG;IND;IPFV
+qij	të kenë qirë	V;3;PL;SBJV;PRF
+palloj	palluakam	V;1;SG;ADM;PRS
+stuhi	stuhinë	N;ACC;SG;DEF
+përkëdhel	përkëdhelkemi	V;1;PL;ADM;PRS
+vazhdoj	do të kishin vazhduar	V;3;PL;COND;PRF
+përkëdhel	do të përkëdhelin	V;3;PL;IND;FUT
+organizoj	të organizonte	V;3;SG;SBJV;PST
+bekoj	paçin bekuar	V;3;PL;OPT;PRF
+ngjyrë	ngjyrës	N;GEN;SG;DEF
+shkretoj	paske shkretuar	V;2;SG;ADM;PRF
+sqaroj	paske sqaruar	V;2;SG;ADM;PRF
+shtegtoj	pastë shtegtuar	V;3;SG;OPT;PRF
+reagim	reagimit	N;DAT;SG;DEF
+hap	do të keni hapur	V;2;PL;IND;PRF;FUT
+thjeshtëzoj	të kishin thjeshtëzuar	V;3;PL;SBJV;PRF;PST
+zgjohem	u zgjuakemi	V;1;PL;ADM;PRS
+sy	syri	N;NOM;SG;DEF
+mirësoj	mirësuam	V;1;PL;IND;PST
+bashkëpunëtor	bashkëpunëtori	N;GEN;SG;NDEF
+përkëdhel	patët përkëdhelur	V;2;PL;IND;PRF;PRF
+harroj	do të harroje	V;2;SG;COND;PRS
+urroj	urruakëshim	V;1;PL;ADM;IPFV
+shpirtëroj	shpirtëruakëshin	V;3;PL;ADM;IPFV
+pëlqej	duke pëlqyer	V;V.PTCP;PRS
+akrep	akrepave	N;ABL;PL;DEF
+lëpij	të lëpish	V;2;SG;SBJV;PRS
+takohem	u takuakëshin	V;3;PL;ADM;IPFV
+abdikoj	abdikoj	V;1;SG;IND;PRS
+zbukuroj	patëm zbukuruar	V;1;PL;IND;PRF;PST
+harroj	do të kishin harruar	V;3;PL;COND;PRF
+reagoj	duke reaguar	V;V.PTCP;PRS
+provoj	paskësha provuar	V;1;SG;ADM;PRF;PST
+urrej	të urreja	V;1;SG;SBJV;PST
+bashkëveproj	do të kenë bashkëvepruar	V;3;PL;IND;PRF;FUT
+udhëheq	do të kesh udhëhequr	V;2;SG;IND;PRF;FUT
+duroj	do të kishit duruar	V;2;PL;COND;PRF
+dorëzohem	do të ishit dorëzuar	V;2;PL;COND;PRF
+grumbulloj	të grumbullonit	V;2;PL;SBJV;PST
+çakmak	çakmakë	N;NOM;PL;NDEF
+qij	qika	V;3;SG;ADM;PRS
+krahasoj	paskëshe krahasuar	V;2;SG;ADM;PRF;PST
+qij	paç qirë	V;2;SG;OPT;PRF
+rënkoj	rënkoni	V;2;PL;IMP
+jam	pati qenë	V;3;SG;IND;PRF;PST
+sodomizohem	sodomizoheni	V;2;PL;IND;PRS
+kafshoj	të kafshojë	V;3;SG;SBJV;PRS
+njoftoj	do të ketë njoftuar	V;3;SG;IND;PRF;FUT
+tempull	tempujve	N;DAT;PL;DEF
+zbukuroj	do të ketë zbukuruar	V;3;SG;IND;PRF;FUT
+shkak	shkaku	N;DAT;SG;NDEF
+xixëllonjë	xixëllonjave	N;GEN;PL;DEF
+zbuloj	do të kishin zbuluar	V;3;PL;COND;PRF
+zhvirgjëroj	zhvirgjërove	V;2;SG;IND;PST
+udhëhiqem	u udhëheqkemi	V;1;PL;ADM;PRS
+mirësoj	do të mirësoj	V;1;SG;IND;FUT
+nektarinë	nektarinash	N;ABL;PL;NDEF
+grumbulloj	të grumbulloj	V;1;SG;SBJV;PRS
+votoj	do të votoja	V;1;SG;COND;PRS
+palloj	të palloj	V;1;SG;SBJV;PRS
+notoj	për të notuar	V;NFIN
+lë	kam lënë	V;1;SG;IND;PRF
+ndal	ndalkëshe	V;2;SG;ADM;IPFV
+interpretoj	për të interpretuar	V;NFIN
+zhvilloj	zhvillofsha	V;1;SG;OPT;PRS
+qaj	qajnë	V;3;PL;IND;PRS
+dëshiroj	dëshirova	V;1;SG;IND;PST
+qij	do të qini	V;2;PL;IND;FUT
+themeloj	paskëshim themeluar	V;1;PL;ADM;PRF;PST
+mësohem	u mësuaka	V;3;SG;ADM;PRS
+jap	të japë	V;3;SG;SBJV;PRS
+qortoj	do të qortonit	V;2;PL;COND;PRS
+fshij	do të kemi fshirë	V;1;PL;IND;PRF;FUT
+përgjithësoj	të përgjithësonte	V;3;SG;SBJV;PST
+rajon	rajoneve	N;GEN;PL;NDEF
+duroj	duruar	V;V.PTCP
+bizon	bizon	N;NOM;SG;NDEF
+them	do të thuash	V;2;SG;IND;FUT
+zbuloj	do të kishe zbuluar	V;2;SG;COND;PRF
+stopohem	të ishit stopuar	V;2;PL;SBJV;PRF;PRF
+zemër	zemër	N;ACC;SG;NDEF
+kundërthem	për të kundërthënë	V;NFIN
+ngrij	të ngrini	V;2;PL;SBJV;PRS
+dërmoj	do të kishe dërmuar	V;2;SG;COND;PRF
+ngjitem	qenkëshe ngjituar	V;2;SG;ADM;PRF;PST
+dëshiroj	dëshironte	V;3;SG;IND;IPFV
+kundërshtoj	do të kundërshtonim	V;1;PL;COND;PRS
+harroj	të keni harruar	V;2;PL;SBJV;PRF
+përgjithësoj	patën përgjithësuar	V;3;PL;IND;PRF;PST
+urinoj	do të kishte urinuar	V;3;SG;COND;PRF
+notoj	do të notoja	V;1;SG;COND;PRS
+punësoj	punësuat	V;2;PL;IND;PST
+harroj	paska harruar	V;3;SG;ADM;PRF
+vë	do të kesh vënë	V;2;SG;IND;PRF;FUT
+bëj	të kishin bërë	V;3;PL;SBJV;PRF;PST
+sodomizoj	do të kishim sodomizuar	V;1;PL;COND;PRF
+mbuloj	paç mbuluar	V;2;SG;OPT;PRF
+masturbohem	u masturbuakam	V;1;SG;ADM;PRS
+zbukuroj	zbukuroje	V;2;SG;IND;IPFV
+dhemb	paskëshin dhembur	V;3;PL;ADM;PRF;PST
+bisedoj	do të bisedoj	V;1;SG;IND;FUT
+rrepë	rrepa	N;NOM;SG;DEF
+shpirtëroj	paça shpirtëruar	V;1;SG;OPT;PRF
+zbuloj	paskam zbuluar	V;1;SG;ADM;PRF
+abdikim	abdikimin	N;ACC;SG;DEF
+puth	ka puthur	V;3;SG;IND;PRF
+bashkëpunoj	të kishim bashkëpunuar	V;1;PL;SBJV;PRF;PST
+shoh	pata parë	V;1;SG;IND;PRF;PST
+ndih	do të ndihni	V;2;PL;IND;FUT
+vazhdoj	të vazhdoja	V;1;SG;SBJV;PST
+enigmë	enigmat	N;NOM;PL;DEF
+gëzoj	do të gëzoja	V;1;SG;COND;PRS
+kundërshtoj	paske kundërshtuar	V;2;SG;ADM;PRF
+farmakologji	farmakologjie	N;GEN;SG;NDEF
+luginë	lugine	N;DAT;SG;NDEF
+puth	do të puth	V;1;SG;IND;FUT
+flirtoj	paçit flirtuar	V;2;PL;OPT;PRF
+interpretoj	të interpretojmë	V;1;PL;SBJV;PRS
+çift	çifteve	N;DAT;PL;DEF
+thaj	paçit tharë	V;2;PL;OPT;PRF
+përgjithësoj	do të kenë përgjithësuar	V;3;PL;IND;PRF;FUT
+numër	numra	N;NOM;PL;NDEF
+gjeologji	gjeologjisë	N;GEN;SG;DEF
+sodomizoj	pastë sodomizuar	V;3;SG;OPT;PRF
+sodomizohem	të sodomizoheni	V;2;PL;SBJV;PRS
+ngre	ngrija	V;1;SG;IND;IPFV
+krahasoj	të krahasoja	V;1;SG;SBJV;PST
+çliroj	paça çliruar	V;1;SG;OPT;PRF
+trishtohem	do të trishtohej	V;3;SG;COND;PRS
+shurroj	shurruakam	V;1;SG;ADM;PRS
+shpif	paçit shpifur	V;2;PL;OPT;PRF
+punësoj	do të punësonin	V;3;PL;COND;PRS
+duroj	të kishin duruar	V;3;PL;SBJV;PRF;PST
+fiziolog	fiziologut	N;ABL;SG;DEF
+thek	do të kishim thekur	V;1;PL;COND;PRF
+bashkëpunoj	të bashkëpunosh	V;2;SG;SBJV;PRS
+sajoj	të sajoje	V;2;SG;SBJV;PST
+përmirësoj	paskëshim përmirësuar	V;1;PL;ADM;PRF;PST
+ngjyrë	ngjyre	N;DAT;SG;NDEF
+copëtoj	do të copëtonte	V;3;SG;COND;PRS
+fshij	paçit fshirë	V;2;PL;OPT;PRF
+flamur	flamurit	N;DAT;SG;DEF
+konsistoj	do të kem konsistuar	V;1;SG;IND;PRF;FUT
+transferoj	duke pasë transferuar	V;V.PTCP;PST
+ndërlikoj	paskëshe ndërlikuar	V;2;SG;ADM;PRF;PST
+tradhëtoj	tradhëtuakëshe	V;2;SG;ADM;IPFV
+shigjetë	shigjeta	N;ACC;PL;NDEF
+tërheq	tërheqkëshit	V;2;PL;ADM;IPFV
+trishtohem	të trishtoheni	V;2;PL;SBJV;PRS
+grumbulloj	grumbullonim	V;1;PL;IND;IPFV
+shfuqizoj	të kesh shfuqizuar	V;2;SG;SBJV;PRF
+justifikoj	justifikuakam	V;1;SG;ADM;PRS
+tempull	tempulli	N;ABL;SG;NDEF
+armatos	armatoskëshit	V;2;PL;ADM;IPFV
+përkëdhel	të përkëdhelje	V;2;SG;SBJV;PST
+dërgoj	do të dërgonim	V;1;PL;COND;PRS
+ndryshoj	do të ndryshonim	V;1;PL;COND;PRS
+komunikoj	do të kenë komunikuar	V;3;PL;IND;PRF;FUT
+dhemb	dhembkëshe	V;2;SG;ADM;IPFV
+sëmundje	sëmundjen	N;ACC;SG;DEF
+armatos	do të kishit armatosur	V;2;PL;COND;PRF
+pranoj	pranonte	V;3;SG;IND;IPFV
+pshurr	paskësha pshurrur	V;1;SG;ADM;PRF;PST
+sulmohem	qenkemi sulmuar	V;1;PL;ADM;PRF
+transferoj	transferuakan	V;3;PL;ADM;PRS
+shqipoj	shqipuakëshe	V;2;SG;ADM;IPFV
+funksion	funksionit	N;ABL;SG;DEF
+ligjëroj	të ligjërojnë	V;3;PL;SBJV;PRS
+beqar	beqarësh	N;ABL;PL;NDEF
+tradhëtoj	kemi tradhëtuar	V;1;PL;IND;PRF
+filloj	do të fillojmë	V;1;PL;IND;FUT
+zhvirgjëroj	paçin zhvirgjëruar	V;3;PL;OPT;PRF
+bashkëpunoj	të keni bashkëpunuar	V;2;PL;SBJV;PRF
+afrohem	u afruakan	V;3;PL;ADM;PRS
+çukë	çukë	N;NOM;SG;NDEF
+kërkoj	kemi kërkuar	V;1;PL;IND;PRF
+vaginë	vaginave	N;DAT;PL;DEF
+zbuloj	zbuluakëshin	V;3;PL;ADM;IPFV
+ngrihem	do të ngrihesha	V;1;SG;COND;PRS
+provoj	provuakam	V;1;SG;ADM;PRS
+çadër	çadrës	N;GEN;SG;DEF
+paradigmë	paradigmën	N;ACC;SG;DEF
+lahem	qenkëshim larë	V;1;PL;ADM;PRF;PST
+shkëlqej	shkëlqej	V;1;SG;IND;PRS
+çakall	çakalli	N;DAT;SG;NDEF
+gëzoj	do të gëzonte	V;3;SG;COND;PRS
+kërkoj	do të kishte kërkuar	V;3;SG;COND;PRF
+ndërlikoj	të kemi ndërlikuar	V;1;PL;SBJV;PRF
+shtyp	pata shtypur	V;1;SG;IND;PRF;PST
+rrezikoj	do të kishin rrezikuar	V;3;PL;COND;PRF
+kafshë	kafshët	N;NOM;PL;DEF
+afrohem	të jetë afruar	V;3;SG;SBJV;PRF
+mashkull	meshkujve	N;GEN;PL;DEF
+bashkëpunoj	bashkëpunova	V;1;SG;IND;PST
+veçoj	pate veçuar	V;2;SG;IND;PRF;PST
+qij	do të qish	V;2;SG;IND;FUT
+sakrifikoj	sakrifikove	V;2;SG;IND;PST
+lyp	ke lypur	V;2;SG;IND;PRF
+mbarohem	qenke mbaruar	V;2;SG;ADM;PRF
+shtegtoj	paçit shtegtuar	V;2;PL;OPT;PRF
+luginë	lugine	N;GEN;SG;NDEF
+pëlqej	paça pëlqyer	V;1;SG;OPT;PRF
+ironi	ironia	N;NOM;SG;DEF
+fërgoj	pastë fërguar	V;3;SG;OPT;PRF
+zgjedh	do të kishte zgjedhur	V;3;SG;COND;PRF
+ngacmoj	ngacmuaka	V;3;SG;ADM;PRS
+kundërshtoj	të kundërshtojë	V;3;SG;SBJV;PRS
+përdorim	përdorimet	N;NOM;PL;DEF
+gjeologji	gjeologjisë	N;DAT;SG;DEF
+shkretoj	shkretonit	V;2;PL;IND;IPFV
+dhunoj	të dhunoj	V;1;SG;SBJV;PRS
+byrek	byrekëve	N;DAT;PL;DEF
+bjond	bjondëve	N;DAT;PL;NDEF
+stopohem	stopohesha	V;1;SG;IND;IPFV
+abstenoj	paskëshin abstenuar	V;3;PL;ADM;PRF;PST
+ledhatoj	të ketë ledhatuar	V;3;SG;SBJV;PRF
+fjalë	fjalë	N;ACC;SG;NDEF
+tradhëtoj	do të kishit tradhëtuar	V;2;PL;COND;PRF
+takoj	të kesh takuar	V;2;SG;SBJV;PRF
+takohem	takohej	V;3;SG;IND;IPFV
+afirmoj	paçim afirmuar	V;1;PL;OPT;PRF
+shurroj	do të ketë shurruar	V;3;SG;IND;PRF;FUT
+çelës	çelësave	N;GEN;PL;NDEF
+transferoj	do të transferosh	V;2;SG;IND;FUT
+zbeh	duke pasë zbehur	V;V.PTCP;PST
+miqësohem	ishim miqësuar	V;1;PL;IND;PRF;PST
+ndal	do të ketë ndalur	V;3;SG;IND;PRF;FUT
+bisedoj	pati biseduar	V;3;SG;IND;PRF;PST
+hardhucë	hardhucat	N;ACC;PL;DEF
+lahem	u lamë	V;1;PL;IND;PST
+sqaroj	të kisha sqaruar	V;1;SG;SBJV;PRF;PST
+bisedoj	paskësh biseduar	V;3;SG;ADM;PRF;PST
+prodhoj	prodhofshin	V;3;PL;OPT;PRS
+arkeologji	arkeologjie	N;DAT;SG;NDEF
+argëtoj	paç argëtuar	V;2;SG;OPT;PRF
+pshurr	të kisha pshurrur	V;1;SG;SBJV;PRF;PST
+ligjëroj	ligjëroi	V;3;SG;IND;PST
+skllavëroj	do të kesh skllavëruar	V;2;SG;IND;PRF;FUT
+ajër	ajrave	N;ABL;PL;DEF
+urrej	urrenit	V;2;PL;IND;IPFV
+krijoj	do të krijojnë	V;3;PL;IND;FUT
+pëlqej	pëlqenim	V;1;PL;IND;IPFV
+absorboj	paskësh absorbuar	V;3;SG;ADM;PRF;PST
+dëshiroj	do të dëshirosh	V;2;SG;IND;FUT
+zbuloj	zbuluakan	V;3;PL;ADM;PRS
+mbretëri	mbretëri	N;NOM;SG;NDEF
+relaksohem	do të relaksoheshin	V;3;PL;COND;PRS
+libër	librit	N;DAT;SG;DEF
+kërcej	paske kërcyer	V;2;SG;ADM;PRF
+vendos	vendoska	V;3;SG;ADM;PRS
+përsos	të kishte përsosur	V;3;SG;SBJV;PRF;PST
+njeri	njerëzve	N;GEN;PL;DEF
+krijoj	do të kishin krijuar	V;3;PL;COND;PRF
+farmakologji	farmakologjie	N;DAT;SG;NDEF
+urinoj	urinoni	V;2;PL;IND;PRS
+arratisem	arratisem	V;1;SG;IND;PRS
+përparoj	paç përparuar	V;2;SG;OPT;PRF
+abdikoj	abdikuakëshit	V;2;PL;ADM;IPFV
+lexoj	paskësh lexuar	V;3;SG;ADM;PRF;PST
+ndaloj	të kenë ndaluar	V;3;PL;SBJV;PRF
+çakmak	çakmaku	N;ABL;SG;NDEF
+demokraci	demokracive	N;ABL;PL;DEF
+sqarim	sqarimi	N;GEN;SG;NDEF
+urrej	të urreje	V;2;SG;SBJV;PST
+organizoj	organizojnë	V;3;PL;IND;PRS
+nderoj	nderuakëshim	V;1;PL;ADM;IPFV
+kapak	kapakëve	N;ABL;PL;DEF
+afrohem	janë afruar	V;3;PL;IND;PRF
+luginë	luginat	N;ACC;PL;DEF
+thithkë	thithkë	N;ACC;SG;NDEF
+thjeshtësi	thjeshtësie	N;ABL;SG;NDEF
+copëtoj	do të copëtoje	V;2;SG;COND;PRS
+palloj	të kenë palluar	V;3;PL;SBJV;PRF
+fshij	fshini	V;2;PL;IMP
+daj	dava	V;1;SG;IND;PST
+afirmoj	të keni afirmuar	V;2;PL;SBJV;PRF
+ngritje	ngritjet	N;ACC;PL;DEF
+kurvë	kurvë	N;NOM;SG;NDEF
+afirmoj	do të ketë afirmuar	V;3;SG;IND;PRF;FUT
+stimuloj	paskeni stimuluar	V;2;PL;ADM;PRF
+mardh	të mardhnit	V;2;PL;SBJV;PST
+arratisem	qenkëshe arratisuar	V;2;SG;ADM;PRF;PST
+transferoj	ka transferuar	V;3;SG;IND;PRF
+kundërshtoj	do të kenë kundërshtuar	V;3;PL;IND;PRF;FUT
+gaboj	paçin gabuar	V;3;PL;OPT;PRF
+prodhoj	do të kisha prodhuar	V;1;SG;COND;PRF
+transferoj	transferuake	V;2;SG;ADM;PRS
+transferoj	do të kishit transferuar	V;2;PL;COND;PRF
+këndoj	kënduakëshin	V;3;PL;ADM;IPFV
+qij	pate qirë	V;2;SG;IND;PRF;PST
+asnjanësoj	do të asnjanësojmë	V;1;PL;IND;FUT
+shkërdhej	shkërdhej	V;1;SG;IND;PRS
+abonohem	të jeni abonuar	V;2;PL;SBJV;PRF
+bëj	ka bërë	V;3;SG;IND;PRF
+përdor	do të kemi përdorur	V;1;PL;IND;PRF;FUT
+kam	paskëshit	V;2;PL;ADM;IPFV
+asnjanësoj	do të asnjanësonte	V;3;SG;COND;PRS
+nënkuptoj	nënkuptojnë	V;3;PL;IND;PRS
+qaj	qan	V;2;SG;IND;PRS
+degjoj	të degjoja	V;1;SG;SBJV;PST
+rrezikoj	duke rrezikuar	V;V.PTCP;PRS
+vazhdoj	paçim vazhduar	V;1;PL;OPT;PRF
+stimuloj	do të ketë stimuluar	V;3;SG;IND;PRF;FUT
+zhvillohem	do të jetë zhvilluar	V;3;SG;IND;PRF;FUT
+grumbulloj	grumbulluakëshe	V;2;SG;ADM;IPFV
+çliroj	paçim çliruar	V;1;PL;OPT;PRF
+mas	do të keni matur	V;2;PL;IND;PRF;FUT
+themeloj	do të themeloni	V;2;PL;IND;FUT
+parapëlqej	parapëlqyet	V;2;PL;IND;PST
+zhvilloj	do të zhvilloni	V;2;PL;IND;FUT
+shkatërroj	shkatërruat	V;2;PL;IND;PST
+lahem	u lakësha	V;1;SG;ADM;IPFV
+homonim	homonimi	N;DAT;SG;NDEF
+stopohem	do të ishe stopuar	V;2;SG;COND;PRF
+masturboj	paskan masturbuar	V;3;PL;ADM;PRF
+injoroj	do të keni injoruar	V;2;PL;IND;PRF;FUT
+ngrij	pata ngrirë	V;1;SG;IND;PRF;PST
+shtegtoj	shtegtuaka	V;3;SG;ADM;PRS
+palloj	palloi	V;3;SG;IND;PST
+këmbë	këmbëve	N;DAT;PL;DEF
+mënd	pati mëndur	V;3;SG;IND;PRF;PST
+shoh	për të parë	V;NFIN
+aheng	ahengu	N;ABL;SG;NDEF
+krahasoj	do të krahasojmë	V;1;PL;IND;FUT
+adhuroj	paskësh adhuruar	V;3;SG;ADM;PRF;PST
+dorëzohem	u dorëzove	V;2;SG;IND;PST
+zbeh	zbehim	V;1;PL;IND;PRS
+puth	puthkeni	V;2;PL;ADM;PRS
+shurroj	do të kishit shurruar	V;2;PL;COND;PRF
+shpejtësi	shpejtësitë	N;NOM;PL;DEF
+shikoj	kam shikuar	V;1;SG;IND;PRF
+sodomizoj	do të sodomizojnë	V;3;PL;IND;FUT
+ngacmoj	ngacmojnë	V;3;PL;IND;PRS
+zhvillohem	u zhvilluakëshim	V;1;PL;ADM;IPFV
+preferoj	do të kemi preferuar	V;1;PL;IND;PRF;FUT
+bekoj	të bekojmë	V;1;PL;SBJV;PRS
+pshurr	të pshurr	V;1;SG;SBJV;PRS
+ndaloj	të kemi ndaluar	V;1;PL;SBJV;PRF
+plagoj	do të plagonim	V;1;PL;COND;PRS
+bijë	bije	N;GEN;SG;NDEF
+shurrohem	të shurroheni	V;2;PL;SBJV;PRS
+vij	paçim ardhur	V;1;PL;OPT;PRF
+luftë	luftave	N;DAT;PL;DEF
+tërheq	duke tërhequr	V;V.PTCP;PRS
+shikoj	shikofsh	V;2;SG;OPT;PRS
+qesh	pate qeshur	V;2;SG;IND;PRF;PST
+zhvillohem	do të isha zhvilluar	V;1;SG;COND;PRF
+thek	theknit	V;2;PL;IND;IPFV
+zhvillohem	zhvillohej	V;3;SG;IND;IPFV
+lëndim	lëndime	N;NOM;SG;DEF
+skelet	skeletët	N;NOM;PL;DEF
+abuzoj	do të kishim abuzuar	V;1;PL;COND;PRF
+lexoj	të ketë lexuar	V;3;SG;SBJV;PRF
+vij	për të ardhur	V;NFIN
+krim	krimet	N;NOM;PL;DEF
+shtegtoj	të shtegtonte	V;3;SG;SBJV;PST
+veçoj	paçim veçuar	V;1;PL;OPT;PRF
+njoftoj	paskemi njoftuar	V;1;PL;ADM;PRF
+kam	kanë	V;3;PL;IND;PRS
+ngacmoj	paç ngacmuar	V;2;SG;OPT;PRF
+konsistoj	do të kenë konsistuar	V;3;PL;IND;PRF;FUT
+mirësoj	të mirësoja	V;1;SG;SBJV;PST
+liri	lirive	N;ABL;PL;DEF
+biletë	biletës	N;ABL;SG;DEF
+ledhatoj	ledhato	V;2;SG;IMP
+shtrembërim	shtrembërimi	N;GEN;SG;NDEF
+shqipoj	shqipon	V;3;SG;IND;PRS
+arratisem	do të arratisesh	V;2;SG;IND;FUT
+shahist	shahistit	N;ABL;SG;DEF
+afirmoj	do të kishte afirmuar	V;3;SG;COND;PRF
+shpresoj	shpresuakëshin	V;3;PL;ADM;IPFV
+dhuroj	dhuron	V;3;SG;IND;PRS
+ndal	të kishe ndalur	V;2;SG;SBJV;PRF;PST
+shuaj	shuajnin	V;3;PL;IND;IPFV
+luftoj	do të luftojë	V;3;SG;IND;FUT
+propozoj	pata propozuar	V;1;SG;IND;PRF;PST
+zbuloj	zbuloja	V;1;SG;IND;IPFV
+shtyp	shtyp	V;2;SG;IMP
+shoh	pashë	V;1;SG;IND;PST
+psikolog	psikologu	N;GEN;SG;NDEF
+urroj	pate urruar	V;2;SG;IND;PRF;PST
+zbuloj	do të zbuloni	V;2;PL;IND;FUT
+argëtoj	argëtoje	V;2;SG;IND;IPFV
+grumbulloj	do të kem grumbulluar	V;1;SG;IND;PRF;FUT
+përparoj	do të përparonte	V;3;SG;COND;PRS
+përkëdhel	përkëdhelët	V;2;PL;IND;PST
+mbroj	mbruakam	V;1;SG;ADM;PRS
+stopohem	të stopoheshim	V;1;PL;SBJV;PST
+nderoj	do të nderoje	V;2;SG;COND;PRS
+kafshoj	kam kafshuar	V;1;SG;IND;PRF
+pëlqej	paskëshin pëlqyer	V;3;PL;ADM;PRF;PST
+zbukuroj	zbukurofsha	V;1;SG;OPT;PRS
+plagoj	plago	V;2;SG;IMP
+iki	do të ikini	V;2;PL;IND;FUT
+shigjetar	shigjetarë	N;ACC;PL;NDEF
+vyshkem	do të ishe vyshkuar	V;2;SG;COND;PRF
+reagoj	të reagonim	V;1;PL;SBJV;PST
+fërgoj	do të fërgoja	V;1;SG;COND;PRS
+vaginë	vaginave	N;DAT;PL;NDEF
+qëndroj	do të qëndronte	V;3;SG;COND;PRS
+ndryshohem	ndryshoheshin	V;3;PL;IND;IPFV
+shuaj	të kemi shuajtur	V;1;PL;SBJV;PRF
+dorëzohem	do të dorëzoheshit	V;2;PL;COND;PRS
+zgjohem	do të zgjoheni	V;2;PL;IND;FUT
+ofendoj	do të kesh ofenduar	V;2;SG;IND;PRF;FUT
+bashkëpunëtor	bashkëpunëtorit	N;DAT;SG;DEF
+farë	fara	N;NOM;SG;DEF
+mas	mas	V;3;SG;IND;PRS
+plagoj	do të kemi plaguar	V;1;PL;IND;PRF;FUT
+shqyptar	shqyptarit	N;GEN;SG;DEF
+beqar	beqarëve	N;DAT;PL;DEF
+ndryshohem	u ndryshuat	V;2;PL;IND;PST
+rreth	rrathëve	N;DAT;PL;NDEF
+qesh	qeshnin	V;3;PL;IND;IPFV
+reagoj	do të ketë reaguar	V;3;SG;IND;PRF;FUT
+çantë	çantat	N;NOM;PL;DEF
+lyp	do të lypësh	V;2;SG;IND;FUT
+çlirohem	të ishte çliruar	V;3;SG;SBJV;PRF;PST
+takohem	do të jemi takuar	V;1;PL;IND;PRF;FUT
+tradhëtoj	do të kisha tradhëtuar	V;1;SG;COND;PRF
+shikoj	të shikojmë	V;1;PL;SBJV;PRS
+organizoj	do të organizosh	V;2;SG;IND;FUT
+hoxhë	hoxhët	N;ACC;PL;DEF
+fsheh	kemi fshehur	V;1;PL;IND;PRF
+votoj	të votoj	V;1;SG;SBJV;PRS
+zhvirgjërohem	u zhvirgjërofshit	V;2;PL;OPT;PRS
+zbuloj	paskeni zbuluar	V;2;PL;ADM;PRF
+pshurr	paç pshurrur	V;2;SG;OPT;PRF
+thaj	të kishin tharë	V;3;PL;SBJV;PRF;PST
+arësyetoj	të kishit arësyetuar	V;2;PL;SBJV;PRF;PRF
+kthetër	kthetër	N;ACC;SG;NDEF
+rri	ndenjçit	V;2;PL;OPT;PRS
+përkëdhel	përkëdhelëm	V;1;PL;IND;PST
+shkronjë	shkronjës	N;DAT;SG;DEF
+forcë	forcave	N;DAT;PL;NDEF
+puth	do të kishte puthur	V;3;SG;COND;PRF
+zhvilloj	zhvilloj	V;1;SG;IND;PRS
+byrek	byrekut	N;DAT;SG;DEF
+mirësoj	të mirësojnë	V;3;PL;SBJV;PRS
+kombësi	kombësish	N;ABL;PL;NDEF
+enigmë	enigmën	N;ACC;SG;DEF
+titull	titujve	N;GEN;PL;NDEF
+vagjinë	vagjinës	N;ABL;SG;DEF
+zbukuroj	zbukuronin	V;3;PL;IND;IPFV
+ironi	ironisë	N;GEN;SG;DEF
+duroj	të durojë	V;3;SG;SBJV;PRS
+duroj	do të kisha duruar	V;1;SG;COND;PRF
+yndyrë	yndyrave	N;DAT;PL;NDEF
+justifikoj	paskëshe justifikuar	V;2;SG;ADM;PRF;PST
+lidh	do të lidhnin	V;3;PL;COND;PRS
+zbeh	do të kisha zbehur	V;1;SG;COND;PRF
+liqen	liqenet	N;ACC;PL;DEF
+copëtoj	copëtuakan	V;3;PL;ADM;PRS
+ngjitem	ngjitemi	V;1;PL;IND;PRS
+përkufizoj	përkufizuam	V;1;PL;IND;PST
+rrezikoj	ka rrezikuar	V;3;SG;IND;PRF
+ndihmoj	paskëshim ndihmuar	V;1;PL;ADM;PRF;PST
+përkthej	paskëshit përkthyer	V;2;PL;ADM;PRF;PRF
+asnjanësoj	do të kisha asnjanësuar	V;1;SG;COND;PRF
+virgjëreshë	virgjëreshe	N;DAT;SG;NDEF
+notoj	notofsha	V;1;SG;OPT;PRS
+urinim	urinimeve	N;DAT;PL;NDEF
+abuzoj	abuzuaka	V;3;SG;ADM;PRS
+urinoj	do të kem urinuar	V;1;SG;IND;PRF;FUT
+akrep	akrepi	N;GEN;SG;NDEF
+notoj	paçim notuar	V;1;PL;OPT;PRF
+përkthim	përkthimi	N;DAT;SG;NDEF
+plagoj	plagoj	V;1;SG;IND;PRS
+flirtoj	do të flirtonim	V;1;PL;COND;PRS
+ndaloj	do të ndalonim	V;1;PL;COND;PRS
+dërmoj	dërmove	V;2;SG;IND;PST
+buzëqesh	do të buzëqesh	V;1;SG;IND;FUT
+prek	preke	V;2;SG;IND;PST
+palloj	pallova	V;1;SG;IND;PST
+krim	krimeve	N;DAT;PL;NDEF
+mbarohem	të mbaroheshin	V;3;PL;SBJV;PST
+përfitoj	ka përfituar	V;3;SG;IND;PRF
+abstenoj	të kenë abstenuar	V;3;PL;SBJV;PRF
+parapëlqej	parapëlqejmë	V;1;PL;IND;PRS
+përgjithësoj	përgjithësuake	V;2;SG;ADM;PRS
+zbuloj	të kishte zbuluar	V;3;SG;SBJV;PRF;PST
+lafshë	lafshave	N;GEN;PL;DEF
+ligjëroj	do të kishit ligjëruar	V;2;PL;COND;PRF
+paradigmë	paradigmat	N;ACC;PL;DEF
+gjarpër	gjarpërinjve	N;DAT;PL;NDEF
+arsimoj	të arsimoj	V;1;SG;SBJV;PRS
+mendoj	menduakam	V;1;SG;ADM;PRS
+titull	titujve	N;DAT;PL;NDEF
+dërmoj	do të kishte dërmuar	V;3;SG;COND;PRF
+bark	barkun	N;ACC;SG;DEF
+ndryshoj	do të ndryshoje	V;2;SG;COND;PRS
+qaj	ke qarë	V;2;SG;IND;PRF
+jetoj	kam jetuar	V;1;SG;IND;PRF
+qaj	qan	V;3;SG;IND;PRS
+lyp	do të lypja	V;1;SG;COND;PRS
+qaj	do të qante	V;3;SG;COND;PRS
+farmakologji	farmakologjinë	N;ACC;SG;DEF
+këndoj	do të këndoja	V;1;SG;COND;PRS
+ngrihem	të ngrihet	V;3;SG;SBJV;PRS
+mas	massh	V;2;SG;OPT;PRS
+harroj	harruakësha	V;1;SG;ADM;IPFV
+ligj	ligji	N;GEN;SG;NDEF
+shtegtoj	shtegtuakemi	V;1;PL;ADM;PRS
+ndaloj	të ndalonin	V;3;PL;SBJV;PST
+ndihmoj	paçim ndihmuar	V;1;PL;OPT;PRF
+ligjëroj	të ligjëronin	V;3;PL;SBJV;PST
+grafik	grafikë	N;ACC;PL;NDEF
+bëhem	jemi bërë	V;1;PL;IND;PRF
+themeloj	themelonit	V;2;PL;IND;IPFV
+doktor	doktor	N;ACC;SG;NDEF
+frikë	frikave	N;GEN;PL;NDEF
+peshohem	do të peshohemi	V;1;PL;IND;FUT
+çliroj	do të çlironin	V;3;PL;COND;PRS
+çakmak	çakmakëve	N;GEN;PL;NDEF
+dërgoj	paçin dërguar	V;3;PL;OPT;PRF
+atësi	atësie	N;GEN;SG;NDEF
+çelës	çelësave	N;DAT;PL;DEF
+zbulim	zbulimeve	N;DAT;PL;NDEF
+rri	do të kemi ndenjur	V;1;PL;IND;PRF;FUT
+homoseksualitet	homoseksualitetin	N;ACC;SG;DEF
+daj	të daje	V;2;SG;SBJV;PST
+thjeshtëzoj	të kemi thjeshtëzuar	V;1;PL;SBJV;PRF
+ndal	ndalëm	V;1;PL;IND;PST
+udhëhiqem	do të jenë udhëhequr	V;3;PL;IND;PRF;FUT
+kalë	kalin	N;ACC;SG;DEF
+mirësoj	paskam mirësuar	V;1;SG;ADM;PRF
+zhvirgjëroj	paskan zhvirgjëruar	V;3;PL;ADM;PRF
+bukë	bukëve	N;DAT;PL;DEF
+fërkoj	duke pasë fërkuar	V;V.PTCP;PST
+dhunoj	do të dhunosh	V;2;SG;IND;FUT
+absorboj	absorbuake	V;2;SG;ADM;PRS
+fërgoj	fërgoi	V;3;SG;IND;PST
+adhuroj	të adhurojë	V;3;SG;SBJV;PRS
+thaj	thante	V;3;SG;IND;IPFV
+sodomizohem	do të jetë sodomizuar	V;3;SG;IND;PRF;FUT
+vazhdoj	do të vazhdoje	V;2;SG;COND;PRS
+pasthirrmë	pasthirrmave	N;ABL;PL;DEF
+shqipoj	shqipuakësha	V;1;SG;ADM;IPFV
+harroj	harrofshim	V;1;PL;OPT;PRS
+dashuroj	do të kishe dashuruar	V;2;SG;COND;PRF
+shpirtëroj	do të kishim shpirtëruar	V;1;PL;COND;PRF
+hidhërohem	qenke hidhëruar	V;2;SG;ADM;PRF
+filxhan	filxhan	N;NOM;SG;NDEF
+vaginë	vaginë	N;NOM;SG;NDEF
+përgjithësoj	paç përgjithësuar	V;2;SG;OPT;PRF
+keqkuptoj	do të keqkuptonte	V;3;SG;COND;PRS
+zhvirgjëroj	zhvirgjërojnë	V;3;PL;IND;PRS
+botë	botëve	N;DAT;PL;DEF
+çlirohem	të jesh çliruar	V;2;SG;SBJV;PRF
+mardh	për të mardhur	V;NFIN
+sodomizoj	të sodomizojmë	V;1;PL;SBJV;PRS
+shurrohem	të shurrohej	V;3;SG;SBJV;PST
+mësoj	të kemi mësuar	V;1;PL;SBJV;PRF
+zhvilloj	të zhvilloni	V;2;PL;SBJV;PRS
+ndryshohem	do të jemi ndryshuar	V;1;PL;IND;PRF;FUT
+arësyetoj	arësyetofshim	V;1;PL;OPT;PRS
+ndërlikoj	të kishte ndërlikuar	V;3;SG;SBJV;PRF;PST
+relaksohem	relaksoheshim	V;1;PL;IND;IPFV
+shpjegoj	shpjegon	V;2;SG;IND;PRS
+bekoj	bekuan	V;3;PL;IND;PST
+bark	barku	N;ABL;SG;NDEF
+qortoj	paçit qortuar	V;2;PL;OPT;PRF
+reagoj	reagon	V;3;SG;IND;PRS
+institucion	institucionet	N;ACC;PL;DEF
+gjenealogji	gjenealogjisë	N;DAT;SG;DEF
+sodomizohem	do të sodomizohemi	V;1;PL;IND;FUT
+kafshoj	paçim kafshuar	V;1;PL;OPT;PRF
+bashkëpunoj	do të keni bashkëpunuar	V;2;PL;IND;PRF;FUT
+dërmoj	paska dërmuar	V;3;SG;ADM;PRF
+mbuloj	të kishte mbuluar	V;3;SG;SBJV;PRF;PST
+sakrifikoj	sakrifikuakësha	V;1;SG;ADM;IPFV
+stopohem	qenka stopuar	V;3;SG;ADM;PRF
+punësohem	qenkam punësuar	V;1;SG;ADM;PRF
+bëj	do të bëni	V;2;PL;IND;FUT
+partner	partnerin	N;ACC;SG;DEF
+zbuloj	zbulofsh	V;2;SG;OPT;PRS
+bashkëpunim	bashkëpunime	N;NOM;PL;NDEF
+zgjohem	jeni zgjuar	V;2;PL;IND;PRF
+interpretoj	keni interpretuar	V;2;PL;IND;PRF
+punësohem	do të punësoheshin	V;3;PL;COND;PRS
+galaktikë	galaktikave	N;GEN;PL;DEF
+përkufizoj	kam përkufizuar	V;1;SG;IND;PRF
+rri	paskemi ndenjur	V;1;PL;ADM;PRF
+qij	paskeni qirë	V;2;PL;ADM;PRF
+afrohem	do të afroheshin	V;3;PL;COND;PRS
+gjuhë	gjuhe	N;ABL;SG;NDEF
+puth	pata puthur	V;1;SG;IND;PRF;PST
+dëmtoj	të kesh dëmtuar	V;2;SG;SBJV;PRF
+ndihmoj	ndihmoje	V;2;SG;IND;IPFV
+copë	copë	N;ACC;SG;NDEF
+punësohem	jeni punësuar	V;2;PL;IND;PRF
+dhemb	dhembkësh	V;3;SG;ADM;IPFV
+pëlqej	paçit pëlqyer	V;2;PL;OPT;PRF
+mësohem	u mësuakëshin	V;3;PL;ADM;IPFV
+tradhëtoj	tradhëtonit	V;2;PL;IND;IPFV
+njoftoj	njoftuakësha	V;1;SG;ADM;IPFV
+shurroj	kanë shurruar	V;3;PL;IND;PRF
+palloj	kemi palluar	V;1;PL;IND;PRF
+thjeshtëzoj	të keni thjeshtëzuar	V;2;PL;SBJV;PRF
+shurroj	do të shurronin	V;3;PL;COND;PRS
+besoj	të kishit besuar	V;2;PL;SBJV;PRF;PRF
+stimuloj	paçit stimuluar	V;2;PL;OPT;PRF
+qaj	të qaja	V;1;SG;SBJV;PST
+kundërthem	të kisha kundërthënë	V;1;SG;SBJV;PRF;PST
+ngjitem	ngjiteshit	V;2;PL;IND;IPFV
+abonohem	qenkeni abonuar	V;2;PL;ADM;PRF
+lidh	pati lidhur	V;3;SG;IND;PRF;PST
+themeloj	do të kishe themeluar	V;2;SG;COND;PRF
+teze	tezes	N;ABL;SG;DEF
+ndërlikoj	patët ndërlikuar	V;2;PL;IND;PRF;PRF
+vyshkem	qenkësh vyshkuar	V;3;SG;ADM;PRF;PST
+pompoj	pompon	V;3;SG;IND;PRS
+urrej	paskëshe urryer	V;2;SG;ADM;PRF;PST
+ndërlikoj	ndërlikoftë	V;3;SG;OPT;PRS
+ndal	ndal	V;3;SG;IND;PRS
+zonjë	zonjën	N;ACC;SG;DEF
+pederasti	pederastisë	N;GEN;SG;DEF
+vazhdoj	vazhdojmë	V;1;PL;IND;PRS
+afirmoj	ka afirmuar	V;3;SG;IND;PRF
+arsimoj	të kishte arsimuar	V;3;SG;SBJV;PRF;PST
+fshij	fshini	V;2;PL;IND;PRS
+keqkuptim	keqkuptim	N;ACC;SG;NDEF
+transferoj	do të kisha transferuar	V;1;SG;COND;PRF
+ofendoj	ofendoje	V;2;SG;IND;IPFV
+sqaroj	duke pasë sqaruar	V;V.PTCP;PST
+relaksohem	u relaksofshit	V;2;PL;OPT;PRS
+propozoj	propozofsh	V;2;SG;OPT;PRS
+avantazh	avantazhi	N;ABL;SG;NDEF
+çok	çokave	N;DAT;PL;DEF
+pohim	pohimit	N;GEN;SG;DEF
+absorboj	do të absorboje	V;2;SG;COND;PRS
+prek	prekje	V;2;SG;IND;IPFV
+shqipoj	duke pasë shqipuar	V;V.PTCP;PST
+bashkëpunoj	paskësh bashkëpunuar	V;3;SG;ADM;PRF;PST
+asnjanësoj	paçin asnjanësuar	V;3;PL;OPT;PRF
+miqësohem	të miqësohesha	V;1;SG;SBJV;PST
+jam	të ketë qenë	V;3;SG;SBJV;PRF
+bizon	bizoni	N;NOM;SG;DEF
+dashuroj	duke dashuruar	V;V.PTCP;PRS
+jam	qenë	V;3;PL;IND;PST
+bizon	bizonit	N;GEN;SG;DEF
+admiroj	admiroi	V;3;SG;IND;PST
+shpresoj	do të kesh shpresuar	V;2;SG;IND;PRF;FUT
+prapanicë	prapanice	N;GEN;SG;NDEF
+zhvirgjërohem	të zhvirgjërohej	V;3;SG;SBJV;PST
+mënd	të keni mëndur	V;2;PL;SBJV;PRF
+shkërdhej	do të kisha shkërdhyer	V;1;SG;COND;PRF
+fërgoj	fërgoftë	V;3;SG;OPT;PRS
+ledhatoj	të kishe ledhatuar	V;2;SG;SBJV;PRF;PST
+sodomi	sodomisë	N;ABL;SG;DEF
+urrej	paç urryer	V;2;SG;OPT;PRF
+harroj	paça harruar	V;1;SG;OPT;PRF
+dhemb	patët dhembur	V;2;PL;IND;PRF;PRF
+zgjedh	të ketë zgjedhur	V;3;SG;SBJV;PRF
+fsheh	fshehkësha	V;1;SG;ADM;IPFV
+gjëlpërë	gjëlpërë	N;ACC;SG;NDEF
+injoroj	do të injoroni	V;2;PL;IND;FUT
+shoh	të ketë parë	V;3;SG;SBJV;PRF
+shpirtëroj	shpirtëruar	V;V.PTCP
+mbaroj	mbaruat	V;2;PL;IND;PST
+pederasti	pederasti	N;ACC;SG;NDEF
+zhvirgjëroj	zhvirgjëroje	V;2;SG;IND;IPFV
+rënkoj	ka rënkuar	V;3;SG;IND;PRF
+iki	do të ketë ikiur	V;3;SG;IND;PRF;FUT
+qij	të qinim	V;1;PL;SBJV;PST
+parabolë	parabolë	N;NOM;SG;NDEF
+qeveri	qeverisë	N;ABL;SG;DEF
+shurroj	paskëshim shurruar	V;1;PL;ADM;PRF;PST
+dëmtoj	do të dëmtonte	V;3;SG;COND;PRS
+ndjesi	ndjesisë	N;DAT;SG;DEF
+përkufizoj	patët përkufizuar	V;2;PL;IND;PRF;PRF
+bëj	bëj	V;1;SG;IND;PRS
+zhvirgjërohem	do të zhvirgjëroheni	V;2;PL;IND;FUT
+shpresoj	shpresoje	V;2;SG;IND;IPFV
+preferoj	paska preferuar	V;3;SG;ADM;PRF
+bjond	bjondi	N;GEN;SG;NDEF
+luftë	luftës	N;ABL;SG;DEF
+thek	paçim thekur	V;1;PL;OPT;PRF
+madhësi	madhësinë	N;ACC;SG;DEF
+peshohem	u peshuan	V;3;PL;IND;PST
+përmirësoj	do të ketë përmirësuar	V;3;SG;IND;PRF;FUT
+jap	dhamë	V;1;PL;IND;PST
+kurvë	kurva	N;NOM;SG;DEF
+shikoj	paskëshim shikuar	V;1;PL;ADM;PRF;PST
+abuzoj	abuzuakam	V;1;SG;ADM;PRS
+përkëdhel	do të përkëdhelni	V;2;PL;IND;FUT
+mësohem	të jeni mësuar	V;2;PL;SBJV;PRF
+përsos	përsos	V;2;SG;IND;PRS
+përdorim	përdorim	N;ACC;SG;NDEF
+lahem	u lafshit	V;2;PL;OPT;PRS
+sodomizohem	do të sodomizohet	V;3;SG;IND;FUT
+aktivizëm	aktivizmi	N;ABL;SG;NDEF
+përparoj	paçin përparuar	V;3;PL;OPT;PRF
+këndoj	paskëshe kënduar	V;2;SG;ADM;PRF;PST
+filxhan	filxhanët	N;NOM;PL;DEF
+puth	të kishim puthur	V;1;PL;SBJV;PRF;PST
+shpresoj	do të shpresonit	V;2;PL;COND;PRS
+pshurr	të kishte pshurrur	V;3;SG;SBJV;PRF;PST
+ngre	të ngremë	V;1;PL;SBJV;PRS
+rreth	rrethit	N;ABL;SG;DEF
+institucion	institucioneve	N;DAT;PL;NDEF
+avulloj	avulloftë	V;3;SG;OPT;PRS
+përparoj	do të keni përparuar	V;2;PL;IND;PRF;FUT
+absorboj	duke pasë absorbuar	V;V.PTCP;PST
+masturboj	të kishin masturbuar	V;3;PL;SBJV;PRF;PST
+prodhoj	do të prodhonte	V;3;SG;COND;PRS
+ngrihem	të jemi ngritur	V;1;PL;SBJV;PRF
+dashuroj	do të dashuroni	V;2;PL;IND;FUT
+lahem	qofshim larë	V;1;PL;OPT;PRF
+pranoj	paskëshin pranuar	V;3;PL;ADM;PRF;PST
+zog	zogu	N;NOM;SG;DEF
+ndryshohem	të ishte ndryshuar	V;3;SG;SBJV;PRF;PST
+zbukuroj	të zbukuroje	V;2;SG;SBJV;PST
+trishtohem	u trishtuakëshe	V;2;SG;ADM;IPFV
+shpif	pata shpifur	V;1;SG;IND;PRF;PST
+mashkull	meshkujve	N;DAT;PL;NDEF
+kam	të keni	V;2;PL;SBJV;PRS
+lidh	paskësha lidhur	V;1;SG;ADM;PRF;PST
+injorohem	u injoruakëshe	V;2;SG;ADM;IPFV
+dhelpër	dhelprës	N;GEN;SG;DEF
+çelës	çelësit	N;GEN;SG;DEF
+bëj	patëm bërë	V;1;PL;IND;PRF;PST
+lidh	lidhnim	V;1;PL;IND;IPFV
+ndihmoj	paçit ndihmuar	V;2;PL;OPT;PRF
+uroj	të kishit uruar	V;2;PL;SBJV;PRF;PRF
+zgjedh	keni zgjedhur	V;2;PL;IND;PRF
+bëj	të keni bërë	V;2;PL;SBJV;PRF
+qij	qifshim	V;1;PL;OPT;PRS
+matematikan	matematikan	N;ACC;SG;NDEF
+qij	do të kishin qirë	V;3;PL;COND;PRF
+dërgoj	dërguakësh	V;3;SG;ADM;IPFV
+ngacmoj	paskëshin ngacmuar	V;3;PL;ADM;PRF;PST
+komunikoj	paskësh komunikuar	V;3;SG;ADM;PRF;PST
+puth	puthkan	V;3;PL;ADM;PRS
+sakrifikoj	do të kem sakrifikuar	V;1;SG;IND;PRF;FUT
+qortoj	do të kem qortuar	V;1;SG;IND;PRF;FUT
+iki	do të kesh ikiur	V;2;SG;IND;PRF;FUT
+palloj	palluar	V;V.PTCP
+shpejtësi	shpejtësia	N;NOM;SG;DEF
+bekoj	bekuat	V;2;PL;IND;PST
+dëshiroj	patëm dëshiruar	V;1;PL;IND;PRF;PST
+pëlqej	të kemi pëlqyer	V;1;PL;SBJV;PRF
+kuptoj	do të kem kuptuar	V;1;SG;IND;PRF;FUT
+tradhëtoj	tradhëtuakëshit	V;2;PL;ADM;IPFV
+shtegtoj	shtegtuakësh	V;3;SG;ADM;IPFV
+udhëzoj	paska udhëzuar	V;3;SG;ADM;PRF
+rrezikoj	të rrezikonte	V;3;SG;SBJV;PST
+filloj	do të fillonin	V;3;PL;COND;PRS
+udhëheq	paskam udhëhequr	V;1;SG;ADM;PRF
+sodomizohem	do të sodomizohesh	V;2;SG;IND;FUT
+shoh	paçin parë	V;3;PL;OPT;PRF
+gjeometri	gjeometrisë	N;GEN;SG;DEF
+zbukuroj	paskëshim zbukuruar	V;1;PL;ADM;PRF;PST
+kundërshtoj	kundërshtuat	V;2;PL;IND;PST
+çlirohem	u çliruaka	V;3;SG;ADM;PRS
+zbuloj	të zbulonit	V;2;PL;SBJV;PST
+jam	paça qenë	V;1;SG;OPT;PRF
+zgjoj	të zgjoni	V;2;PL;SBJV;PRS
+çliroj	të kishe çliruar	V;2;SG;SBJV;PRF;PST
+afirmoj	patëm afirmuar	V;1;PL;IND;PRF;PST
+zvarranik	zvarranikëve	N;GEN;PL;DEF
+shkëlqej	shkëlqyeka	V;3;SG;ADM;PRS
+luftoj	luftova	V;1;SG;IND;PST
+shkatërroj	shkatërronin	V;3;PL;IND;IPFV
+ngre	do të kem ngritur	V;1;SG;IND;PRF;FUT
+skelet	skeletë	N;ACC;PL;NDEF
+dërgoj	do të dërgonin	V;3;PL;COND;PRS
+ndryshohem	duke u ndryshuar	V;V.PTCP;PRS
+analogji	analogjive	N;GEN;PL;NDEF
+gjakmarrje	gjakmarrjet	N;NOM;PL;DEF
+abuzoj	paskëshin abuzuar	V;3;PL;ADM;PRF;PST
+përdor	përdorsh	V;2;SG;OPT;PRS
+gënjej	paskësha gënjyer	V;1;SG;ADM;PRF;PST
+peshohem	u peshove	V;2;SG;IND;PST
+dërgoj	do të kishte dërguar	V;3;SG;COND;PRF
+femër	femrave	N;DAT;PL;DEF
+lexoj	do të kishe lexuar	V;2;SG;COND;PRF
+organizëm	organizmave	N;DAT;PL;DEF
+njoftoj	njoftoj	V;1;SG;IND;PRS
+lodër	lodrave	N;DAT;PL;DEF
+zbuloj	të ketë zbuluar	V;3;SG;SBJV;PRF
+lëpij	lëpij	V;1;SG;IND;PRS
+shëndet	shëndet	N;NOM;SG;NDEF
+veprim	veprime	N;NOM;PL;NDEF
+muaj	muajve	N;GEN;PL;DEF
+lezbike	lezbikes	N;DAT;SG;DEF
+zhvilloj	pastë zhvilluar	V;3;SG;OPT;PRF
+stopohem	u stopuakeni	V;2;PL;ADM;PRS
+parabolë	parabolë	N;ACC;SG;NDEF
+qesh	të kenë qeshur	V;3;PL;SBJV;PRF
+ngre	do të ngremë	V;1;PL;IND;FUT
+notoj	të kemi notuar	V;1;PL;SBJV;PRF
+ngre	ngritkësha	V;1;SG;ADM;IPFV
+skllavëroj	skllavëruakëshim	V;1;PL;ADM;IPFV
+prodhoj	pastë prodhuar	V;3;SG;OPT;PRF
+shkronjë	shkronjave	N;DAT;PL;NDEF
+dhemb	dhembke	V;2;SG;ADM;PRS
+orientim	orientim	N;ACC;SG;NDEF
+pëlqej	paskëshim pëlqyer	V;1;PL;ADM;PRF;PST
+hidhërohem	do të hidhërohet	V;3;SG;IND;FUT
+dëshirë	dëshirave	N;ABL;PL;DEF
+çliroj	paskëshit çliruar	V;2;PL;ADM;PRF;PRF
+votoj	votuakëshe	V;2;SG;ADM;IPFV
+plagoj	plagon	V;2;SG;IND;PRS
+duroj	do të kem duruar	V;1;SG;IND;PRF;FUT
+fushatë	fushatave	N;GEN;PL;DEF
+peshoj	do të peshojë	V;3;SG;IND;FUT
+ndërlikoj	të ndërlikoj	V;1;SG;SBJV;PRS
+takohem	do të takoheni	V;2;PL;IND;FUT
+keqkuptoj	keqkuptofshim	V;1;PL;OPT;PRS
+liri	liri	N;NOM;PL;NDEF
+udhëhiqem	do të ishit udhëhequr	V;2;PL;COND;PRF
+gënjej	pastë gënjyer	V;3;SG;OPT;PRF
+udhëheq	pata udhëhequr	V;1;SG;IND;PRF;PST
+abdikoj	paskeni abdikuar	V;2;PL;ADM;PRF
+zgjohem	u zgjofsh	V;2;SG;OPT;PRS
+zgjoj	do të zgjojnë	V;3;PL;IND;FUT
+buzëqesh	do të kesh buzëqeshur	V;2;SG;IND;PRF;FUT
+mrekulli	mrekullitë	N;NOM;PL;DEF
+fërgoj	fërguakan	V;3;PL;ADM;PRS
+gjylpanë	gjylpane	N;ABL;SG;NDEF
+shpif	të shpifnin	V;3;PL;SBJV;PST
+rënkoj	paskam rënkuar	V;1;SG;ADM;PRF
+sinonim	sinonimeve	N;GEN;PL;NDEF
+masturbohem	të isha masturbuar	V;1;SG;SBJV;PRF;PST
+përgjithësoj	të kem përgjithësuar	V;1;SG;SBJV;PRF
+dardhë	dardha	N;NOM;SG;DEF
+ha	ngrënkemi	V;1;PL;ADM;PRS
+sakrifikoj	ka sakrifikuar	V;3;SG;IND;PRF
+interpretoj	të interpretojë	V;3;SG;SBJV;PRS
+trëndafil	trëndafil	N;NOM;SG;NDEF
+shtrembëroj	shtrembëroja	V;1;SG;IND;IPFV
+lahem	lahesha	V;1;SG;IND;IPFV
+propozoj	të kisha propozuar	V;1;SG;SBJV;PRF;PST
+zbeh	zbehkëshim	V;1;PL;ADM;IPFV
+dorëzohem	të ishte dorëzuar	V;3;SG;SBJV;PRF;PST
+rri	ndenjçin	V;3;PL;OPT;PRS
+shahist	shahistëve	N;GEN;PL;NDEF
+shkëlqej	do të shkëlqenin	V;3;PL;COND;PRS
+mendoj	paskan menduar	V;3;PL;ADM;PRF
+yndyrë	yndyrave	N;DAT;PL;DEF
+zgjedh	do të zgjedhim	V;1;PL;IND;FUT
+kundërthem	të kundërthoshte	V;3;SG;SBJV;PST
+adhuroj	paskeni adhuruar	V;2;PL;ADM;PRF
+provoj	do të provoj	V;1;SG;IND;FUT
+asnjanësoj	asnjanësuake	V;2;SG;ADM;PRS
+vajzë	vajzën	N;ACC;SG;DEF
+trishtohem	qofsha trishtuar	V;1;SG;OPT;PRF
+përkthej	do të përktheja	V;1;SG;COND;PRS
+lexoj	lexuakësha	V;1;SG;ADM;IPFV
+gjylpanë	gjylpanë	N;ACC;SG;NDEF
+pompoj	paçim pompuar	V;1;PL;OPT;PRF
+bisedoj	të bisedoje	V;2;SG;SBJV;PST
+pasthirrmë	pasthirrme	N;ABL;SG;NDEF
+lidh	paskëshim lidhur	V;1;PL;ADM;PRF;PST
+pompoj	të kisha pompuar	V;1;SG;SBJV;PRF;PST
+shtyp	të kishte shtypur	V;3;SG;SBJV;PRF;PST
+lëpij	të kisha lëpirë	V;1;SG;SBJV;PRF;PST
+duroj	ka duruar	V;3;SG;IND;PRF
+konsistoj	të konsistoni	V;2;PL;SBJV;PRS
+dërgoj	të kishe dërguar	V;2;SG;SBJV;PRF;PST
+pastroj	pastruam	V;1;PL;IND;PST
+mirësoj	të mirësonit	V;2;PL;SBJV;PST
+shok	shokëve	N;ABL;PL;DEF
+rri	ndenjkan	V;3;PL;ADM;PRS
+abdikoj	paskësha abdikuar	V;1;SG;ADM;PRF;PST
+preferoj	prefero	V;2;SG;IMP
+ndaj	pastë ndarë	V;3;SG;OPT;PRF
+ngjitem	do të ngjiteshin	V;3;PL;COND;PRS
+argëtoj	të argëtonim	V;1;PL;SBJV;PST
+zhdukje	zhdukje	N;ACC;SG;NDEF
+shkërdhej	paske shkërdhyer	V;2;SG;ADM;PRF
+afirmoj	afirmuakësha	V;1;SG;ADM;IPFV
+lahem	të jenë larë	V;3;PL;SBJV;PRF
+asgjësoj	asgjësoja	V;1;SG;IND;IPFV
+dorëzohem	u dorëzofshit	V;2;PL;OPT;PRS
+mbroj	mbruam	V;1;PL;IND;PST
+mendoj	do të keni menduar	V;2;PL;IND;PRF;FUT
+duroj	të kishte duruar	V;3;SG;SBJV;PRF;PST
+dhemb	do të ketë dhembur	V;3;SG;IND;PRF;FUT
+abstenoj	pate abstenuar	V;2;SG;IND;PRF;PST
+fërgoj	të fërgonte	V;3;SG;SBJV;PST
+nxehtësi	nxehtësia	N;NOM;SG;DEF
+shurrohem	u shurroi	V;3;SG;IND;PST
+biseksual	biseksuali	N;DAT;SG;NDEF
+shtyp	të shtypësh	V;2;SG;SBJV;PRS
+vë	vumë	V;1;PL;IND;PST
+çlirohem	u çliruakëshin	V;3;PL;ADM;IPFV
+mënd	do të kemi mëndur	V;1;PL;IND;PRF;FUT
+xhaxha	xhaxhallarëve	N;DAT;PL;DEF
+dorëzohem	për t'u dorëzuar	V;NFIN
+fortësi	fortësitë	N;NOM;PL;DEF
+punësohem	qofshin punësuar	V;3;PL;OPT;PRF
+ëndërroj	do të ëndërrojë	V;3;SG;IND;FUT
+buzëqesh	të keni buzëqeshur	V;2;PL;SBJV;PRF
+shkërdhej	të ketë shkërdhyer	V;3;SG;SBJV;PRF
+udhëheq	do të udhëhiqja	V;1;SG;COND;PRS
+flirtoj	flirtonit	V;2;PL;IND;IPFV
+armatos	armatosnin	V;3;PL;IND;IPFV
+funksion	funksionet	N;ACC;PL;DEF
+besoj	paskësha besuar	V;1;SG;ADM;PRF;PST
+ndryshoj	paçit ndryshuar	V;2;PL;OPT;PRF
+numër	numrit	N;DAT;SG;DEF
+sy	sy	N;NOM;PL;NDEF
+arësyetoj	të arësyetojmë	V;1;PL;SBJV;PRS
+zhvirgjërim	zhvirgjërimeve	N;GEN;PL;DEF
+themeloj	ka themeluar	V;3;SG;IND;PRF
+veçoj	të kenë veçuar	V;3;PL;SBJV;PRF
+krahasoj	të kenë krahasuar	V;3;PL;SBJV;PRF
+ndërlikoj	do të kishit ndërlikuar	V;2;PL;COND;PRF
+qendër	qendre	N;GEN;SG;NDEF
+ngjitem	ishe ngjituar	V;2;SG;IND;PRF;PST
+partner	partnerët	N;NOM;PL;DEF
+mësoj	pate mësuar	V;2;SG;IND;PRF;PST
+shkatërroj	shkatërruakëshit	V;2;PL;ADM;IPFV
+zhvirgjëroj	zhvirgjëroni	V;2;PL;IND;PRS
+ligj	ligjeve	N;GEN;PL;NDEF
+votoj	do të keni votuar	V;2;PL;IND;PRF;FUT
+udhëheq	pate udhëhequr	V;2;SG;IND;PRF;PST
+notoj	notofshim	V;1;PL;OPT;PRS
+grumbulloj	grumbullove	V;2;SG;IND;PST
+planet	planetit	N;GEN;SG;DEF
+dërgoj	dërgon	V;3;SG;IND;PRS
+shfuqizoj	do të kenë shfuqizuar	V;3;PL;IND;PRF;FUT
+thjeshtëzoj	pate thjeshtëzuar	V;2;SG;IND;PRF;PST
+abdikoj	abdikon	V;2;SG;IND;PRS
+qëndroj	paskam qëndruar	V;1;SG;ADM;PRF
+pastroj	pastro	V;2;SG;IMP
+kërcej	duke pasë kërcyer	V;V.PTCP;PST
+sulmoj	do të sulmonte	V;3;SG;COND;PRS
+rënkoj	rënkuakeni	V;2;PL;ADM;PRS
+fërkoj	fërkuakan	V;3;PL;ADM;PRS
+relaksohem	u relaksuam	V;1;PL;IND;PST
+adhuroj	patët adhuruar	V;2;PL;IND;PRF;PRF
+injoroj	paska injoruar	V;3;SG;ADM;PRF
+mbarohem	ishe mbaruar	V;2;SG;IND;PRF;PST
+skelet	skeletëve	N;DAT;PL;NDEF
+urinoj	urinoni	V;2;PL;IMP
+kërthizë	kërthiza	N;NOM;SG;DEF
+cjap	cjap	N;ACC;SG;NDEF
+njoftoj	do të kishte njoftuar	V;3;SG;COND;PRF
+kërcej	kërcefsh	V;2;SG;OPT;PRS
+shkëlqej	paskam shkëlqyer	V;1;SG;ADM;PRF
+takoj	kemi takuar	V;1;PL;IND;PRF
+transferoj	të transferojmë	V;1;PL;SBJV;PRS
+shfuqizim	shfuqizim	N;NOM;SG;NDEF
+transferoj	do të transferoje	V;2;SG;COND;PRS
+shkërdhej	shkërdheva	V;1;SG;IND;PST
+lëpij	lëpije	V;2;SG;IND;IPFV
+shqipoj	shqipuat	V;2;PL;IND;PST
+gjuhë	gjuhëve	N;DAT;PL;DEF
+lyp	paskëshe lypur	V;2;SG;ADM;PRF;PST
+provoj	të kishim provuar	V;1;PL;SBJV;PRF;PST
+gëzoj	të kesh gëzuar	V;2;SG;SBJV;PRF
+transferoj	do të transferonin	V;3;PL;COND;PRS
+ha	do të haja	V;1;SG;COND;PRS
+veçoj	të kishin veçuar	V;3;PL;SBJV;PRF;PST
+ligj	ligjin	N;ACC;SG;DEF
+jetoj	do të jetonte	V;3;SG;COND;PRS
+shtegtoj	të shtegtoja	V;1;SG;SBJV;PST
+luftoj	paskëshim luftuar	V;1;PL;ADM;PRF;PST
+ndihmoj	patët ndihmuar	V;2;PL;IND;PRF;PRF
+ngacmoj	ngacmoni	V;2;PL;IMP
+provoj	të ketë provuar	V;3;SG;SBJV;PRF
+ofendoj	ofendojnë	V;3;PL;IND;PRS
+armatos	paskëshin armatosur	V;3;PL;ADM;PRF;PST
+shkronjë	shkronja	N;NOM;SG;DEF
+abstenoj	të ketë abstenuar	V;3;SG;SBJV;PRF
+dërmoj	do të dërmonit	V;2;PL;COND;PRS
+sulmohem	sulmoheshit	V;2;PL;IND;IPFV
+shurroj	paskëshit shurruar	V;2;PL;ADM;PRF;PRF
+udhëzoj	të kem udhëzuar	V;1;SG;SBJV;PRF
+bashkëpunoj	bashkëpunuan	V;3;PL;IND;PST
+arësyetoj	do të arësyetojmë	V;1;PL;IND;FUT
+iki	do të kisha ikiur	V;1;SG;COND;PRF
+asgjësoj	paçim asgjësuar	V;1;PL;OPT;PRF
+vij	do të kishte ardhur	V;3;SG;COND;PRF
+bashkëpunëtor	bashkëpunëtorët	N;ACC;PL;DEF
+rri	duke ndenjur	V;V.PTCP;PRS
+luftoj	do të luftojmë	V;1;PL;IND;FUT
+mësohem	duke u mësuar	V;V.PTCP;PRS
+bisedoj	bisedo	V;2;SG;IMP
+shpresoj	paskësha shpresuar	V;1;SG;ADM;PRF;PST
+luftoj	luftofshim	V;1;PL;OPT;PRS
+çliroj	çliro	V;2;SG;IMP
+skllavëroj	skllavëruat	V;2;PL;IND;PST
+jetoj	patët jetuar	V;2;PL;IND;PRF;PRF
+përdor	të përdornim	V;1;PL;SBJV;PST
+shëndet	shëndeti	N;DAT;SG;NDEF
+urroj	të urroje	V;2;SG;SBJV;PST
+shikoj	patëm shikuar	V;1;PL;IND;PRF;PST
+urrej	kanë urryer	V;3;PL;IND;PRF
+relaksohem	duke u relaksuar	V;V.PTCP;PRS
+afrohem	të jemi afruar	V;1;PL;SBJV;PRF
+adhuroj	do të kishim adhuruar	V;1;PL;COND;PRF
+ndaloj	ndalonit	V;2;PL;IND;IPFV
+dhemb	të kishe dhembur	V;2;SG;SBJV;PRF;PST
+urroj	urruakësha	V;1;SG;ADM;IPFV
+shqipoj	shqipuakemi	V;1;PL;ADM;PRS
+keqkuptoj	duke keqkuptuar	V;V.PTCP;PRS
+stimuloj	të stimulosh	V;2;SG;SBJV;PRS
+çlirohem	qenkësh çliruar	V;3;SG;ADM;PRF;PST
+qesh	do të kishit qeshur	V;2;PL;COND;PRF
+thjeshtëzoj	të thjeshtëzoje	V;2;SG;SBJV;PST
+pëlqej	do të pëlqeni	V;2;PL;IND;FUT
+injoroj	të kenë injoruar	V;3;PL;SBJV;PRF
+zhvillim	zhvillimeve	N;GEN;PL;NDEF
+konsistoj	të kishe konsistuar	V;2;SG;SBJV;PRF;PST
+shtyp	shtypkam	V;1;SG;ADM;PRS
+armatos	kanë armatosur	V;3;PL;IND;PRF
+ëndërroj	paskan ëndërruar	V;3;PL;ADM;PRF
+adhuroj	do të ketë adhuruar	V;3;SG;IND;PRF;FUT
+mardh	paskësh mardhur	V;3;SG;ADM;PRF;PST
+gëzoj	paskemi gëzuar	V;1;PL;ADM;PRF
+keqkuptoj	të keqkuptosh	V;2;SG;SBJV;PRS
+shpif	shpif	V;3;SG;IND;PRS
+ndryshohem	ndryshoheshe	V;2;SG;IND;IPFV
+dialekt	dialektit	N;DAT;SG;DEF
+leksikologji	leksikologjisë	N;ABL;SG;DEF
+pëlqej	paskemi pëlqyer	V;1;PL;ADM;PRF
+histori	historitë	N;NOM;PL;DEF
+mas	do të masnin	V;3;PL;COND;PRS
+ndryshoj	ndryshuakëshin	V;3;PL;ADM;IPFV
+dëshiroj	paskan dëshiruar	V;3;PL;ADM;PRF
+përfitoj	do të kesh përfituar	V;2;SG;IND;PRF;FUT
+votoj	të kishte votuar	V;3;SG;SBJV;PRF;PST
+asnjanësoj	paskam asnjanësuar	V;1;SG;ADM;PRF
+beqar	beqar	N;NOM;SG;NDEF
+abdikoj	abdikofshin	V;3;PL;OPT;PRS
+lëpij	lëpifshit	V;2;PL;OPT;PRS
+ngre	ngritkëshim	V;1;PL;ADM;IPFV
+jap	dhënkëshim	V;1;PL;ADM;IPFV
+teknologji	teknologjitë	N;ACC;PL;DEF
+sodomizohem	do të ishte sodomizuar	V;3;SG;COND;PRF
+dhuratë	dhurata	N;NOM;PL;NDEF
+propozoj	të keni propozuar	V;2;PL;SBJV;PRF
+shpif	paskësh shpifur	V;3;SG;ADM;PRF;PST
+mbarohem	jam mbaruar	V;1;SG;IND;PRF
+shurrohem	të shurroheshin	V;3;PL;SBJV;PST
+komunikoj	ke komunikuar	V;2;SG;IND;PRF
+mirësoj	do të mirësonte	V;3;SG;COND;PRS
+kombësi	kombësisë	N;DAT;SG;DEF
+urim	urimin	N;ACC;SG;DEF
+stopohem	do të ishim stopuar	V;1;PL;COND;PRF
+mbretëri	mbretërive	N;DAT;PL;DEF
+masturboj	paskësh masturbuar	V;3;SG;ADM;PRF;PST
+dorëzohem	u dorëzoi	V;3;SG;IND;PST
+abuzoj	abuzuakëshin	V;3;PL;ADM;IPFV
+armatos	armatoskam	V;1;SG;ADM;PRS
+përkufizoj	të keni përkufizuar	V;2;PL;SBJV;PRF
+lyp	duke lypur	V;V.PTCP;PRS
+përsos	pati përsosur	V;3;SG;IND;PRF;PST
+mësohem	të jem mësuar	V;1;SG;SBJV;PRF
+vendos	paska vendosur	V;3;SG;ADM;PRF
+punësoj	do të keni punësuar	V;2;PL;IND;PRF;FUT
+transferoj	transferofshit	V;2;PL;OPT;PRS
+kuptoj	kuptofsh	V;2;SG;OPT;PRS
+ngritje	ngritjeve	N;GEN;PL;DEF
+qij	qimë	V;1;PL;IND;PST
+injoroj	paskësha injoruar	V;1;SG;ADM;PRF;PST
+puth	të puthnim	V;1;PL;SBJV;PST
+arësyetoj	paskëshin arësyetuar	V;3;PL;ADM;PRF;PST
+bashkëpunoj	ke bashkëpunuar	V;2;SG;IND;PRF
+dhunoj	paske dhunuar	V;2;SG;ADM;PRF
+mbroj	paçim mbruar	V;1;PL;OPT;PRF
+ndryshoj	paça ndryshuar	V;1;SG;OPT;PRF
+degjoj	degjuakan	V;3;PL;ADM;PRS
+besoj	do të kishte besuar	V;3;SG;COND;PRF
+skllavëroj	të kishim skllavëruar	V;1;PL;SBJV;PRF;PST
+ishull	ishulli	N;NOM;SG;DEF
+urinoj	paçin urinuar	V;3;PL;OPT;PRF
+lyp	lypnit	V;2;PL;IND;IPFV
+notoj	notoni	V;2;PL;IMP
+funksion	funksion	N;ACC;SG;NDEF
+zoolog	zoologu	N;DAT;SG;NDEF
+jam	qenkëshe	V;2;SG;ADM;IPFV
+ngre	do të ngrinte	V;3;SG;COND;PRS
+ndihmoj	të ndihmonin	V;3;PL;SBJV;PST
+rënkoj	të kishe rënkuar	V;2;SG;SBJV;PRF;PST
+notoj	noto	V;2;SG;IMP
+ndihmoj	do të ndihmoja	V;1;SG;COND;PRS
+dërgoj	paske dërguar	V;2;SG;ADM;PRF
+krijoj	të krijonte	V;3;SG;SBJV;PST
+buzëqesh	do të ketë buzëqeshur	V;3;SG;IND;PRF;FUT
+afirmoj	të afirmoni	V;2;PL;SBJV;PRS
+veçoj	veçon	V;3;SG;IND;PRS
+dhemb	do të kisha dhembur	V;1;SG;COND;PRF
+relaksohem	relaksoheni	V;2;PL;IND;PRS
+votoj	do të kishe votuar	V;2;SG;COND;PRF
+dëshiroj	ka dëshiruar	V;3;SG;IND;PRF
+shpjegoj	të kemi shpjeguar	V;1;PL;SBJV;PRF
+justifikoj	ka justifikuar	V;3;SG;IND;PRF
+thaj	thakam	V;1;SG;ADM;PRS
+ngrij	paskëshim ngrirë	V;1;PL;ADM;PRF;PST
+liqen	liqenit	N;DAT;SG;DEF
+qesh	patën qeshur	V;3;PL;IND;PRF;PST
+urroj	paçim urruar	V;1;PL;OPT;PRF
+sy	sy	N;ACC;PL;NDEF
+sulmoj	do të ketë sulmuar	V;3;SG;IND;PRF;FUT
+kar	karit	N;GEN;SG;DEF
+pompoj	do të pomposh	V;2;SG;IND;FUT
+shkretoj	patëm shkretuar	V;1;PL;IND;PRF;PST
+plagoj	do të kishim plaguar	V;1;PL;COND;PRF
+lahem	do të jenë larë	V;3;PL;IND;PRF;FUT
+mbuloj	mbulofshit	V;2;PL;OPT;PRS
+dërmoj	të dërmonin	V;3;PL;SBJV;PST
+shkretoj	do të shkretonim	V;1;PL;COND;PRS
+armatos	do të kisha armatosur	V;1;SG;COND;PRF
+shurrohem	jemi shurruar	V;1;PL;IND;PRF
+masturbohem	u masturbofsha	V;1;SG;OPT;PRS
+mas	do të masnim	V;1;PL;COND;PRS
+luginë	lugina	N;NOM;SG;DEF
+bizon	bizoneve	N;GEN;PL;DEF
+enigmë	enigma	N;NOM;PL;NDEF
+sodomizoj	do të sodomizosh	V;2;SG;IND;FUT
+dërmoj	të dërmoni	V;2;PL;SBJV;PRS
+muskul	muskujve	N;ABL;PL;DEF
+zgjohem	qenkemi zgjuar	V;1;PL;ADM;PRF
+bashkëveproj	të bashkëveprojmë	V;1;PL;SBJV;PRS
+iki	pati ikiur	V;3;SG;IND;PRF;PST
+abrogoj	kemi abroguar	V;1;PL;IND;PRF
+copëtoj	të kishim copëtuar	V;1;PL;SBJV;PRF;PST
+bakter	bakteret	N;NOM;PL;DEF
+krah	krahu	N;DAT;SG;NDEF
+mbarohem	u mbaruakëshit	V;2;PL;ADM;IPFV
+afirmoj	afirmuakëshit	V;2;PL;ADM;IPFV
+farë	farave	N;GEN;PL;DEF
+peshoj	peshoni	V;2;PL;IMP
+ëndërroj	të ëndërroj	V;1;SG;SBJV;PRS
+përkthej	të kisha përkthyer	V;1;SG;SBJV;PRF;PST
+abdikoj	abdikuakësh	V;3;SG;ADM;IPFV
+zgjedh	zgjedhi	V;3;SG;IND;PST
+buzëqeshje	buzëqeshje	N;NOM;SG;NDEF
+zhvirgjëroj	paskemi zhvirgjëruar	V;1;PL;ADM;PRF
+them	thotë	V;3;SG;IND;PRS
+lëpij	lëpive	V;2;SG;IND;PST
+shurroj	shurronim	V;1;PL;IND;IPFV
+abuzoj	abuzuakëshe	V;2;SG;ADM;IPFV
+dhemb	do të kishim dhembur	V;1;PL;COND;PRF
+argëtoj	argëtove	V;2;SG;IND;PST
+interpretoj	të interpretonit	V;2;PL;SBJV;PST
+relaksohem	do të relaksoheshit	V;2;PL;COND;PRS
+përparoj	do të kesh përparuar	V;2;SG;IND;PRF;FUT
+abstenoj	të abstenonim	V;1;PL;SBJV;PST
+hidhërohem	ishin hidhëruar	V;3;PL;IND;PRF;PST
+fe	fesë	N;GEN;SG;DEF
+fërkoj	do të fërkojmë	V;1;PL;IND;FUT
+çadër	çadër	N;ACC;SG;NDEF
+gënjej	gënjyekemi	V;1;PL;ADM;PRS
+dërgoj	dërguat	V;2;PL;IND;PST
+reagoj	do të kesh reaguar	V;2;SG;IND;PRF;FUT
+shpirtëroj	të shpirtëroja	V;1;SG;SBJV;PST
+çelës	çelësi	N;NOM;SG;DEF
+zhvillohem	të jemi zhvilluar	V;1;PL;SBJV;PRF
+fshij	patëm fshirë	V;1;PL;IND;PRF;PST
+sajoj	të sajoni	V;2;PL;SBJV;PRS
+tërheq	tërhiqje	V;2;SG;IND;IPFV
+shpjegoj	shpjeguar	V;V.PTCP
+përgjithësoj	paskam përgjithësuar	V;1;SG;ADM;PRF
+demokraci	demokracisë	N;DAT;SG;DEF
+përkëdhel	kanë përkëdhelur	V;3;PL;IND;PRF
+prek	do të prekni	V;2;PL;IND;FUT
+vendos	keni vendosur	V;2;PL;IND;PRF
+byrektore	byrektores	N;DAT;SG;DEF
+tradhëtoj	të kishte tradhëtuar	V;3;SG;SBJV;PRF;PST
+rrezikoj	do të rrezikoni	V;2;PL;IND;FUT
+kundërshtoj	do të kishit kundërshtuar	V;2;PL;COND;PRF
+zbukuroj	paçim zbukuruar	V;1;PL;OPT;PRF
+merimangë	merimangë	N;NOM;SG;NDEF
+çift	çifti	N;DAT;SG;NDEF
+dorëzohem	dorëzohen	V;3;PL;IND;PRS
+asgjësoj	paska asgjësuar	V;3;SG;ADM;PRF
+tradhëtoj	paske tradhëtuar	V;2;SG;ADM;PRF
+kërkoj	do të kisha kërkuar	V;1;SG;COND;PRF
+birë	bire	N;GEN;SG;NDEF
+udhëheq	të kenë udhëhequr	V;3;PL;SBJV;PRF
+shqyptar	shqyptarin	N;ACC;SG;DEF
+jetoj	paskeni jetuar	V;2;PL;ADM;PRF
+strukturë	strukture	N;GEN;SG;NDEF
+jap	paçim dhënë	V;1;PL;OPT;PRF
+transferoj	paskan transferuar	V;3;PL;ADM;PRF
+gjenocid	gjenocideve	N;DAT;PL;DEF
+plagoj	të keni plaguar	V;2;PL;SBJV;PRF
+degjoj	ka degjuar	V;3;SG;IND;PRF
+përdor	do të kesh përdorur	V;2;SG;IND;PRF;FUT
+ngrihem	ngritur	V;V.PTCP
+komunikoj	komunikuakësha	V;1;SG;ADM;IPFV
+lëpij	lëpijnë	V;3;PL;IND;PRS
+qaj	paskëshit qarë	V;2;PL;ADM;PRF;PRF
+filloj	do të kemi filluar	V;1;PL;IND;PRF;FUT
+mardh	ke mardhur	V;2;SG;IND;PRF
+mënd	të kesh mëndur	V;2;SG;SBJV;PRF
+injorohem	injoroheshin	V;3;PL;IND;IPFV
+rënkoj	të kishit rënkuar	V;2;PL;SBJV;PRF;PRF
+homoseksualitet	homoseksualitet	N;NOM;SG;NDEF
+dëmtoj	dëmtuakëshit	V;2;PL;ADM;IPFV
+degjoj	degjuakëshe	V;2;SG;ADM;IPFV
+puthje	puthjeve	N;GEN;PL;DEF
+nënkuptoj	nënkuptoni	V;2;PL;IMP
+gjarpër	gjarpërinjtë	N;ACC;PL;DEF
+ngre	do të ngrija	V;1;SG;COND;PRS
+notoj	të notonte	V;3;SG;SBJV;PST
+ndihmoj	ndihmove	V;2;SG;IND;PST
+yjësi	yjësive	N;DAT;PL;DEF
+lëshoj	do të kishit lëshuar	V;2;PL;COND;PRF
+përparoj	të kenë përparuar	V;3;PL;SBJV;PRF
+hap	hapkeni	V;2;PL;ADM;PRS
+flamur	flamurësh	N;ABL;PL;NDEF
+dorëzohem	u dorëzofshin	V;3;PL;OPT;PRS
+përkthim	përkthimeve	N;DAT;PL;NDEF
+galaktikë	galaktikë	N;ACC;SG;NDEF
+qaj	paç qarë	V;2;SG;OPT;PRF
+arësyetoj	të arësyetoni	V;2;PL;SBJV;PRS
+arratisem	do të arratisemi	V;1;PL;IND;FUT
+qortoj	do të keni qortuar	V;2;PL;IND;PRF;FUT
+përmirësoj	përmirësojmë	V;1;PL;IND;PRS
+thek	të thekin	V;3;PL;SBJV;PRS
+rrezikoj	rrezikuakëshim	V;1;PL;ADM;IPFV
+kërkesë	kërkesës	N;GEN;SG;DEF
+prek	preka	V;1;SG;IND;PST
+udhëzoj	udhëzuaka	V;3;SG;ADM;PRS
+thek	thek	V;3;SG;IND;PRS
+thaj	do të thanin	V;3;PL;COND;PRS
+relaksohem	të relaksohesh	V;2;SG;SBJV;PRS
+mësohem	jam mësuar	V;1;SG;IND;PRF
+abdikoj	paskëshit abdikuar	V;2;PL;ADM;PRF;PRF
+thaj	do të kemi tharë	V;1;PL;IND;PRF;FUT
+transferoj	ke transferuar	V;2;SG;IND;PRF
+mbuloj	mbuluakeni	V;2;PL;ADM;PRS
+iki	iki	V;2;SG;IMP
+bukë	bukë	N;ACC;SG;NDEF
+shembull	shembull	N;ACC;SG;NDEF
+gaboj	gabuakëshit	V;2;PL;ADM;IPFV
+flirtoj	flirton	V;2;SG;IND;PRS
+jetoj	jetonim	V;1;PL;IND;IPFV
+arratisem	është arratisuar	V;3;SG;IND;PRF
+njoftoj	do të kishe njoftuar	V;2;SG;COND;PRF
+udhëtoj	patën udhëtuar	V;3;PL;IND;PRF;PST
+nderoj	të kishit nderuar	V;2;PL;SBJV;PRF;PRF
+sqaroj	të sqaroja	V;1;SG;SBJV;PST
+fërgoj	do të fërgoni	V;2;PL;IND;FUT
+buzëqeshje	buzëqeshjeje	N;DAT;SG;NDEF
+stopohem	stopoheshe	V;2;SG;IND;IPFV
+shpif	të shpifnim	V;1;PL;SBJV;PST
+organizoj	organizuakam	V;1;SG;ADM;PRS
+uroj	të urojë	V;3;SG;SBJV;PRS
+krijoj	krijuakëshe	V;2;SG;ADM;IPFV
+shpresoj	paskemi shpresuar	V;1;PL;ADM;PRF
+urim	urimeve	N;DAT;PL;DEF
+rënkoj	të kem rënkuar	V;1;SG;SBJV;PRF
+këndoj	do të këndoni	V;2;PL;IND;FUT
+organizoj	paçit organizuar	V;2;PL;OPT;PRF
+bëhem	u bëftë	V;3;SG;OPT;PRS
+interpretoj	të kem interpretuar	V;1;SG;SBJV;PRF
+ofendoj	kanë ofenduar	V;3;PL;IND;PRF
+masturbohem	ishin masturbuar	V;3;PL;IND;PRF;PST
+shkencëtar	shkencëtarë	N;ACC;PL;NDEF
+ndal	ndal	V;2;SG;IMP
+dhemb	do të kishin dhembur	V;3;PL;COND;PRF
+sajoj	sajoi	V;3;SG;IND;PST
+masturboj	të masturboni	V;2;PL;SBJV;PRS
+udhëhiqem	u udhëhoqëm	V;1;PL;IND;PST
+ofendoj	do të ofendonin	V;3;PL;COND;PRS
+gënjej	do të gënjeje	V;2;SG;COND;PRS
+fërkoj	do të fërkoje	V;2;SG;COND;PRS
+vij	paskeni ardhur	V;2;PL;ADM;PRF
+mësoj	të mësojë	V;3;SG;SBJV;PRS
+burrëri	burrërisë	N;ABL;SG;DEF
+flamur	flamuri	N;ABL;SG;NDEF
+bëhem	u bënë	V;3;PL;IND;PST
+adhuroj	të kemi adhuruar	V;1;PL;SBJV;PRF
+propozoj	të kemi propozuar	V;1;PL;SBJV;PRF
+ngre	ngritkëshe	V;2;SG;ADM;IPFV
+ujë	uji	N;DAT;SG;NDEF
+numër	numër	N;NOM;SG;NDEF
+zhvillohem	të zhvilloheshin	V;3;PL;SBJV;PST
+asgjësoj	do të asgjësoj	V;1;SG;IND;FUT
+justifikoj	të kemi justifikuar	V;1;PL;SBJV;PRF
+jetoj	të jetojmë	V;1;PL;SBJV;PRS
+dritë	dritën	N;ACC;SG;DEF
+shpirtëroj	paskëshit shpirtëruar	V;2;PL;ADM;PRF;PRF
+mbaroj	të kemi mbaruar	V;1;PL;SBJV;PRF
+ngjitem	të ngjiteni	V;2;PL;SBJV;PRS
+abstenoj	do të abstenoj	V;1;SG;IND;FUT
+lahem	do të lahesha	V;1;SG;COND;PRS
+hidhërohem	u hidhëruake	V;2;SG;ADM;PRS
+rënkoj	paçin rënkuar	V;3;PL;OPT;PRF
+prek	të kisha prekur	V;1;SG;SBJV;PRF;PST
+sulmoj	sulmuakësha	V;1;SG;ADM;IPFV
+pranoj	pranuake	V;2;SG;ADM;PRS
+filloj	ka filluar	V;3;SG;IND;PRF
+përfitoj	paskëshin përfituar	V;3;PL;ADM;PRF;PST
+interpretoj	do të kishe interpretuar	V;2;SG;COND;PRF
+abuzoj	të abuzoj	V;1;SG;SBJV;PRS
+gënjej	do të kisha gënjyer	V;1;SG;COND;PRF
+udhëheq	do të udhëhiqje	V;2;SG;COND;PRS
+kërkoj	paskam kërkuar	V;1;SG;ADM;PRF
+asnjanësoj	duke asnjanësuar	V;V.PTCP;PRS
+qij	do të qijmë	V;1;PL;IND;FUT
+faturë	fatura	N;NOM;PL;NDEF
+orgazmë	orgazmën	N;ACC;SG;DEF
+konsistoj	paskeni konsistuar	V;2;PL;ADM;PRF
+fshij	fshin	V;2;SG;IND;PRS
+vazhdoj	vazhdoj	V;1;SG;IND;PRS
+shfuqizoj	keni shfuqizuar	V;2;PL;IND;PRF
+sodomizohem	do të ishim sodomizuar	V;1;PL;COND;PRF
+tradhëtoj	të kishe tradhëtuar	V;2;SG;SBJV;PRF;PST
+ngacmoj	do të ngacmoj	V;1;SG;IND;FUT
+prapanicë	prapanicës	N;ABL;SG;DEF
+radiolog	radiologu	N;ABL;SG;NDEF
+dëmtoj	të kisha dëmtuar	V;1;SG;SBJV;PRF;PST
+ndjesi	ndjesia	N;NOM;SG;DEF
+peshohem	peshoheni	V;2;PL;IND;PRS
+shkretoj	shkretuakësh	V;3;SG;ADM;IPFV
+mendoj	ka menduar	V;3;SG;IND;PRF
+bisedoj	ke biseduar	V;2;SG;IND;PRF
+mirësoj	paçim mirësuar	V;1;PL;OPT;PRF
+zbeh	do të zbehnim	V;1;PL;COND;PRS
+prodhoj	paskeni prodhuar	V;2;PL;ADM;PRF
+përdorim	përdorimeve	N;ABL;PL;DEF
+udhëzoj	të udhëzosh	V;2;SG;SBJV;PRS
+pavarësi	pavarësinë	N;ACC;SG;DEF
+dhemb	të dhembni	V;2;PL;SBJV;PRS
+vendos	vendos	V;1;SG;IND;PRS
+hardhucë	hardhucash	N;ABL;PL;NDEF
+galaktikë	galaktika	N;NOM;SG;DEF
+aheng	ahengjeve	N;DAT;PL;DEF
+afirmoj	do të afirmonim	V;1;PL;COND;PRS
+shpejtësi	shpejtësi	N;NOM;SG;NDEF
+uroj	do të kishin uruar	V;3;PL;COND;PRF
+stimuloj	paskësha stimuluar	V;1;SG;ADM;PRF;PST
+qesh	keni qeshur	V;2;PL;IND;PRF
+shqipoj	paçim shqipuar	V;1;PL;OPT;PRF
+ngacmoj	pate ngacmuar	V;2;SG;IND;PRF;PST
+libër	librat	N;NOM;PL;DEF
+shtet	shtetet	N;NOM;PL;DEF
+dorëzohem	qofshin dorëzuar	V;3;PL;OPT;PRF
+zbeh	paskeni zbehur	V;2;PL;ADM;PRF
+lahem	të ishit larë	V;2;PL;SBJV;PRF;PRF
+shigjetë	shigjete	N;ABL;SG;NDEF
+ofendoj	paskësh ofenduar	V;3;SG;ADM;PRF;PST
+thek	pati thekur	V;3;SG;IND;PRF;PST
+pëlqej	të pëlqente	V;3;SG;SBJV;PST
+hallë	hallën	N;ACC;SG;DEF
+skllavëroj	skllavëroj	V;1;SG;IND;PRS
+dhunoj	paskësha dhunuar	V;1;SG;ADM;PRF;PST
+arratisem	të isha arratisuar	V;1;SG;SBJV;PRF;PST
+duroj	për të duruar	V;NFIN
+zbeh	paçin zbehur	V;3;PL;OPT;PRF
+ha	do të haje	V;2;SG;COND;PRS
+them	të kishit thënë	V;2;PL;SBJV;PRF;PRF
+admiroj	patët admiruar	V;2;PL;IND;PRF;PRF
+takohem	u takofshin	V;3;PL;OPT;PRS
+vë	të vini	V;2;PL;SBJV;PRS
+sulmoj	do të kishe sulmuar	V;2;SG;COND;PRF
+mësoj	duke mësuar	V;V.PTCP;PRS
+mardh	paskam mardhur	V;1;SG;ADM;PRF
+institucion	institucionit	N;GEN;SG;DEF
+zemër	zemrave	N;ABL;PL;DEF
+prish	të kem prishur	V;1;SG;SBJV;PRF
+fushatë	fushate	N;DAT;SG;NDEF
+adhuroj	do të kishte adhuruar	V;3;SG;COND;PRF
+shtrembëroj	të shtrembëronin	V;3;PL;SBJV;PST
+përkthej	do të ketë përkthyer	V;3;SG;IND;PRF;FUT
+injoroj	patëm injoruar	V;1;PL;IND;PRF;PST
+ndaloj	do të kishte ndaluar	V;3;SG;COND;PRF
+homoseksualitet	homoseksualitetit	N;GEN;SG;DEF
+gju	gjuri	N;NOM;SG;DEF
+puthje	puthjeve	N;DAT;PL;NDEF
+pëlqej	paskan pëlqyer	V;3;PL;ADM;PRF
+skllavëroj	skllavëruan	V;3;PL;IND;PST
+ngrihem	u ngritka	V;3;SG;ADM;PRS
+ndaloj	ndaluam	V;1;PL;IND;PST
+homonim	homonimeve	N;DAT;PL;NDEF
+demokraci	demokracitë	N;NOM;PL;DEF
+shkronjë	shkronjave	N;DAT;PL;DEF
+përkthej	paskeni përkthyer	V;2;PL;ADM;PRF
+qij	qinim	V;1;PL;IND;IPFV
+masturboj	do të masturboja	V;1;SG;COND;PRS
+filloj	fillova	V;1;SG;IND;PST
+zbukuroj	të kishte zbukuruar	V;3;SG;SBJV;PRF;PST
+sodomizoj	kam sodomizuar	V;1;SG;IND;PRF
+afirmoj	afirmuakëshin	V;3;PL;ADM;IPFV
+krijoj	krijofsha	V;1;SG;OPT;PRS
+thjeshtëzoj	thjeshtëzojnë	V;3;PL;IND;PRS
+votoj	të votosh	V;2;SG;SBJV;PRS
+përmirësoj	të keni përmirësuar	V;2;PL;SBJV;PRF
+abonohem	jam abonuar	V;1;SG;IND;PRF
+pëlqej	paskësh pëlqyer	V;3;SG;ADM;PRF;PST
+asnjanësoj	të kenë asnjanësuar	V;3;PL;SBJV;PRF
+bashkëpunoj	të ketë bashkëpunuar	V;3;SG;SBJV;PRF
+shpall	shpalli	V;3;SG;IND;PST
+peshohem	është peshuar	V;3;SG;IND;PRF
+takoj	do të takoje	V;2;SG;COND;PRS
+palloj	palluakëshim	V;1;PL;ADM;IPFV
+lë	do të lesh	V;2;SG;IND;FUT
+shoh	kemi parë	V;1;PL;IND;PRF
+kuptoj	kuptuake	V;2;SG;ADM;PRS
+homonim	homonimin	N;ACC;SG;DEF
+preferoj	do të kishin preferuar	V;3;PL;COND;PRF
+vë	vë	V;1;SG;IND;PRS
+shkretoj	shkretuan	V;3;PL;IND;PST
+bashkëveproj	do të bashkëveprojmë	V;1;PL;IND;FUT
+thek	do të thekje	V;2;SG;COND;PRS
+shikoj	duke pasë shikuar	V;V.PTCP;PST
+injorohem	ishte injoruar	V;3;SG;IND;PRF;PST
+shqyptar	shqyptar	N;ACC;PL;NDEF
+shpjegoj	shpjegoje	V;2;SG;IND;IPFV
+çlirohem	të ishin çliruar	V;3;PL;SBJV;PRF;PST
+sqarim	sqarimesh	N;ABL;PL;NDEF
+shpjegoj	shpjeguakësh	V;3;SG;ADM;IPFV
+motër	motrave	N;GEN;PL;NDEF
+byrek	byrekëve	N;GEN;PL;NDEF
+adhuroj	për të adhuruar	V;NFIN
+ledhatoj	ledhatuakemi	V;1;PL;ADM;PRS
+rrugë	rrugën	N;ACC;SG;DEF
+bjond	bjond	N;ACC;SG;NDEF
+ndryshohem	qenka ndryshuar	V;3;SG;ADM;PRF
+stimuloj	të kemi stimuluar	V;1;PL;SBJV;PRF
+thaj	të thaja	V;1;SG;SBJV;PST
+preferoj	do të kesh preferuar	V;2;SG;IND;PRF;FUT
+takohem	ishim takuar	V;1;PL;IND;PRF;PST
+bëj	bëkëshim	V;1;PL;ADM;IPFV
+seksologji	seksologjie	N;DAT;SG;NDEF
+çlirohem	do të ishte çliruar	V;3;SG;COND;PRF
+dhuratë	dhuratë	N;ACC;SG;NDEF
+dëmtoj	dëmtova	V;1;SG;IND;PST
+trishtohem	do të ishim trishtuar	V;1;PL;COND;PRF
+armatos	të kishin armatosur	V;3;PL;SBJV;PRF;PST
+justifikoj	të justifikosh	V;2;SG;SBJV;PRS
+titull	tituj	N;NOM;PL;NDEF
+analogji	analogjive	N;DAT;PL;DEF
+abdikoj	pati abdikuar	V;3;SG;IND;PRF;PST
+lëpij	patën lëpirë	V;3;PL;IND;PRF;PST
+admiroj	admirofshin	V;3;PL;OPT;PRS
+shoh	patëm parë	V;1;PL;IND;PRF;PST
+mënd	të mëndë	V;3;SG;SBJV;PRS
+absorboj	absorbonin	V;3;PL;IND;IPFV
+shpall	shpallët	V;2;PL;IND;PST
+gaboj	gabuaka	V;3;SG;ADM;PRS
+abuzoj	pati abuzuar	V;3;SG;IND;PRF;PST
+provoj	provofshim	V;1;PL;OPT;PRS
+themeloj	të kemi themeluar	V;1;PL;SBJV;PRF
+abuzoj	do të abuzojnë	V;3;PL;IND;FUT
+mjekërr	mjekrrave	N;DAT;PL;DEF
+abrogoj	të abrogojnë	V;3;PL;SBJV;PRS
+mësohem	u mësuakëshe	V;2;SG;ADM;IPFV
+xhami	xhamive	N;GEN;PL;DEF
+peshohem	do të ishin peshuar	V;3;PL;COND;PRF
+abdikim	abdikimeve	N;ABL;PL;DEF
+lidh	të lidhnit	V;2;PL;SBJV;PST
+dëshiroj	dëshiruakeni	V;2;PL;ADM;PRS
+themeloj	kam themeluar	V;1;SG;IND;PRF
+plagoj	plaguakëshim	V;1;PL;ADM;IPFV
+pompoj	pompuakëshit	V;2;PL;ADM;IPFV
+urroj	urruakam	V;1;SG;ADM;PRS
+themeloj	themeluakëshit	V;2;PL;ADM;IPFV
+peshoj	do të peshoja	V;1;SG;COND;PRS
+dorashkë	dorashkave	N;DAT;PL;NDEF
+ha	ha	V;1;SG;IND;PRS
+shurrohem	do të shurrohej	V;3;SG;COND;PRS
+zbuloj	zbulofshim	V;1;PL;OPT;PRS
+kuptoj	do të kuptonim	V;1;PL;COND;PRS
+kuptoj	do të kuptojë	V;3;SG;IND;FUT
+bisedoj	biseduaka	V;3;SG;ADM;PRS
+zhvirgjërohem	duke u zhvirgjëruar	V;V.PTCP;PRS
+hidrat	hidratit	N;DAT;SG;DEF
+zhvirgjërohem	të jemi zhvirgjëruar	V;1;PL;SBJV;PRF
+reagoj	do të reagonit	V;2;PL;COND;PRS
+shkatërroj	do të shkatërroje	V;2;SG;COND;PRS
+zbeh	pate zbehur	V;2;SG;IND;PRF;PST
+injoroj	pati injoruar	V;3;SG;IND;PRF;PST
+qëndroj	të qëndroj	V;1;SG;SBJV;PRS
+peshoj	të kesh peshuar	V;2;SG;SBJV;PRF
+jap	jepni	V;2;PL;IMP
+vij	të kishe ardhur	V;2;SG;SBJV;PRF;PST
+abonohem	qenkëshit abonuar	V;2;PL;ADM;PRF;PRF
+rrezikoj	do të rrezikoje	V;2;SG;COND;PRS
+vyshkem	do të vyshkej	V;3;SG;COND;PRS
+masturbohem	ishe masturbuar	V;2;SG;IND;PRF;PST
+përfitoj	kemi përfituar	V;1;PL;IND;PRF
+iki	paskam ikiur	V;1;SG;ADM;PRF
+çantë	çantë	N;NOM;SG;NDEF
+enigmë	enigmave	N;ABL;PL;DEF
+komunikoj	komunikuakan	V;3;PL;ADM;PRS
+preferoj	do të preferoj	V;1;SG;IND;FUT
+bëhem	të jesh bërë	V;2;SG;SBJV;PRF
+sinonim	sinonim	N;NOM;SG;NDEF
+abdikoj	të abdikonin	V;3;PL;SBJV;PST
+themeloj	themeluakemi	V;1;PL;ADM;PRS
+sistem	sistemet	N;NOM;PL;DEF
+ndaj	të ndajnë	V;3;PL;SBJV;PRS
+femër	femrat	N;NOM;PL;DEF
+shpif	paska shpifur	V;3;SG;ADM;PRF
+bekoj	patët bekuar	V;2;PL;IND;PRF;PRF
+urroj	urruakëshit	V;2;PL;ADM;IPFV
+dhunoj	dhunonim	V;1;PL;IND;IPFV
+skllavëroj	skllavërofshim	V;1;PL;OPT;PRS
+hënë	hënë	N;ACC;SG;NDEF
+sulmoj	paçim sulmuar	V;1;PL;OPT;PRF
+përdorim	përdorime	N;ACC;PL;NDEF
+qytet	qytet	N;NOM;SG;NDEF
+sulmohem	do të sulmohesha	V;1;SG;COND;PRS
+bythë	bythët	N;NOM;PL;DEF
+shurroj	të shurroja	V;1;SG;SBJV;PST
+pastroj	të pastroje	V;2;SG;SBJV;PST
+ndryshoj	patëm ndryshuar	V;1;PL;IND;PRF;PST
+fshij	do të kisha fshirë	V;1;SG;COND;PRF
+avantazh	avantazhi	N;NOM;SG;DEF
+dhelpër	dhelprave	N;DAT;PL;NDEF
+pastroj	pastruakësha	V;1;SG;ADM;IPFV
+daj	dake	V;2;SG;ADM;PRS
+fërgoj	fërguan	V;3;PL;IND;PST
+vazhdoj	të kishit vazhduar	V;2;PL;SBJV;PRF;PRF
+kundërthem	kundërthuaj	V;2;SG;IMP
+strukturë	strukturës	N;GEN;SG;DEF
+krahasoj	ke krahasuar	V;2;SG;IND;PRF
+prek	do të kesh prekur	V;2;SG;IND;PRF;FUT
+filloj	do të kisha filluar	V;1;SG;COND;PRF
+shtegtoj	paska shtegtuar	V;3;SG;ADM;PRF
+shqyptar	shqyptart	N;NOM;PL;DEF
+mbroj	do të mbroja	V;1;SG;COND;PRS
+drejtim	drejtimit	N;ABL;SG;DEF
+ligjëroj	ligjëruan	V;3;PL;IND;PST
+copëtoj	copëtuakemi	V;1;PL;ADM;PRS
+kundërthem	të kishim kundërthënë	V;1;PL;SBJV;PRF;PST
+ngre	kam ngritur	V;1;SG;IND;PRF
+shuaj	paskëshin shuajtur	V;3;PL;ADM;PRF;PST
+mbaroj	mbarofshit	V;2;PL;OPT;PRS
+masturboj	keni masturbuar	V;2;PL;IND;PRF
+udhëhiqem	të udhëhiqesh	V;3;SG;SBJV;PST
+pastroj	pastruakan	V;3;PL;ADM;PRS
+vazhdoj	paçin vazhduar	V;3;PL;OPT;PRF
+nderoj	do të nderoja	V;1;SG;COND;PRS
+tërheq	do të keni tërhequr	V;2;PL;IND;PRF;FUT
+manaferrë	manaferrave	N;DAT;PL;NDEF
+sulmoj	do të kemi sulmuar	V;1;PL;IND;PRF;FUT
+ndal	ndalin	V;3;PL;IND;PRS
+vë	paçin vënë	V;3;PL;OPT;PRF
+shfuqizoj	paçim shfuqizuar	V;1;PL;OPT;PRF
+dialekt	dialekti	N;DAT;SG;NDEF
+sodomizohem	do të jem sodomizuar	V;1;SG;IND;PRF;FUT
+nënkuptoj	nënkuptuakëshe	V;2;SG;ADM;IPFV
+ngre	paçin ngritur	V;3;PL;OPT;PRF
+iki	ikini	V;2;PL;IND;PRS
+çlirohem	çlirohesha	V;1;SG;IND;IPFV
+afrohem	afrohu	V;2;SG;IMP
+fërkoj	do të kenë fërkuar	V;3;PL;IND;PRF;FUT
+zhvillohem	qofshim zhvilluar	V;1;PL;OPT;PRF
+ngacmoj	ngacmo	V;2;SG;IMP
+bisedoj	biseduakëshe	V;2;SG;ADM;IPFV
+propozoj	patët propozuar	V;2;PL;IND;PRF;PRF
+nderoj	të nderonit	V;2;PL;SBJV;PST
+puth	kemi puthur	V;1;PL;IND;PRF
+udhëheq	udhëheqkëshit	V;2;PL;ADM;IPFV
+shtyp	do të kem shtypur	V;1;SG;IND;PRF;FUT
+mbarohem	të mbarohesh	V;2;SG;SBJV;PRS
+jap	për të dhënë	V;NFIN
+mardh	do të kishte mardhur	V;3;SG;COND;PRF
+ndryshoj	do të ndryshoj	V;1;SG;IND;FUT
+shembull	shembulli	N;ABL;SG;NDEF
+bashkëveprim	bashkëveprimeve	N;DAT;PL;DEF
+pastroj	të pastrojë	V;3;SG;SBJV;PRS
+takoj	do të ketë takuar	V;3;SG;IND;PRF;FUT
+mbaroj	pata mbaruar	V;1;SG;IND;PRF;PST
+ndryshoj	ndryshoni	V;2;PL;IND;PRS
+dhunoj	të kemi dhunuar	V;1;PL;SBJV;PRF
+abdikoj	abdikuam	V;1;PL;IND;PST
+komunikoj	të kisha komunikuar	V;1;SG;SBJV;PRF;PST
+abonohem	u abonuakëshit	V;2;PL;ADM;IPFV
+harroj	kam harruar	V;1;SG;IND;PRF
+jam	të ishe	V;2;SG;SBJV;PST
+injorohem	injorohemi	V;1;PL;IND;PRS
+ndih	ndihën	V;3;PL;IND;PST
+iki	të kishit ikiur	V;2;PL;SBJV;PRF;PRF
+asnjanësoj	asnjanësoi	V;3;SG;IND;PST
+harroj	paskëshim harruar	V;1;PL;ADM;PRF;PST
+përsos	të kishe përsosur	V;2;SG;SBJV;PRF;PST
+përsos	paske përsosur	V;2;SG;ADM;PRF
+gjenealogji	gjenealogjitë	N;ACC;PL;DEF
+urroj	do të urroje	V;2;SG;COND;PRS
+mrekulli	mrekullish	N;ABL;PL;NDEF
+hasmëri	hasmërive	N;GEN;PL;DEF
+shfuqizim	shfuqizimit	N;ABL;SG;DEF
+gëzoj	të keni gëzuar	V;2;PL;SBJV;PRF
+tërheq	tërheqkemi	V;1;PL;ADM;PRS
+përfitoj	përfitofsh	V;2;SG;OPT;PRS
+abonohem	të abonoheshin	V;3;PL;SBJV;PST
+ëndërroj	ëndërronte	V;3;SG;IND;IPFV
+shoh	shohin	V;3;PL;IND;PRS
+mbuloj	mbulofshin	V;3;PL;OPT;PRS
+forcë	forcë	N;NOM;SG;NDEF
+dashuroj	paskëshin dashuruar	V;3;PL;ADM;PRF;PST
+rasë	rasave	N;DAT;PL;DEF
+stopohem	u stopuat	V;2;PL;IND;PST
+udhëheq	udhëheqkam	V;1;SG;ADM;PRS
+veçoj	veçofsha	V;1;SG;OPT;PRS
+shkatërroj	ka shkatërruar	V;3;SG;IND;PRF
+thek	të thekim	V;1;PL;SBJV;PRS
+degjoj	degjo	V;2;SG;IMP
+vë	të kishit vënë	V;2;PL;SBJV;PRF;PRF
+mënd	të mëndja	V;1;SG;SBJV;PST
+degjoj	paskëshin degjuar	V;3;PL;ADM;PRF;PST
+jam	qenkëshin	V;3;PL;ADM;IPFV
+pompoj	kemi pompuar	V;1;PL;IND;PRF
+histori	historie	N;ABL;SG;NDEF
+bretkosë	bretkose	N;DAT;SG;NDEF
+buzëqesh	buzëqeshim	V;1;PL;IND;PRS
+urroj	të keni urruar	V;2;PL;SBJV;PRF
+vë	të kesh vënë	V;2;SG;SBJV;PRF
+uroj	do të kesh uruar	V;2;SG;IND;PRF;FUT
+sociologji	sociologjisë	N;DAT;SG;DEF
+gjenealogji	gjenealogjive	N;GEN;PL;NDEF
+biseksual	biseksualëve	N;DAT;PL;NDEF
+urinoj	urinoi	V;3;SG;IND;PST
+dërmoj	të kenë dërmuar	V;3;PL;SBJV;PRF
+liqen	liqeneve	N;DAT;PL;NDEF
+afirmoj	do të kemi afirmuar	V;1;PL;IND;PRF;FUT
+kombësi	kombësie	N;DAT;SG;NDEF
+abuzoj	do të abuzonin	V;3;PL;COND;PRS
+sulmohem	do të ishin sulmuar	V;3;PL;COND;PRF
+luftoj	kam luftuar	V;1;SG;IND;PRF
+zog	zogjve	N;DAT;PL;NDEF
+kuptoj	do të kishte kuptuar	V;3;SG;COND;PRF
+takohem	do të takohemi	V;1;PL;IND;FUT
+shfuqizoj	shfuqizoj	V;1;SG;IND;PRS
+shtrembëroj	do të kishit shtrembëruar	V;2;PL;COND;PRF
+jam	qenkan	V;3;PL;ADM;PRS
+ngacmoj	të ngacmoje	V;2;SG;SBJV;PST
+përdor	paskeni përdorur	V;2;PL;ADM;PRF
+jetoj	paskëshe jetuar	V;2;SG;ADM;PRF;PST
+peshoj	peshojmë	V;1;PL;IND;PRS
+zgjoj	të zgjojmë	V;1;PL;SBJV;PRS
+fërgoj	fërguake	V;2;SG;ADM;PRS
+ndih	ndihur	V;V.PTCP
+shkatërroj	shkatërrofshim	V;1;PL;OPT;PRS
+uroj	uruakam	V;1;SG;ADM;PRS
+kam	do të kenë pasur	V;3;PL;IND;PRF;FUT
+mashkull	mashkullit	N;GEN;SG;DEF
+fshij	të kenë fshirë	V;3;PL;SBJV;PRF
+plagoj	të kishe plaguar	V;2;SG;SBJV;PRF;PST
+shoh	paskeni parë	V;2;PL;ADM;PRF
+zhvilloj	do të zhvillonin	V;3;PL;COND;PRS
+punësohem	u punësuakeni	V;2;PL;ADM;PRS
+bukë	bukë	N;ACC;PL;NDEF
+biseksual	biseksualëve	N;DAT;PL;DEF
+mjellmë	mjellmash	N;ABL;PL;NDEF
+përdor	përdorkeni	V;2;PL;ADM;PRS
+pederasti	pederastia	N;NOM;SG;DEF
+mendoj	menduakëshim	V;1;PL;ADM;IPFV
+shtyp	shtypnim	V;1;PL;IND;IPFV
+shurrohem	shurrohu	V;2;SG;IMP
+ndryshoj	ndryshonit	V;2;PL;IND;IPFV
+prish	të kishte prishur	V;3;SG;SBJV;PRF;PST
+vyshkem	qofshim vyshkuar	V;1;PL;OPT;PRF
+zhvirgjërohem	do të jemi zhvirgjëruar	V;1;PL;IND;PRF;FUT
+mrekulli	mrekullive	N;DAT;PL;NDEF
+lexoj	do të kemi lexuar	V;1;PL;IND;PRF;FUT
+seksolog	seksologun	N;ACC;SG;DEF
+fortësi	fortësie	N;ABL;SG;NDEF
+sodomizohem	qenka sodomizuar	V;3;SG;ADM;PRF
+çlirohem	çlirohuni	V;2;PL;IMP
+abrogoj	abroguakësha	V;1;SG;ADM;IPFV
+jetoj	jeton	V;2;SG;IND;PRS
+përparoj	patët përparuar	V;2;PL;IND;PRF;PRF
+jetoj	do të jetonit	V;2;PL;COND;PRS
+astronomi	astronomia	N;NOM;SG;DEF
+them	do të thoshe	V;2;SG;COND;PRS
+plagoj	paç plaguar	V;2;SG;OPT;PRF
+lahem	do të isha larë	V;1;SG;COND;PRF
+rri	të rrije	V;2;SG;SBJV;PST
+filloj	të filloja	V;1;SG;SBJV;PST
+përdorim	përdorimi	N;DAT;SG;NDEF
+përkufizoj	keni përkufizuar	V;2;PL;IND;PRF
+abrogoj	abrogove	V;2;SG;IND;PST
+filloj	do të filloja	V;1;SG;COND;PRS
+lidh	kemi lidhur	V;1;PL;IND;PRF
+prek	prekkësha	V;1;SG;ADM;IPFV
+thaj	të kishim tharë	V;1;PL;SBJV;PRF;PST
+dhuroj	do të kenë dhuruar	V;3;PL;IND;PRF;FUT
+bashkëveproj	të kishin bashkëvepruar	V;3;PL;SBJV;PRF;PST
+degjoj	të kishin degjuar	V;3;PL;SBJV;PRF;PST
+shuaj	paskësha shuajtur	V;1;SG;ADM;PRF;PST
+qesh	paçin qeshur	V;3;PL;OPT;PRF
+shfuqizoj	të shfuqizoni	V;2;PL;SBJV;PRS
+afirmoj	afirmoi	V;3;SG;IND;PST
+kuptim	kuptimi	N;ABL;SG;NDEF
+krahasoj	krahasoje	V;2;SG;IND;IPFV
+pompoj	do të kisha pompuar	V;1;SG;COND;PRF
+udhëtoj	do të kishe udhëtuar	V;2;SG;COND;PRF
+pastroj	paçin pastruar	V;3;PL;OPT;PRF
+homoseksual	homoseksualë	N;ACC;PL;NDEF
+partner	partnerëve	N;ABL;PL;DEF
+dhuroj	të dhurosh	V;2;SG;SBJV;PRS
+hoxhë	hoxhës	N;ABL;SG;DEF
+kundërshtoj	të kishte kundërshtuar	V;3;SG;SBJV;PRF;PST
+adhuroj	paskëshin adhuruar	V;3;PL;ADM;PRF;PST
+shqipoj	të kishim shqipuar	V;1;PL;SBJV;PRF;PST
+abdikim	abdikimit	N;GEN;SG;DEF
+zbukuroj	paça zbukuruar	V;1;SG;OPT;PRF
+njoftoj	të njoftosh	V;2;SG;SBJV;PRS
+shtrembëroj	paçim shtrembëruar	V;1;PL;OPT;PRF
+prek	prekëm	V;1;PL;IND;PST
+reagoj	do të kem reaguar	V;1;SG;IND;PRF;FUT
+abrogoj	paske abroguar	V;2;SG;ADM;PRF
+mbarohem	do të ishe mbaruar	V;2;SG;COND;PRF
+masturbohem	do të masturbohet	V;3;SG;IND;FUT
+abdikoj	do të kishin abdikuar	V;3;PL;COND;PRF
+buzëqesh	buzëqeshën	V;3;PL;IND;PST
+skllavëroj	skllavëruakëshin	V;3;PL;ADM;IPFV
+miqësohem	miqësoheni	V;2;PL;IND;PRS
+mësoj	të mësonim	V;1;PL;SBJV;PST
+ngjitem	ishte ngjituar	V;3;SG;IND;PRF;PST
+vrimë	vrimave	N;GEN;PL;NDEF
+kuptoj	kuptojnë	V;3;PL;IND;PRS
+femër	femrës	N;GEN;SG;DEF
+urroj	urronin	V;3;PL;IND;IPFV
+ndih	do të kenë ndihur	V;3;PL;IND;PRF;FUT
+kafshoj	do të kafshoj	V;1;SG;IND;FUT
+bashkëpunoj	patën bashkëpunuar	V;3;PL;IND;PRF;PST
+përdor	përdorkësha	V;1;SG;ADM;IPFV
+jam	do të kisha qenë	V;1;SG;COND;PRF
+justifikoj	do të ketë justifikuar	V;3;SG;IND;PRF;FUT
+njoftoj	njoftuaka	V;3;SG;ADM;PRS
+avantazh	avantazhit	N;ABL;SG;DEF
+trishtohem	të trishtohesha	V;1;SG;SBJV;PST
+mbroj	paskëshe mbruar	V;2;SG;ADM;PRF;PST
+rri	të kishit ndenjur	V;2;PL;SBJV;PRF;PRF
+degjoj	degjuake	V;2;SG;ADM;PRS
+transferoj	transferon	V;3;SG;IND;PRS
+prezervativ	prezervativet	N;ACC;PL;DEF
+pëlqej	pëlqejnë	V;3;PL;IND;PRS
+degjoj	do të kishim degjuar	V;1;PL;COND;PRF
+mësohem	të mësohet	V;3;SG;SBJV;PRS
+shfuqizoj	do të kisha shfuqizuar	V;1;SG;COND;PRF
+udhëhiqem	ishit udhëhequr	V;2;PL;IND;PRF;PRF
+zyrë	zyrave	N;DAT;PL;NDEF
+përdor	të përdornin	V;3;PL;SBJV;PST
+hap	hapkemi	V;1;PL;ADM;PRS
+koleg	koleg	N;NOM;SG;NDEF
+thithkë	thithkave	N;ABL;PL;DEF
+plagoj	plagonit	V;2;PL;IND;IPFV
+palloj	palloni	V;2;PL;IMP
+vagjinë	vagjina	N;NOM;PL;NDEF
+përdor	kanë përdorur	V;3;PL;IND;PRF
+armatos	armatoskësha	V;1;SG;ADM;IPFV
+shqipoj	të shqipoja	V;1;SG;SBJV;PST
+udhëzoj	do të udhëzojmë	V;1;PL;IND;FUT
+copëtoj	do të keni copëtuar	V;2;PL;IND;PRF;FUT
+afirmoj	afirmon	V;2;SG;IND;PRS
+shqipoj	kemi shqipuar	V;1;PL;IND;PRF
+lëshoj	të kesh lëshuar	V;2;SG;SBJV;PRF
+justifikoj	do të justifikoni	V;2;PL;IND;FUT
+luftoj	paç luftuar	V;2;SG;OPT;PRF
+enigmë	enigma	N;ACC;PL;NDEF
+qaj	duke qarë	V;V.PTCP;PRS
+mbarohem	qenka mbaruar	V;3;SG;ADM;PRF
+zgjohem	do të jemi zgjuar	V;1;PL;IND;PRF;FUT
+justifikoj	justifikuakan	V;3;PL;ADM;PRS
+fillim	fillimet	N;NOM;PL;DEF
+peshohem	të peshohesh	V;2;SG;SBJV;PRS
+avulloj	pata avulluar	V;1;SG;IND;PRF;PST
+penis	penis	N;ACC;SG;NDEF
+veçoj	paska veçuar	V;3;SG;ADM;PRF
+ndaj	paç ndarë	V;2;SG;OPT;PRF
+zanafillë	zanafille	N;GEN;SG;NDEF
+preferoj	kam preferuar	V;1;SG;IND;PRF
+organizoj	organizo	V;2;SG;IMP
+masturboj	paç masturbuar	V;2;SG;OPT;PRF
+lidh	të lidhin	V;3;PL;SBJV;PRS
+lëndim	lëndimet	N;GEN;SG;DEF
+masturbohem	të jesh masturbuar	V;2;SG;SBJV;PRF
+sajoj	sajova	V;1;SG;IND;PST
+mbaroj	do të keni mbaruar	V;2;PL;IND;PRF;FUT
+mbret	mbretërve	N;DAT;PL;DEF
+ndaloj	të kishit ndaluar	V;2;PL;SBJV;PRF;PRF
+gaboj	të kem gabuar	V;1;SG;SBJV;PRF
+harroj	të kesh harruar	V;2;SG;SBJV;PRF
+mësoj	kemi mësuar	V;1;PL;IND;PRF
+sinonim	sinonime	N;ACC;PL;NDEF
+dajë	dajë	N;ACC;SG;NDEF
+qij	të qijmë	V;1;PL;SBJV;PRS
+gaboj	do të kem gabuar	V;1;SG;IND;PRF;FUT
+organizoj	të kemi organizuar	V;1;PL;SBJV;PRF
+shkretoj	të shkretonit	V;2;PL;SBJV;PST
+masturboj	të masturboje	V;2;SG;SBJV;PST
+shurrohem	do të isha shurruar	V;1;SG;COND;PRF
+tradhëtoj	pati tradhëtuar	V;3;SG;IND;PRF;PST
+abrogoj	të kishim abroguar	V;1;PL;SBJV;PRF;PST
+kërthizë	kërthizave	N;ABL;PL;DEF
+psikolog	psikologësh	N;ABL;PL;NDEF
+prodhoj	prodhuat	V;2;PL;IND;PST
+hënë	hënave	N;DAT;PL;DEF
+shikoj	do të keni shikuar	V;2;PL;IND;PRF;FUT
+rrezikoj	rrezikuakeni	V;2;PL;ADM;PRS
+zonë erogjene	zona erogjene	N;NOM;SG;DEF
+palloj	të pallonit	V;2;PL;SBJV;PST
+ngre	të ngrija	V;1;SG;SBJV;PST
+pëlqej	pëlqenit	V;2;PL;IND;IPFV
+shkronjë	shkronjave	N;GEN;PL;NDEF
+sinonim	sinonimesh	N;ABL;PL;NDEF
+prek	prekkësh	V;3;SG;ADM;IPFV
+asgjësoj	asgjësuakësh	V;3;SG;ADM;IPFV
+vyshkem	të ishit vyshkuar	V;2;PL;SBJV;PRF;PRF
+pëlqej	pëlqefshit	V;2;PL;OPT;PRS
+skllavëri	skllavëri	N;ACC;SG;NDEF
+prish	pati prishur	V;3;SG;IND;PRF;PST
+fsheh	të kem fshehur	V;1;SG;SBJV;PRF
+ëndërroj	ëndërruar	V;V.PTCP
+sajoj	të sajosh	V;2;SG;SBJV;PRS
+zhvirgjërohem	zhvirgjërohu	V;2;SG;IMP
+zbuloj	të kemi zbuluar	V;1;PL;SBJV;PRF
+fërgoj	do të kishte fërguar	V;3;SG;COND;PRF
+enigmë	enigmat	N;ACC;PL;DEF
+lezbike	lezbike	N;ACC;PL;NDEF
+kërcej	të kërceni	V;2;PL;SBJV;PRS
+organizoj	paskësh organizuar	V;3;SG;ADM;PRF;PST
+mësohem	u mësuake	V;2;SG;ADM;PRS
+shpif	shpifkëshit	V;2;PL;ADM;IPFV
+përkëdhel	pate përkëdhelur	V;2;SG;IND;PRF;PST
+puth	puthka	V;3;SG;ADM;PRS
+përmirësoj	paskemi përmirësuar	V;1;PL;ADM;PRF
+ngrihem	ngriheni	V;2;PL;IND;PRS
+shkretoj	do të keni shkretuar	V;2;PL;IND;PRF;FUT
+tërheq	të kishim tërhequr	V;1;PL;SBJV;PRF;PST
+ftohtësi	ftohtësie	N;ABL;SG;NDEF
+njoftoj	do të njoftoni	V;2;PL;IND;FUT
+prapanicë	prapanicash	N;ABL;PL;NDEF
+zgjohem	u zgjofshin	V;3;PL;OPT;PRS
+shpif	shpifkësh	V;3;SG;ADM;IPFV
+organizoj	kanë organizuar	V;3;PL;IND;PRF
+ngre	ngrenë	V;3;PL;IND;PRS
+sakrifikoj	do të sakrifikonte	V;3;SG;COND;PRS
+abdikim	abdikimet	N;NOM;PL;DEF
+urinoj	urinuakeni	V;2;PL;ADM;PRS
+strukturë	strukturë	N;ACC;SG;NDEF
+anëtar	anëtari	N;DAT;SG;NDEF
+bisedoj	do të bisedonit	V;2;PL;COND;PRS
+stimuloj	stimulonin	V;3;PL;IND;IPFV
+kërkoj	kërkoni	V;2;PL;IND;PRS
+galaktikë	galaktika	N;NOM;PL;NDEF
+nënkuptoj	nënkuptoje	V;2;SG;IND;IPFV
+kundërthem	paskeni kundërthënë	V;2;PL;ADM;PRF
+abonohem	abonohet	V;3;SG;IND;PRS
+mësoj	paç mësuar	V;2;SG;OPT;PRF
+thjeshtëzoj	do të thjeshtëzonit	V;2;PL;COND;PRS
+urrej	urryekëshin	V;3;PL;ADM;IPFV
+notoj	do të kem notuar	V;1;SG;IND;PRF;FUT
+reagoj	reagonte	V;3;SG;IND;IPFV
+flirtoj	të ketë flirtuar	V;3;SG;SBJV;PRF
+luftëtar	luftëtar	N;NOM;SG;NDEF
+bretkosë	bretkose	N;GEN;SG;NDEF
+thek	thekim	V;1;PL;IND;PRS
+tradhëtoj	tradhëtuaka	V;3;SG;ADM;PRS
+vendos	të vendosja	V;1;SG;SBJV;PST
+ëndërroj	ëndërron	V;2;SG;IND;PRS
+abrogoj	paskan abroguar	V;3;PL;ADM;PRF
+qesh	pastë qeshur	V;3;SG;OPT;PRF
+interpretoj	interpretuakëshit	V;2;PL;ADM;IPFV
+zgjohem	u zgjuakësha	V;1;SG;ADM;IPFV
+takoj	paskëshit takuar	V;2;PL;ADM;PRF;PRF
+dhunoj	dhuno	V;2;SG;IMP
+hyrje	hyrjen	N;ACC;SG;DEF
+sodomizoj	të sodomizonim	V;1;PL;SBJV;PST
+miqësohem	qofsh miqësuar	V;2;SG;OPT;PRF
+pshurr	do të pshurrnim	V;1;PL;COND;PRS
+puth	të ketë puthur	V;3;SG;SBJV;PRF
+ofendoj	duke ofenduar	V;V.PTCP;PRS
+dërgoj	kemi dërguar	V;1;PL;IND;PRF
+them	të thonë	V;3;PL;SBJV;PRS
+justifikoj	do të justifikonin	V;3;PL;COND;PRS
+fshij	fshikemi	V;1;PL;ADM;PRS
+shoh	të shihte	V;3;SG;SBJV;PST
+byrek	byrekut	N;ABL;SG;DEF
+botë	bote	N;GEN;SG;NDEF
+dashuroj	dashuruake	V;2;SG;ADM;PRS
+admiroj	admirofshim	V;1;PL;OPT;PRS
+dhuroj	dhuruan	V;3;PL;IND;PST
+kafshë	kafshësh	N;ABL;PL;NDEF
+pshurr	pshurri	V;3;SG;IND;PST
+gënjej	paskam gënjyer	V;1;SG;ADM;PRF
+sodomizoj	sodomizojnë	V;3;PL;IND;PRS
+armatos	të kesh armatosur	V;2;SG;SBJV;PRF
+dhunoj	dhunove	V;2;SG;IND;PST
+dhuroj	dhuroni	V;2;PL;IND;PRS
+dhuroj	do të dhuronim	V;1;PL;COND;PRS
+vyshkem	vyshkeni	V;2;PL;IND;PRS
+lë	do të lë	V;1;SG;IND;FUT
+injorohem	të injorohem	V;1;SG;SBJV;PRS
+kundërshtoj	kundërshtuakëshe	V;2;SG;ADM;IPFV
+hidrat	hidrati	N;ABL;SG;NDEF
+vazhdoj	duke vazhduar	V;V.PTCP;PRS
+armatos	të armatosë	V;3;SG;SBJV;PRS
+përkthim	përkthimeve	N;DAT;PL;DEF
+jap	jepja	V;1;SG;IND;IPFV
+gëzoj	do të kemi gëzuar	V;1;PL;IND;PRF;FUT
+puth	të puthësh	V;2;SG;SBJV;PRS
+abstenoj	do të kesh abstenuar	V;2;SG;IND;PRF;FUT
+peshohem	peshohet	V;3;SG;IND;PRS
+shtrembëroj	shtrembëruakan	V;3;PL;ADM;PRS
+absorboj	absorbofshim	V;1;PL;OPT;PRS
+qij	të qijë	V;3;SG;SBJV;PRS
+nderoj	nderofshim	V;1;PL;OPT;PRS
+derdhje	derdhjeve	N;GEN;PL;NDEF
+shkretoj	shkretove	V;2;SG;IND;PST
+pasthirrmë	pasthirrmë	N;NOM;SG;NDEF
+kundërshtoj	patët kundërshtuar	V;2;PL;IND;PRF;PRF
+pornograf	pornografi	N;GEN;SG;NDEF
+qij	patëm qirë	V;1;PL;IND;PRF;PST
+prish	prishsh	V;2;SG;OPT;PRS
+biologji	biologjisë	N;DAT;SG;DEF
+trishtohem	qoftë trishtuar	V;3;SG;OPT;PRF
+ndihmoj	do të ndihmojmë	V;1;PL;IND;FUT
+njoftoj	do të kishit njoftuar	V;2;PL;COND;PRF
+peshkaqen	peshkaqene	N;ACC;PL;NDEF
+besoj	besuam	V;1;PL;IND;PST
+fshij	do të fshijnë	V;3;PL;IND;FUT
+trishtohem	u trishtuat	V;2;PL;IND;PST
+bashkëveproj	duke pasë bashkëvepruar	V;V.PTCP;PST
+shtrembëroj	shtrembëronte	V;3;SG;IND;IPFV
+justifikoj	për të justifikuar	V;NFIN
+themeloj	themeloni	V;2;PL;IMP
+gëzoj	të gëzonim	V;1;PL;SBJV;PST
+takohem	takohen	V;3;PL;IND;PRS
+shpif	shpifur	V;V.PTCP
+ngacmoj	ka ngacmuar	V;3;SG;IND;PRF
+penis	penisëve	N;DAT;PL;DEF
+mbaroj	mbaroi	V;3;SG;IND;PST
+shtrembëroj	shtrembëruakeni	V;2;PL;ADM;PRS
+zgjohem	qoftë zgjuar	V;3;SG;OPT;PRF
+përkëdhel	paskeni përkëdhelur	V;2;PL;ADM;PRF
+fsheh	do të kesh fshehur	V;2;SG;IND;PRF;FUT
+stimuloj	të stimuloje	V;2;SG;SBJV;PST
+nënkuptoj	pati nënkuptuar	V;3;SG;IND;PRF;PST
+udhëhiqem	qenkëshim udhëhequr	V;1;PL;ADM;PRF;PST
+dhuroj	do të ketë dhuruar	V;3;SG;IND;PRF;FUT
+ndal	ndala	V;1;SG;IND;PST
+grumbulloj	grumbulloni	V;2;PL;IMP
+zhvirgjëroj	zhvirgjëruakëshe	V;2;SG;ADM;IPFV
+mbarohem	mbaroheshe	V;2;SG;IND;IPFV
+biletë	biletën	N;ACC;SG;DEF
+fshij	fshifsh	V;2;SG;OPT;PRS
+përsos	përsoske	V;2;SG;ADM;PRS
+bisedoj	do të kisha biseduar	V;1;SG;COND;PRF
+mbaroj	paskëshin mbaruar	V;3;PL;ADM;PRF;PST
+zhvilloj	të zhvillojë	V;3;SG;SBJV;PRS
+organizoj	do të kishit organizuar	V;2;PL;COND;PRF
+kam	kishin	V;3;PL;IND;IPFV
+thjeshtëzoj	thjeshtëzuan	V;3;PL;IND;PST
+mënd	mëndshin	V;3;PL;OPT;PRS
+filloj	të fillojnë	V;3;PL;SBJV;PRS
+mësoj	të kishin mësuar	V;3;PL;SBJV;PRF;PST
+ndal	kanë ndalur	V;3;PL;IND;PRF
+zgjohem	zgjohet	V;3;SG;IND;PRS
+jap	paskëshim dhënë	V;1;PL;ADM;PRF;PST
+dërmoj	do të dërmosh	V;2;SG;IND;FUT
+orgji	orgjish	N;ABL;PL;NDEF
+justifikoj	paskësha justifikuar	V;1;SG;ADM;PRF;PST
+yjësi	yjësive	N;DAT;PL;NDEF
+shtegtoj	shtegtuan	V;3;PL;IND;PST
+sqaroj	do të kem sqaruar	V;1;SG;IND;PRF;FUT
+yjësi	yjësisë	N;GEN;SG;DEF
+mandarinë	mandarinë	N;ACC;SG;NDEF
+ushqim	ushqimit	N;DAT;SG;DEF
+bëhem	u bëkëshin	V;3;PL;ADM;IPFV
+sajoj	do të sajonin	V;3;PL;COND;PRS
+bëhem	të ishim bërë	V;1;PL;SBJV;PRF;PST
+çliroj	paskan çliruar	V;3;PL;ADM;PRF
+yjësi	yjësie	N;DAT;SG;NDEF
+abdikoj	keni abdikuar	V;2;PL;IND;PRF
+përkëdhel	do të përkëdhelë	V;3;SG;IND;FUT
+numër	numrave	N;ABL;PL;DEF
+sajoj	sajuakemi	V;1;PL;ADM;PRS
+trishtohem	të isha trishtuar	V;1;SG;SBJV;PRF;PST
+stimuloj	pata stimuluar	V;1;SG;IND;PRF;PST
+shikoj	shikoi	V;3;SG;IND;PST
+liri	liritë	N;NOM;PL;DEF
+histori	histori	N;ACC;SG;NDEF
+preferoj	të preferojmë	V;1;PL;SBJV;PRS
+interpretoj	interpretoja	V;1;SG;IND;IPFV
+mësohem	u mësofshit	V;2;PL;OPT;PRS
+anëtar	anëtarin	N;ACC;SG;DEF
+jetoj	jetuakësh	V;3;SG;ADM;IPFV
+lahem	do të lahej	V;3;SG;COND;PRS
+them	të kishim thënë	V;1;PL;SBJV;PRF;PST
+takohem	u takuan	V;3;PL;IND;PST
+udhëtoj	të udhëtosh	V;2;SG;SBJV;PRS
+drejtim	drejtime	N;NOM;PL;NDEF
+këndoj	këndofshin	V;3;PL;OPT;PRS
+ndryshohem	qofshim ndryshuar	V;1;PL;OPT;PRF
+hidhërohem	u hidhëruakëshe	V;2;SG;ADM;IPFV
+interpretoj	të kenë interpretuar	V;3;PL;SBJV;PRF
+sajoj	sajo	V;2;SG;IMP
+votoj	paça votuar	V;1;SG;OPT;PRF
+palloj	të pallonte	V;3;SG;SBJV;PST
+zoologji	zoologji	N;NOM;SG;NDEF
+pranoj	pranoftë	V;3;SG;OPT;PRS
+zhvirgjëroj	zhvirgjëruakan	V;3;PL;ADM;PRS
+zgjoj	zgjuakam	V;1;SG;ADM;PRS
+asgjësoj	do të asgjësonit	V;2;PL;COND;PRS
+zbeh	zbehni	V;2;PL;IND;PRS
+interpretoj	do të kenë interpretuar	V;3;PL;IND;PRF;FUT
+mësoj	do të mësonin	V;3;PL;COND;PRS
+bëj	do të bëjnë	V;3;PL;IND;FUT
+rënkoj	rënkoj	V;1;SG;IND;PRS
+asgjësoj	duke pasë asgjësuar	V;V.PTCP;PST
+byrektore	byrektoreve	N;GEN;PL;NDEF
+bashkëndodhi	bashkëndodhive	N;ABL;PL;DEF
+afirmoj	të kishe afirmuar	V;2;SG;SBJV;PRF;PST
+relaksohem	të ishe relaksuar	V;2;SG;SBJV;PRF;PST
+udhëzim	udhëzimeve	N;DAT;PL;NDEF
+mjellmë	mjellmës	N;DAT;SG;DEF
+fsheh	fshehi	V;3;SG;IND;PST
+qëndroj	qëndruakeni	V;2;PL;ADM;PRS
+bashkëpunoj	të bashkëpunoja	V;1;SG;SBJV;PST
+ndërlikoj	ke ndërlikuar	V;2;SG;IND;PRF
+zhvirgjërohem	të zhvirgjëroheshin	V;3;PL;SBJV;PST
+jetoj	keni jetuar	V;2;PL;IND;PRF
+shigjetar	shigjetari	N;ABL;SG;NDEF
+ngrij	ngrikemi	V;1;PL;ADM;PRS
+rri	do të rrish	V;2;SG;IND;FUT
+përsos	të kenë përsosur	V;3;PL;SBJV;PRF
+sajoj	sajojnë	V;3;PL;IND;PRS
+mbarohem	do të mbarohen	V;3;PL;IND;FUT
+mrekulli	mrekullisë	N;GEN;SG;DEF
+takoj	takoftë	V;3;SG;OPT;PRS
+nderoj	nderoi	V;3;SG;IND;PST
+udhëhiqem	u udhëheqkam	V;1;SG;ADM;PRS
+buzëqesh	do të kishim buzëqeshur	V;1;PL;COND;PRF
+veprim	veprimi	N;GEN;SG;NDEF
+ajër	ajër	N;NOM;SG;NDEF
+zvarranik	zvarranikëve	N;DAT;PL;DEF
+miqësohem	miqësoheshe	V;2;SG;IND;IPFV
+buzëqesh	do të buzëqeshin	V;3;PL;IND;FUT
+pastroj	paça pastruar	V;1;SG;OPT;PRF
+mas	të masni	V;2;PL;SBJV;PRS
+abdikoj	të kenë abdikuar	V;3;PL;SBJV;PRF
+lexim	leximesh	N;ABL;PL;NDEF
+zhvillohem	janë zhvilluar	V;3;PL;IND;PRF
+kulturë	kulturës	N;ABL;SG;DEF
+abuzoj	do të kishin abuzuar	V;3;PL;COND;PRF
+ngrihem	do të jemi ngritur	V;1;PL;IND;PRF;FUT
+fërkoj	të keni fërkuar	V;2;PL;SBJV;PRF
+skllavëri	skllavërinë	N;ACC;SG;DEF
+fërgoj	fërgoja	V;1;SG;IND;IPFV
+mbroj	pate mbruar	V;2;SG;IND;PRF;PST
+them	themi	V;1;PL;IND;PRS
+kthetër	kthetrave	N;DAT;PL;DEF
+shqipoj	patëm shqipuar	V;1;PL;IND;PRF;PST
+përparoj	përparuake	V;2;SG;ADM;PRS
+ngacmoj	do të ngacmonim	V;1;PL;COND;PRS
+shuaj	të shuajnin	V;3;PL;SBJV;PST
+vazhdoj	vazhdoje	V;2;SG;IND;IPFV
+qaj	patët qarë	V;2;PL;IND;PRF;PRF
+sodomizoj	paskëshe sodomizuar	V;2;SG;ADM;PRF;PST
+dorëzohem	qenkëshe dorëzuar	V;2;SG;ADM;PRF;PST
+mësoj	mësuakemi	V;1;PL;ADM;PRS
+prodhoj	do të kemi prodhuar	V;1;PL;IND;PRF;FUT
+mësoj	pati mësuar	V;3;SG;IND;PRF;PST
+pranoj	do të pranojnë	V;3;PL;IND;FUT
+palloj	do të pallosh	V;2;SG;IND;FUT
+jam	jemi	V;1;PL;IND;PRS
+gaboj	gabuakan	V;3;PL;ADM;PRS
+shpresoj	shpresuaka	V;3;SG;ADM;PRS
+mbroj	do të kishit mbruar	V;2;PL;COND;PRF
+lëpij	do të lëpijnë	V;3;PL;IND;FUT
+shpjegoj	shpjegoni	V;2;PL;IMP
+buzëqesh	do të kishin buzëqeshur	V;3;PL;COND;PRF
+luftoj	të luftonit	V;2;PL;SBJV;PST
+fshij	paskëshit fshirë	V;2;PL;ADM;PRF;PRF
+ngjitem	qenkemi ngjituar	V;1;PL;ADM;PRF
+kërcej	të kërcenin	V;3;PL;SBJV;PST
+injorohem	injoroheni	V;2;PL;IND;PRS
+vampir	vampirëve	N;ABL;PL;DEF
+ngrij	ngrija	V;1;SG;IND;IPFV
+votoj	paskësha votuar	V;1;SG;ADM;PRF;PST
+duroj	paskësh duruar	V;3;SG;ADM;PRF;PST
+shoh	të kishe parë	V;2;SG;SBJV;PRF;PST
+fërkoj	fërkuan	V;3;PL;IND;PST
+dërgoj	dërguakan	V;3;PL;ADM;PRS
+kam	pate pasur	V;2;SG;IND;PRF;PST
+flirtoj	do të flirtosh	V;2;SG;IND;FUT
+ngacmoj	të ngacmoja	V;1;SG;SBJV;PST
+tërheq	tërheq	V;3;SG;IND;PRS
+rri	do të ketë ndenjur	V;3;SG;IND;PRF;FUT
+lakuriqësi	lakuriqësi	N;NOM;SG;NDEF
+lëpij	lëpifshim	V;1;PL;OPT;PRS
+lyp	lypa	V;1;SG;IND;PST
+thek	thekkëshit	V;2;PL;ADM;IPFV
+them	të thoshin	V;3;PL;SBJV;PST
+mësoj	të mësosh	V;2;SG;SBJV;PRS
+përgjithësoj	paçit përgjithësuar	V;2;PL;OPT;PRF
+gëzoj	paçit gëzuar	V;2;PL;OPT;PRF
+fytyrë	fytyrave	N;DAT;PL;DEF
+urrej	paskëshim urryer	V;1;PL;ADM;PRF;PST
+propozoj	të propozonim	V;1;PL;SBJV;PST
+vaginë	vaginës	N;DAT;SG;DEF
+bashkëveproj	do të kishte bashkëvepruar	V;3;SG;COND;PRF
+jetoj	duke pasë jetuar	V;V.PTCP;PST
+hoxhë	hoxhë	N;NOM;PL;NDEF
+sulmoj	të sulmoja	V;1;SG;SBJV;PST
+prodhoj	të prodhojnë	V;3;PL;SBJV;PRS
+qij	të keni qirë	V;2;PL;SBJV;PRF
+ndryshohem	u ndryshuake	V;2;SG;ADM;PRS
+derdhje	derdhjeve	N;DAT;PL;DEF
+udhëtoj	të udhëtoje	V;2;SG;SBJV;PST
+shpëtim	shpëtim	N;NOM;SG;NDEF
+gjëlpërë	gjëlpëre	N;ABL;SG;NDEF
+kundërthem	paçit kundërthënë	V;2;PL;OPT;PRF
+sodomizoj	do të kemi sodomizuar	V;1;PL;IND;PRF;FUT
+hyrje	hyrje	N;NOM;SG;NDEF
+sulmohem	sulmohesha	V;1;SG;IND;IPFV
+peshoj	peshoja	V;1;SG;IND;IPFV
+mësohem	do të mësoheshe	V;2;SG;COND;PRS
+dhemb	do të kenë dhembur	V;3;PL;IND;PRF;FUT
+stopohem	ishin stopuar	V;3;PL;IND;PRF;PST
+notoj	të keni notuar	V;2;PL;SBJV;PRF
+kam	paskëshit pasur	V;2;PL;ADM;PRF;PRF
+trishtohem	ishim trishtuar	V;1;PL;IND;PRF;PST
+vë	do të keni vënë	V;2;PL;IND;PRF;FUT
+pshurr	do të pshurr	V;1;SG;IND;FUT
+sodomizohem	do të sodomizohem	V;1;SG;IND;FUT
+shtegtoj	shtegtove	V;2;SG;IND;PST
+masturbohem	qofshin masturbuar	V;3;PL;OPT;PRF
+krijoj	krijojnë	V;3;PL;IND;PRS
+pompoj	të kem pompuar	V;1;SG;SBJV;PRF
+pjekuni	pjekunia	N;NOM;SG;DEF
+ëndërroj	do të kesh ëndërruar	V;2;SG;IND;PRF;FUT
+keqkuptoj	të keqkuptoni	V;2;PL;SBJV;PRS
+ndihmoj	ndihmuakësh	V;3;SG;ADM;IPFV
+punësohem	punësohet	V;3;SG;IND;PRS
+përparoj	pati përparuar	V;3;SG;IND;PRF;PST
+skllavëroj	të skllavëroj	V;1;SG;SBJV;PRS
+rri	paskësha ndenjur	V;1;SG;ADM;PRF;PST
+vë	vënkësh	V;3;SG;ADM;IPFV
+përgjithësoj	duke pasë përgjithësuar	V;V.PTCP;PST
+udhëtoj	udhëtonit	V;2;PL;IND;IPFV
+jetoj	të keni jetuar	V;2;PL;SBJV;PRF
+lëng	lëngu	N;NOM;SG;DEF
+kundërshtoj	kundërshtove	V;2;SG;IND;PST
+notoj	noton	V;2;SG;IND;PRS
+urroj	të kishit urruar	V;2;PL;SBJV;PRF;PRF
+dorëzohem	të ishin dorëzuar	V;3;PL;SBJV;PRF;PST
+bëj	paçim bërë	V;1;PL;OPT;PRF
+plagoj	plagofshit	V;2;PL;OPT;PRS
+besoj	besofshim	V;1;PL;OPT;PRS
+organizoj	organizuaka	V;3;SG;ADM;PRS
+vij	të ketë ardhur	V;3;SG;SBJV;PRF
+kërcej	paska kërcyer	V;3;SG;ADM;PRF
+jap	paskësh dhënë	V;3;SG;ADM;PRF;PST
+zbeh	do të zbehni	V;2;PL;IND;FUT
+shpallje	shpalljes	N;ABL;SG;DEF
+injoroj	do të injoronim	V;1;PL;COND;PRS
+asgjësoj	do të asgjësonte	V;3;SG;COND;PRS
+bashkëveproj	bashkëvepruakëshin	V;3;PL;ADM;IPFV
+thek	do të thekim	V;1;PL;IND;FUT
+mbroj	mbruan	V;3;PL;IND;PST
+kar	kari	N;NOM;SG;DEF
+mësoj	mësoi	V;3;SG;IND;PST
+urrej	urrefsha	V;1;SG;OPT;PRS
+avulloj	do të avulloje	V;2;SG;COND;PRS
+reagoj	paçim reaguar	V;1;PL;OPT;PRF
+qortoj	pate qortuar	V;2;SG;IND;PRF;PST
+aktivist	aktivisti	N;NOM;SG;DEF
+aktivist	aktivistëve	N;ABL;PL;DEF
+dhuroj	të kishim dhuruar	V;1;PL;SBJV;PRF;PST
+shtyp	shtypsh	V;2;SG;OPT;PRS
+asgjësoj	asgjësoni	V;2;PL;IND;PRS
+njoftoj	kanë njoftuar	V;3;PL;IND;PRF
+skllavëroj	skllavëro	V;2;SG;IMP
+zhvilloj	të kisha zhvilluar	V;1;SG;SBJV;PRF;PST
+lë	do të kisha lënë	V;1;SG;COND;PRF
+udhëtoj	paskësh udhëtuar	V;3;SG;ADM;PRF;PST
+vyshkem	të vyshken	V;3;PL;SBJV;PRS
+nderoj	paça nderuar	V;1;SG;OPT;PRF
+jam	pata qenë	V;1;SG;IND;PRF;PST
+udhëtoj	të kishim udhëtuar	V;1;PL;SBJV;PRF;PST
+grumbulloj	të ketë grumbulluar	V;3;SG;SBJV;PRF
+orgji	orgjive	N;GEN;PL;NDEF
+afrohem	u afruakëshim	V;1;PL;ADM;IPFV
+reagoj	reagoni	V;2;PL;IND;PRS
+zbeh	paskëshin zbehur	V;3;PL;ADM;PRF;PST
+akrep	akrepat	N;NOM;PL;DEF
+ndaj	paçin ndarë	V;3;PL;OPT;PRF
+nderoj	do të kishim nderuar	V;1;PL;COND;PRF
+shqipoj	do të kemi shqipuar	V;1;PL;IND;PRF;FUT
+çok	çoka	N;ACC;PL;NDEF
+prodhoj	patëm prodhuar	V;1;PL;IND;PRF;PST
+gaboj	patën gabuar	V;3;PL;IND;PRF;PST
+shkretoj	shkretuaka	V;3;SG;ADM;PRS
+udhëzoj	udhëzuan	V;3;PL;IND;PST
+përgjithësoj	do të përgjithësonte	V;3;SG;COND;PRS
+mardh	paskan mardhur	V;3;PL;ADM;PRF
+lëshoj	të ketë lëshuar	V;3;SG;SBJV;PRF
+buzëqesh	të kisha buzëqeshur	V;1;SG;SBJV;PRF;PST
+grumbulloj	grumbulluakësha	V;1;SG;ADM;IPFV
+vazhdoj	patët vazhduar	V;2;PL;IND;PRF;PRF
+gëzoj	paskan gëzuar	V;3;PL;ADM;PRF
+kulturë	kulturat	N;ACC;PL;DEF
+abuzoj	do të kisha abuzuar	V;1;SG;COND;PRF
+shtrembëroj	paçit shtrembëruar	V;2;PL;OPT;PRF
+avulloj	avulluar	V;V.PTCP
+takoj	takonim	V;1;PL;IND;IPFV
+farë	farash	N;ABL;PL;NDEF
+zhvirgjërohem	zhvirgjëruar	V;V.PTCP
+shkatërroj	patëm shkatërruar	V;1;PL;IND;PRF;PST
+kar	kare	N;NOM;PL;NDEF
+shtyp	do të shtypnin	V;3;PL;COND;PRS
+abuzoj	të abuzonte	V;3;SG;SBJV;PST
+përgjithësim	përgjithësim	N;ACC;SG;NDEF
+stimuloj	keni stimuluar	V;2;PL;IND;PRF
+arësyetoj	arësyetuam	V;1;PL;IND;PST
+punësoj	punësova	V;1;SG;IND;PST
+arratisem	të arratiset	V;3;SG;SBJV;PRS
+masturbohem	të jetë masturbuar	V;3;SG;SBJV;PRF
+besoj	do të kisha besuar	V;1;SG;COND;PRF
+dorëzohem	do të dorëzohet	V;3;SG;IND;FUT
+duroj	të durojmë	V;1;PL;SBJV;PRS
+copëtoj	të kishin copëtuar	V;3;PL;SBJV;PRF;PST
+shpall	të kesh shpallur	V;2;SG;SBJV;PRF
+përgjithësoj	do të përgjithësojmë	V;1;PL;IND;FUT
+zhvillohem	u zhvilluakësh	V;3;SG;ADM;IPFV
+shpirtëroj	paskam shpirtëruar	V;1;SG;ADM;PRF
+veçoj	të veçosh	V;2;SG;SBJV;PRS
+puth	paske puthur	V;2;SG;ADM;PRF
+zhvilloj	do të zhvillojmë	V;1;PL;IND;FUT
+buzëqesh	të kishe buzëqeshur	V;2;SG;SBJV;PRF;PST
+sulmohem	do të sulmohem	V;1;SG;IND;FUT
+thjeshtëzoj	paskësh thjeshtëzuar	V;3;SG;ADM;PRF;PST
+admiroj	ka admiruar	V;3;SG;IND;PRF
+them	të thoshe	V;2;SG;SBJV;PST
+ndal	ndalnin	V;3;PL;IND;IPFV
+relaksohem	do të jemi relaksuar	V;1;PL;IND;PRF;FUT
+mirësoj	paçit mirësuar	V;2;PL;OPT;PRF
+themeloj	të kishin themeluar	V;3;PL;SBJV;PRF;PST
+mjekërr	mjekrrës	N;DAT;SG;DEF
+gropë	grope	N;DAT;SG;NDEF
+mësoj	mësoftë	V;3;SG;OPT;PRS
+abdikoj	abdikoni	V;2;PL;IND;PRS
+gjenealogji	gjenealogjish	N;ABL;PL;NDEF
+sulmohem	u sulmuan	V;3;PL;IND;PST
+mësohem	do të ishe mësuar	V;2;SG;COND;PRF
+mirësoj	të mirësojmë	V;1;PL;SBJV;PRS
+ledhatoj	ledhatuakan	V;3;PL;ADM;PRS
+ujë	ujërave	N;GEN;PL;NDEF
+lyp	të kemi lypur	V;1;PL;SBJV;PRF
+stimuloj	të stimulojë	V;3;SG;SBJV;PRS
+mbretëri	mbretërive	N;GEN;PL;DEF
+kuptoj	duke kuptuar	V;V.PTCP;PRS
+shpirtëroj	për të shpirtëruar	V;NFIN
+urrej	do të kem urryer	V;1;SG;IND;PRF;FUT
+udhëheq	do të ketë udhëhequr	V;3;SG;IND;PRF;FUT
+abdikoj	do të kishit abdikuar	V;2;PL;COND;PRF
+shigjetar	shigjetarin	N;ACC;SG;DEF
+zbeh	do të zbehnit	V;2;PL;COND;PRS
+fsheh	të kishit fshehur	V;2;PL;SBJV;PRF;PRF
+thek	do të thek	V;1;SG;IND;FUT
+mbaroj	të mbaroje	V;2;SG;SBJV;PST
+buzëqesh	do të buzëqeshësh	V;2;SG;IND;FUT
+masturboj	pati masturbuar	V;3;SG;IND;PRF;PST
+copëtoj	të copëtojnë	V;3;PL;SBJV;PRS
+zog	zogjsh	N;ABL;PL;NDEF
+rrezikoj	paskam rrezikuar	V;1;SG;ADM;PRF
+rrezikoj	paçim rrezikuar	V;1;PL;OPT;PRF
+zonë	zonën	N;ACC;SG;DEF
+udhëheq	kam udhëhequr	V;1;SG;IND;PRF
+përsos	të përsosnin	V;3;PL;SBJV;PST
+hidhërohem	u hidhëruakëshim	V;1;PL;ADM;IPFV
+rënkoj	rënkuar	V;V.PTCP
+thaj	thaj	V;2;SG;IMP
+qark	qarqe	N;ACC;PL;NDEF
+ngjitem	të ngjitej	V;3;SG;SBJV;PST
+nderoj	të kem nderuar	V;1;SG;SBJV;PRF
+rri	ndenjkësha	V;1;SG;ADM;IPFV
+hoxhë	hoxhe	N;DAT;SG;NDEF
+shtegtoj	të kisha shtegtuar	V;1;SG;SBJV;PRF;PST
+shqyptar	shqyptarit	N;ABL;SG;DEF
+ndaloj	paçit ndaluar	V;2;PL;OPT;PRF
+gaboj	të gabonin	V;3;PL;SBJV;PST
+arësyetoj	arësyetonim	V;1;PL;IND;IPFV
+zgjohem	do të zgjohesha	V;1;SG;COND;PRS
+sulmohem	qenkan sulmuar	V;3;PL;ADM;PRF
+arkeologji	arkeologjie	N;GEN;SG;NDEF
+mbarohem	do të isha mbaruar	V;1;SG;COND;PRF
+thaj	duke pasë tharë	V;V.PTCP;PST
+adhuroj	adhurova	V;1;SG;IND;PST
+ndryshohem	ishim ndryshuar	V;1;PL;IND;PRF;PST
+organizoj	organizon	V;3;SG;IND;PRS
+interpretoj	interpretofsha	V;1;SG;OPT;PRS
+iki	do të ikinit	V;2;PL;COND;PRS
+dhunoj	keni dhunuar	V;2;PL;IND;PRF
+zbuloj	zbuloje	V;2;SG;IND;IPFV
+gju	gjuri	N;DAT;SG;NDEF
+notoj	patën notuar	V;3;PL;IND;PRF;PST
+armatos	paska armatosur	V;3;SG;ADM;PRF
+filloj	fillofshin	V;3;PL;OPT;PRS
+lëpij	do të lëpijë	V;3;SG;IND;FUT
+bekoj	bekonit	V;2;PL;IND;IPFV
+pompoj	do të pompojmë	V;1;PL;IND;FUT
+lyp	lypja	V;1;SG;IND;IPFV
+ledhatoj	ledhatuakëshim	V;1;PL;ADM;IPFV
+çliroj	të çlirojë	V;3;SG;SBJV;PRS
+zhvirgjërohem	do të ishim zhvirgjëruar	V;1;PL;COND;PRF
+përkëdhel	përkëdhel	V;2;SG;IMP
+peshoj	paske peshuar	V;2;SG;ADM;PRF
+kundërthem	kundërthem	V;1;SG;IND;PRS
+shtrembëroj	të ketë shtrembëruar	V;3;SG;SBJV;PRF
+qytet	qytetin	N;ACC;SG;DEF
+dëmtoj	do të ketë dëmtuar	V;3;SG;IND;PRF;FUT
+nderoj	nderuakëshin	V;3;PL;ADM;IPFV
+lexoj	të lexonte	V;3;SG;SBJV;PST
+qortoj	të qortonte	V;3;SG;SBJV;PST
+zbuloj	të kishe zbuluar	V;2;SG;SBJV;PRF;PST
+shtrembëroj	shtrembëruar	V;V.PTCP
+hidhërohem	të hidhëroheshim	V;1;PL;SBJV;PST
+bekoj	të kem bekuar	V;1;SG;SBJV;PRF
+vë	do të kishte vënë	V;3;SG;COND;PRF
+lyp	lype	V;2;SG;IND;PST
+rrugë	rrugëve	N;DAT;PL;NDEF
+parabolë	parabolave	N;DAT;PL;DEF
+shuaj	shuaj	V;1;SG;IND;PRS
+mënd	të kemi mëndur	V;1;PL;SBJV;PRF
+farmakologji	farmakologjie	N;ABL;SG;NDEF
+mendoj	mendojnë	V;3;PL;IND;PRS
+shpif	duke pasë shpifur	V;V.PTCP;PST
+shpall	paske shpallur	V;2;SG;ADM;PRF
+urinim	urinimesh	N;ABL;PL;NDEF
+argëtoj	duke pasë argëtuar	V;V.PTCP;PST
+përkthej	pati përkthyer	V;3;SG;IND;PRF;PST
+bisedoj	do të bisedoja	V;1;SG;COND;PRS
+degjoj	do të kishin degjuar	V;3;PL;COND;PRF
+antropologji	antropologjie	N;ABL;SG;NDEF
+sakrifikoj	të ketë sakrifikuar	V;3;SG;SBJV;PRF
+krahasoj	krahasonin	V;3;PL;IND;IPFV
+shtyp	shtypshim	V;1;PL;OPT;PRS
+hyrje	hyrje	N;ACC;SG;NDEF
+miqësohem	jemi miqësuar	V;1;PL;IND;PRF
+peshoj	të peshosh	V;2;SG;SBJV;PRS
+peshohem	u peshuaka	V;3;SG;ADM;PRS
+ngre	të ngrejë	V;3;SG;SBJV;PRS
+punësi	punësie	N;ABL;SG;NDEF
+masturboj	do të masturbonim	V;1;PL;COND;PRS
+adhuroj	adhuronit	V;2;PL;IND;IPFV
+axhë	axha	N;ACC;PL;NDEF
+iki	do të ikija	V;1;SG;COND;PRS
+ndal	paskan ndalur	V;3;PL;ADM;PRF
+lexoj	paskeni lexuar	V;2;PL;ADM;PRF
+bythë	bythëve	N;GEN;PL;NDEF
+sajoj	do të sajoja	V;1;SG;COND;PRS
+trishtohem	duke u pasë trishtuar	V;V.PTCP;PST
+rrezikoj	do të rrezikonim	V;1;PL;COND;PRS
+shoh	shihni	V;2;PL;IND;PRS
+qytet	qyteteve	N;DAT;PL;DEF
+lëndim	lëndimive	N;GEN;PL;NDEF
+mënd	mëndim	V;1;PL;IND;PRS
+peshohem	peshohej	V;3;SG;IND;IPFV
+ndih	ndihshim	V;1;PL;OPT;PRS
+fyt	fyteve	N;ABL;PL;DEF
+orgji	orgji	N;NOM;PL;NDEF
+dritare	dritaret	N;ACC;PL;DEF
+them	paskësh thënë	V;3;SG;ADM;PRF;PST
+argëtoj	do të kenë argëtuar	V;3;PL;IND;PRF;FUT
+admiroj	admiruakëshin	V;3;PL;ADM;IPFV
+jap	do të japë	V;3;SG;IND;FUT
+ndih	paçin ndihur	V;3;PL;OPT;PRF
+bashkëpunoj	kemi bashkëpunuar	V;1;PL;IND;PRF
+dërgoj	pate dërguar	V;2;SG;IND;PRF;PST
+përmirësoj	paskam përmirësuar	V;1;SG;ADM;PRF
+dërgoj	paskemi dërguar	V;1;PL;ADM;PRF
+masturboj	paça masturbuar	V;1;SG;OPT;PRF
+qesh	të keni qeshur	V;2;PL;SBJV;PRF
+luftëtar	luftëtarit	N;DAT;SG;DEF
+shpjegoj	të shpjegonin	V;3;PL;SBJV;PST
+zbuloj	do të zbuloje	V;2;SG;COND;PRS
+shqipoj	pastë shqipuar	V;3;SG;OPT;PRF
+çlirohem	u çliruakemi	V;1;PL;ADM;PRS
+përsos	të përsoste	V;3;SG;SBJV;PST
+vazhdoj	paçit vazhduar	V;2;PL;OPT;PRF
+flirtoj	do të flirtoni	V;2;PL;IND;FUT
+rrezikoj	të kishte rrezikuar	V;3;SG;SBJV;PRF;PST
+kam	kisha	V;1;SG;IND;IPFV
+pjeshkë	pjeshkën	N;ACC;SG;DEF
+pjekuri	pjekurisë	N;GEN;SG;DEF
+ngrihem	u ngritët	V;2;PL;IND;PST
+arësyetoj	paskeni arësyetuar	V;2;PL;ADM;PRF
+afirmoj	të kisha afirmuar	V;1;SG;SBJV;PRF;PST
+shfuqizim	shfuqizimit	N;GEN;SG;DEF
+përkufizoj	përkufizon	V;2;SG;IND;PRS
+mendoj	të kishim menduar	V;1;PL;SBJV;PRF;PST
+ngrihem	ngrihuni	V;2;PL;IMP
+zbeh	do të kesh zbehur	V;2;SG;IND;PRF;FUT
+copëtoj	të copëtosh	V;2;SG;SBJV;PRS
+trishtohem	u trishtuan	V;3;PL;IND;PST
+shurrohem	ishte shurruar	V;3;SG;IND;PRF;PST
+prish	do të prishin	V;3;PL;IND;FUT
+shpall	shpalla	V;1;SG;IND;PST
+zemër	zemër	N;NOM;SG;NDEF
+shtrembëroj	paska shtrembëruar	V;3;SG;ADM;PRF
+komunikoj	do të kisha komunikuar	V;1;SG;COND;PRF
+axhë	axhave	N;DAT;PL;NDEF
+lidh	duke pasë lidhur	V;V.PTCP;PST
+mjekër	mjekre	N;DAT;SG;NDEF
+veçanti	veçantive	N;DAT;PL;NDEF
+shpresoj	paskëshe shpresuar	V;2;SG;ADM;PRF;PST
+kundërthem	do të kundërthoni	V;2;PL;IND;FUT
+beqar	beqarët	N;ACC;PL;DEF
+biologji	biologji	N;ACC;SG;NDEF
+masturboj	masturbofshit	V;2;PL;OPT;PRS
+besoj	paska besuar	V;3;SG;ADM;PRF
+gëzoj	gëzonin	V;3;PL;IND;IPFV
+veçoj	veçonte	V;3;SG;IND;IPFV
+zgjedh	ke zgjedhur	V;2;SG;IND;PRF
+dashuroj	dashuroi	V;3;SG;IND;PST
+abdikim	abdikimesh	N;ABL;PL;NDEF
+pshurr	do të pshurrim	V;1;PL;IND;FUT
+thek	patëm thekur	V;1;PL;IND;PRF;PST
+dhuroj	do të dhuronte	V;3;SG;COND;PRS
+shfuqizoj	shfuqizoftë	V;3;SG;OPT;PRS
+besoj	do të besoni	V;2;PL;IND;FUT
+libër	libri	N;DAT;SG;NDEF
+ledhatoj	të kishin ledhatuar	V;3;PL;SBJV;PRF;PST
+përkufizoj	ke përkufizuar	V;2;SG;IND;PRF
+udhëhiqem	do të udhëhiqeni	V;2;PL;IND;FUT
+notoj	të kenë notuar	V;3;PL;SBJV;PRF
+jetoj	të kisha jetuar	V;1;SG;SBJV;PRF;PST
+kundërshtoj	do të kem kundërshtuar	V;1;SG;IND;PRF;FUT
+veprim	veprimet	N;ACC;PL;DEF
+kundërshtoj	kundërshtoje	V;2;SG;IND;IPFV
+copëtoj	copëtofshim	V;1;PL;OPT;PRS
+asnjanësoj	duke pasë asnjanësuar	V;V.PTCP;PST
+afirmoj	të afirmonte	V;3;SG;SBJV;PST
+zgjedh	patën zgjedhur	V;3;PL;IND;PRF;PST
+sakrifikoj	të sakrifikoj	V;1;SG;SBJV;PRS
+dhuroj	dhuruar	V;V.PTCP
+shtyp	do të kishte shtypur	V;3;SG;COND;PRF
+copëtoj	kanë copëtuar	V;3;PL;IND;PRF
+hidhërohem	të hidhërohem	V;1;SG;SBJV;PRS
+afirmoj	të afirmojnë	V;3;PL;SBJV;PRS
+beqar	beqari	N;ABL;SG;NDEF
+drejtim	drejtimeve	N;ABL;PL;DEF
+besoj	besoi	V;3;SG;IND;PST
+zbeh	zbeh	V;2;SG;IMP
+xhagajdur	xhagajdurit	N;ABL;SG;DEF
+provoj	paçim provuar	V;1;PL;OPT;PRF
+mardh	do të kemi mardhur	V;1;PL;IND;PRF;FUT
+psikologji	psikologjie	N;GEN;SG;NDEF
+qij	do të qinin	V;3;PL;COND;PRS
+koleg	kolegëve	N;DAT;PL;DEF
+shurroj	paskësh shurruar	V;3;SG;ADM;PRF;PST
+ngjitem	ishim ngjituar	V;1;PL;IND;PRF;PST
+argëtoj	argëtoja	V;1;SG;IND;IPFV
+mirësi	mirësive	N;GEN;PL;NDEF
+dëmtoj	të dëmtoje	V;2;SG;SBJV;PST
+ndërlikoj	do të ndërlikojë	V;3;SG;IND;FUT
+atësi	atësi	N;NOM;SG;NDEF
+rri	të rrinin	V;3;PL;SBJV;PST
+dërgoj	do të kishe dërguar	V;2;SG;COND;PRF
+justifikoj	justifikuakësha	V;1;SG;ADM;IPFV
+keqkuptoj	paskësh keqkuptuar	V;3;SG;ADM;PRF;PST
+qen	qene	N;NOM;PL;NDEF
+udhëtoj	paskëshin udhëtuar	V;3;PL;ADM;PRF;PST
+lëshoj	të lëshojmë	V;1;PL;SBJV;PRS
+duroj	duruan	V;3;PL;IND;PST
+mënd	mënd	V;3;SG;IND;PRS
+mas	të masin	V;3;PL;SBJV;PRS
+legjendë	legjendën	N;ACC;SG;DEF
+ligjëroj	do të kishin ligjëruar	V;3;PL;COND;PRF
+shtyp	shtypshin	V;3;PL;OPT;PRS
+dëmtoj	patëm dëmtuar	V;1;PL;IND;PRF;PST
+luftë	lufta	N;ACC;PL;NDEF
+shkërdhej	kam shkërdhyer	V;1;SG;IND;PRF
+peshohem	të jeni peshuar	V;2;PL;SBJV;PRF
+hierarki	hierarkive	N;GEN;PL;NDEF
+miqësohem	qenkëshe miqësuar	V;2;SG;ADM;PRF;PST
+peshohem	peshohemi	V;1;PL;IND;PRS
+prek	do të prekësh	V;2;SG;IND;FUT
+lë	patëm lënë	V;1;PL;IND;PRF;PST
+dërmoj	të dërmoj	V;1;SG;SBJV;PRS
+hap	hapim	V;1;PL;IND;PRS
+mendoj	paçit menduar	V;2;PL;OPT;PRF
+sulmim	sulmimet	N;NOM;PL;DEF
+jetoj	jetuake	V;2;SG;ADM;PRS
+avulloj	të kem avulluar	V;1;SG;SBJV;PRF
+zgjoj	të kemi zgjuar	V;1;PL;SBJV;PRF
+ndih	ndihët	V;2;PL;IND;PST
+lëshoj	të keni lëshuar	V;2;PL;SBJV;PRF
+ligj	ligjeve	N;GEN;PL;DEF
+skllavëroj	do të skllavëronte	V;3;SG;COND;PRS
+fsheh	të fshehje	V;2;SG;SBJV;PST
+kërcej	patën kërcyer	V;3;PL;IND;PRF;PST
+shtyp	do të kishe shtypur	V;2;SG;COND;PRF
+shkatërroj	paskeni shkatërruar	V;2;PL;ADM;PRF
+shkretoj	shkretonin	V;3;PL;IND;IPFV
+fe	fesë	N;DAT;SG;DEF
+lidh	lidhkëshim	V;1;PL;ADM;IPFV
+keqkuptoj	keqkuptova	V;1;SG;IND;PST
+rrezik	rrezik	N;NOM;SG;NDEF
+shahist	shahist	N;NOM;SG;NDEF
+teknologji	teknologjive	N;GEN;PL;DEF
+anëtar	anëtarëve	N;ABL;PL;DEF
+sociologji	sociologjisë	N;GEN;SG;DEF
+injorohem	u injoruakëshim	V;1;PL;ADM;IPFV
+komunikoj	komunikuake	V;2;SG;ADM;PRS
+dashuroj	do të dashuroj	V;1;SG;IND;FUT
+përkthej	do të përkthejë	V;3;SG;IND;FUT
+ndal	ndalnim	V;1;PL;IND;IPFV
+ofendoj	do të kemi ofenduar	V;1;PL;IND;PRF;FUT
+vë	vënkeni	V;2;PL;ADM;PRS
+peshohem	të jesh peshuar	V;2;SG;SBJV;PRF
+çlirohem	qenkëshin çliruar	V;3;PL;ADM;PRF;PST
+rrahje	rrahjeve	N;ABL;PL;DEF
+tërheq	do të kisha tërhequr	V;1;SG;COND;PRF
+kërkoj	kërkojmë	V;1;PL;IND;PRS
+lakim	lakim	N;NOM;SG;NDEF
+shuaj	paskeni shuajtur	V;2;PL;ADM;PRF
+mënd	mënd	V;2;SG;IND;PRS
+degjoj	degjuakemi	V;1;PL;ADM;PRS
+lexim	leximeve	N;DAT;PL;NDEF
+shpresoj	të kishe shpresuar	V;2;SG;SBJV;PRF;PST
+mënd	do të mëndnim	V;1;PL;COND;PRS
+gëzoj	gëzojnë	V;3;PL;IND;PRS
+relaksohem	ishim relaksuar	V;1;PL;IND;PRF;PST
+ndihmoj	ndihmuakëshin	V;3;PL;ADM;IPFV
+rrahje	rrahjes	N;ABL;SG;DEF
+preferoj	preferuake	V;2;SG;ADM;PRS
+ndërlikoj	të kishe ndërlikuar	V;2;SG;SBJV;PRF;PST
+gënjej	patëm gënjyer	V;1;PL;IND;PRF;PST
+abstenoj	do të kishin abstenuar	V;3;PL;COND;PRF
+parabolë	parabolave	N;GEN;PL;NDEF
+tërheq	do të tërhiqja	V;1;SG;COND;PRS
+përparoj	përparofshit	V;2;PL;OPT;PRS
+zhdukje	zhdukje	N;ACC;PL;NDEF
+miqësohem	të jenë miqësuar	V;3;PL;SBJV;PRF
+ledhatoj	do të ledhatojmë	V;1;PL;IND;FUT
+mësoj	mësoja	V;1;SG;IND;IPFV
+ndërlikoj	ndërlikoja	V;1;SG;IND;IPFV
+zhdukje	zhdukjeje	N;ABL;SG;NDEF
+bëj	do të kishe bërë	V;2;SG;COND;PRF
+mënd	të kisha mëndur	V;1;SG;SBJV;PRF;PST
+qëndroj	qëndrofshim	V;1;PL;OPT;PRS
+krijoj	do të kemi krijuar	V;1;PL;IND;PRF;FUT
+axhë	axhe	N;ABL;SG;NDEF
+përkufizoj	të përkufizonit	V;2;PL;SBJV;PST
+krahasoj	krahasonte	V;3;SG;IND;IPFV
+konsistoj	konsisto	V;2;SG;IMP
+udhëheq	të udhëhiqte	V;3;SG;SBJV;PST
+copëtoj	copëtuakëshe	V;2;SG;ADM;IPFV
+peshohem	të ishim peshuar	V;1;PL;SBJV;PRF;PST
+thjeshtëzoj	do të kishin thjeshtëzuar	V;3;PL;COND;PRF
+legjendë	legjendat	N;ACC;PL;DEF
+vë	vënkëshit	V;2;PL;ADM;IPFV
+pranverë	pranverë	N;NOM;SG;NDEF
+vij	të vija	V;1;SG;SBJV;PST
+kafshoj	kafshon	V;3;SG;IND;PRS
+plagoj	do të plagojë	V;3;SG;IND;FUT
+ligjëroj	patën ligjëruar	V;3;PL;IND;PRF;PST
+jetoj	të kenë jetuar	V;3;PL;SBJV;PRF
+ndihmoj	kam ndihmuar	V;1;SG;IND;PRF
+shtegtoj	shtegtoj	V;1;SG;IND;PRS
+reagoj	të reagosh	V;2;SG;SBJV;PRS
+shtrembëroj	do të shtrembëroni	V;2;PL;IND;FUT
+bashkëveproj	bashkëveprofshin	V;3;PL;OPT;PRS
+vrimë	vrima	N;ACC;PL;NDEF
+strukturë	strukturat	N;NOM;PL;DEF
+botë	botësh	N;ABL;PL;NDEF
+arësyetoj	arësyetuakëshit	V;2;PL;ADM;IPFV
+shtyp	shtype	V;2;SG;IND;PST
+kulturë	kulturë	N;NOM;SG;NDEF
+zgjohem	të ishte zgjuar	V;3;SG;SBJV;PRF;PST
+urrej	paska urryer	V;3;SG;ADM;PRF
+vyshkem	qofsha vyshkuar	V;1;SG;OPT;PRF
+mendoj	do të kishit menduar	V;2;PL;COND;PRF
+nderoj	pata nderuar	V;1;SG;IND;PRF;PST
+rri	paska ndenjur	V;3;SG;ADM;PRF
+avulloj	të kishim avulluar	V;1;PL;SBJV;PRF;PST
+gaboj	gabuakam	V;1;SG;ADM;PRS
+organizoj	të organizonin	V;3;PL;SBJV;PST
+punësoj	do të punësoj	V;1;SG;IND;FUT
+sajoj	kemi sajuar	V;1;PL;IND;PRF
+vazhdoj	vazhdofsh	V;2;SG;OPT;PRS
+abuzoj	të kesh abuzuar	V;2;SG;SBJV;PRF
+zgjoj	do të kishin zgjuar	V;3;PL;COND;PRF
+fitore	fitorja	N;NOM;SG;DEF
+partner	partnerëve	N;DAT;PL;NDEF
+mas	mati	V;3;SG;IND;PST
+parapëlqej	të kishit parapëlqyer	V;2;PL;SBJV;PRF;PRF
+palloj	do të palloje	V;2;SG;COND;PRS
+ndaj	të kesh ndarë	V;2;SG;SBJV;PRF
+ndërlikoj	të keni ndërlikuar	V;2;PL;SBJV;PRF
+mbarohem	do të ishit mbaruar	V;2;PL;COND;PRF
+bëhem	bërë	V;V.PTCP
+abuzoj	paskëshim abuzuar	V;1;PL;ADM;PRF;PST
+krim	krim	N;ACC;SG;NDEF
+ha	hanim	V;1;PL;IND;IPFV
+shfuqizoj	patëm shfuqizuar	V;1;PL;IND;PRF;PST
+shqiptar	shqiptari	N;DAT;SG;NDEF
+lahem	u lava	V;1;SG;IND;PST
+daj	do të ketë darë	V;3;SG;IND;PRF;FUT
+takohem	qofshin takuar	V;3;PL;OPT;PRF
+lexoj	të lexoja	V;1;SG;SBJV;PST
+pyetje	pyetjes	N;GEN;SG;DEF
+lëshoj	do të ketë lëshuar	V;3;SG;IND;PRF;FUT
+abstenoj	do të abstenoja	V;1;SG;COND;PRS
+komunikoj	paskëshit komunikuar	V;2;PL;ADM;PRF;PRF
+dëmtoj	kanë dëmtuar	V;3;PL;IND;PRF
+dritë	dritës	N;ABL;SG;DEF
+lidh	lidhkam	V;1;SG;ADM;PRS
+shfuqizoj	do të shfuqizoni	V;2;PL;IND;FUT
+daj	dau	V;3;SG;IND;PST
+shpirtëroj	të kishin shpirtëruar	V;3;PL;SBJV;PRF;PST
+njeri	njerëzit	N;ACC;PL;DEF
+lëshoj	paskeni lëshuar	V;2;PL;ADM;PRF
+dashuroj	paçit dashuruar	V;2;PL;OPT;PRF
+abuzoj	abuzova	V;1;SG;IND;PST
+relaksohem	do të jeni relaksuar	V;2;PL;IND;PRF;FUT
+grumbulloj	do të kisha grumbulluar	V;1;SG;COND;PRF
+komunikoj	ka komunikuar	V;3;SG;IND;PRF
+krah	krah	N;ACC;SG;NDEF
+lëpij	paskam lëpirë	V;1;SG;ADM;PRF
+abdikoj	abdikonte	V;3;SG;IND;IPFV
+miqësohem	qenkëshin miqësuar	V;3;PL;ADM;PRF;PST
+mirësoj	të mirësonin	V;3;PL;SBJV;PST
+hap	haptë	V;3;SG;OPT;PRS
+prish	të prishnit	V;2;PL;SBJV;PST
+nënkuptoj	do të kemi nënkuptuar	V;1;PL;IND;PRF;FUT
+emër	emri	N;ABL;SG;NDEF
+burrëri	burrërinë	N;ACC;SG;DEF
+mjekërr	mjekrra	N;ACC;PL;NDEF
+palloj	të palloje	V;2;SG;SBJV;PST
+shikoj	do të shikonin	V;3;PL;COND;PRS
+lexoj	do të lexoni	V;2;PL;IND;FUT
+dashuroj	të dashurojë	V;3;SG;SBJV;PRS
+shtegtoj	do të shtegtojnë	V;3;PL;IND;FUT
+gaboj	të kenë gabuar	V;3;PL;SBJV;PRF
+heteroseksual	heteroseksualëve	N;DAT;PL;NDEF
+kundërthem	të kundërthoshe	V;2;SG;SBJV;PST
+filloj	fillofshim	V;1;PL;OPT;PRS
+ngrihem	u ngritën	V;3;PL;IND;PST
+zgjoj	do të keni zgjuar	V;2;PL;IND;PRF;FUT
+zoolog	zoologu	N;GEN;SG;NDEF
+njoftoj	njofto	V;2;SG;IMP
+flirtoj	do të kenë flirtuar	V;3;PL;IND;PRF;FUT
+qëndroj	qëndruakëshim	V;1;PL;ADM;IPFV
+shurrohem	shurrohem	V;1;SG;IND;PRS
+shtyp	të kishe shtypur	V;2;SG;SBJV;PRF;PST
+përkufizoj	përkufizofshim	V;1;PL;OPT;PRS
+pornografi	pornografisë	N;ABL;SG;DEF
+qortoj	do të kenë qortuar	V;3;PL;IND;PRF;FUT
+afrohem	u afrofshin	V;3;PL;OPT;PRS
+abstenoj	paskam abstenuar	V;1;SG;ADM;PRF
+cjap	cjapeve	N;GEN;PL;DEF
+dashuri	dashurive	N;GEN;PL;NDEF
+ngrij	paç ngrirë	V;2;SG;OPT;PRF
+hardhucë	hardhucave	N;ABL;PL;DEF
+kërkoj	paçim kërkuar	V;1;PL;OPT;PRF
+bashkëpunoj	do të bashkëpunojnë	V;3;PL;IND;FUT
+kuptoj	kuptonin	V;3;PL;IND;IPFV
+zgjoj	do të kisha zgjuar	V;1;SG;COND;PRF
+asgjësoj	asgjësonim	V;1;PL;IND;IPFV
+thek	do të kishin thekur	V;3;PL;COND;PRF
+mbaroj	patëm mbaruar	V;1;PL;IND;PRF;PST
+shoh	pakëshit	V;2;PL;ADM;IPFV
+veçoj	do të veçoja	V;1;SG;COND;PRS
+relaksohem	ishe relaksuar	V;2;SG;IND;PRF;PST
+kapak	kapakëve	N;DAT;PL;NDEF
+shkretoj	të shkretonte	V;3;SG;SBJV;PST
+arratisem	ishin arratisuar	V;3;PL;IND;PRF;PST
+vazhdoj	duke pasë vazhduar	V;V.PTCP;PST
+palloj	paskëshin palluar	V;3;PL;ADM;PRF;PST
+ndaloj	të keni ndaluar	V;2;PL;SBJV;PRF
+vij	do të kisha ardhur	V;1;SG;COND;PRF
+qaj	do të qaj	V;1;SG;IND;FUT
+thek	paskëshin thekur	V;3;PL;ADM;PRF;PST
+bekoj	do të bekoja	V;1;SG;COND;PRS
+bekoj	bekova	V;1;SG;IND;PST
+qaj	të kishin qarë	V;3;PL;SBJV;PRF;PST
+palloj	do të pallojë	V;3;SG;IND;FUT
+faturë	faturat	N;NOM;PL;DEF
+ndryshohem	të ndryshohem	V;1;SG;SBJV;PRS
+udhëzoj	udhëzuakëshit	V;2;PL;ADM;IPFV
+zbeh	zbehkam	V;1;SG;ADM;PRS
+qortoj	qortuakësh	V;3;SG;ADM;IPFV
+lëshoj	lëshon	V;3;SG;IND;PRS
+abrogoj	abrogojnë	V;3;PL;IND;PRS
+lëpij	do të lëpije	V;2;SG;COND;PRS
+kuptoj	patët kuptuar	V;2;PL;IND;PRF;PRF
+skllavëroj	të kemi skllavëruar	V;1;PL;SBJV;PRF
+bisedoj	bisedonin	V;3;PL;IND;IPFV
+vyshkem	do të ishit vyshkuar	V;2;PL;COND;PRF
+peshë	peshat	N;ACC;PL;DEF
+shtrembëroj	paskësha shtrembëruar	V;1;SG;ADM;PRF;PST
+votoj	voton	V;2;SG;IND;PRS
+gëzoj	të gëzoni	V;2;PL;SBJV;PRS
+them	të kenë thënë	V;3;PL;SBJV;PRF
+ha	hëngrëm	V;1;PL;IND;PST
+grumbulloj	të grumbullonim	V;1;PL;SBJV;PST
+përkëdhel	përkëdheli	V;3;SG;IND;PST
+abonohem	janë abonuar	V;3;PL;IND;PRF
+zhvillohem	qenka zhvilluar	V;3;SG;ADM;PRF
+trajtë	trajtën	N;ACC;SG;DEF
+duroj	duruakëshit	V;2;PL;ADM;IPFV
+pranverë	pranverave	N;GEN;PL;DEF
+copëtoj	të copëtonit	V;2;PL;SBJV;PST
+biseksual	biseksualit	N;DAT;SG;DEF
+virgjëreshë	virgjëresha	N;ACC;PL;NDEF
+justifikoj	paskëshit justifikuar	V;2;PL;ADM;PRF;PRF
+bisedoj	bisedofsha	V;1;SG;OPT;PRS
+mendoj	mendove	V;2;SG;IND;PST
+lexoj	ke lexuar	V;2;SG;IND;PRF
+shpjegoj	paska shpjeguar	V;3;SG;ADM;PRF
+duroj	të kemi duruar	V;1;PL;SBJV;PRF
+palloj	palluakëshin	V;3;PL;ADM;IPFV
+masturbohem	u masturbofshin	V;3;PL;OPT;PRS
+nektarinë	nektarine	N;GEN;SG;NDEF
+dritare	dritareje	N;GEN;SG;NDEF
+adhuroj	patën adhuruar	V;3;PL;IND;PRF;PST
+çliroj	do të kemi çliruar	V;1;PL;IND;PRF;FUT
+jetoj	të jetonte	V;3;SG;SBJV;PST
+urrej	do të urrenit	V;2;PL;COND;PRS
+pastroj	pastroni	V;2;PL;IMP
+patologji	patologjinë	N;ACC;SG;DEF
+urroj	ke urruar	V;2;SG;IND;PRF
+udhëzim	udhëzimit	N;GEN;SG;DEF
+ngrihem	të ngrihesh	V;3;SG;SBJV;PST
+farë	fare	N;DAT;SG;NDEF
+abuzoj	keni abuzuar	V;2;PL;IND;PRF
+shpirtëroj	do të kesh shpirtëruar	V;2;SG;IND;PRF;FUT
+buzëqesh	buzëqeshni	V;2;PL;IND;PRS
+urrej	urryekan	V;3;PL;ADM;PRS
+arësyetoj	do të arësyetojnë	V;3;PL;IND;FUT
+bëj	të kem bërë	V;1;SG;SBJV;PRF
+përfitoj	pati përfituar	V;3;SG;IND;PRF;PST
+mbarohem	u mbaruakam	V;1;SG;ADM;PRS
+përdor	të përdorte	V;3;SG;SBJV;PST
+orgji	orgjisë	N;DAT;SG;DEF
+punësohem	do të punësoheshe	V;2;SG;COND;PRS
+interpretoj	paskemi interpretuar	V;1;PL;ADM;PRF
+sulmoj	sulmon	V;3;SG;IND;PRS
+punësoj	do të punësojë	V;3;SG;IND;FUT
+zhvilloj	të kem zhvilluar	V;1;SG;SBJV;PRF
+çliroj	çliruakeni	V;2;PL;ADM;PRS
+shtet	shtetet	N;ACC;PL;DEF
+lyp	të kisha lypur	V;1;SG;SBJV;PRF;PST
+xixëllonjë	xixëllonjat	N;NOM;PL;DEF
+masturboj	paçit masturbuar	V;2;PL;OPT;PRF
+sakrifikoj	sakrifikofshim	V;1;PL;OPT;PRS
+ngre	ngritkan	V;3;PL;ADM;PRS
+rasë	rase	N;ABL;SG;NDEF
+filloj	patën filluar	V;3;PL;IND;PRF;PST
+vij	paçit ardhur	V;2;PL;OPT;PRF
+dëshiroj	do të dëshironit	V;2;PL;COND;PRS
+lule	lulesh	N;ABL;PL;NDEF
+dashuroj	dashurofshim	V;1;PL;OPT;PRS
+plagoj	plagofsha	V;1;SG;OPT;PRS
+dorëzohem	jemi dorëzuar	V;1;PL;IND;PRF
+ngacmoj	ngacmonim	V;1;PL;IND;IPFV
+krah	krahët	N;ACC;PL;DEF
+pranoj	të pranojmë	V;1;PL;SBJV;PRS
+urinim	urinimi	N;ABL;SG;NDEF
+zhvirgjërohem	jeni zhvirgjëruar	V;2;PL;IND;PRF
+zgjedh	do të kesh zgjedhur	V;2;SG;IND;PRF;FUT
+armatos	do të armatoste	V;3;SG;COND;PRS
+lidh	lidhka	V;3;SG;ADM;PRS
+shpif	paçin shpifur	V;3;PL;OPT;PRF
+flirtoj	paça flirtuar	V;1;SG;OPT;PRF
+vampir	vampiri	N;ABL;SG;NDEF
+shurroj	do të kenë shurruar	V;3;PL;IND;PRF;FUT
+fiziolog	fiziologun	N;ACC;SG;DEF
+përkthej	paçit përkthyer	V;2;PL;OPT;PRF
+dorë	duarve	N;GEN;PL;NDEF
+jap	paskëshe dhënë	V;2;SG;ADM;PRF;PST
+ngrij	ngrin	V;3;SG;IND;PRS
+sajoj	sajuakësh	V;3;SG;ADM;IPFV
+adhuroj	adhurofshin	V;3;PL;OPT;PRS
+mbarohem	ishte mbaruar	V;3;SG;IND;PRF;PST
+urroj	pastë urruar	V;3;SG;OPT;PRF
+gjuhë	gjuhëve	N;GEN;PL;NDEF
+zgjedh	zgjedh	V;3;SG;IND;PRS
+takoj	të takonin	V;3;PL;SBJV;PST
+vrimë e zezë	vrima të zeza	N;ACC;PL;NDEF
+teze	tezen	N;ACC;SG;DEF
+zhvirgjëroj	do të zhvirgjëroje	V;2;SG;COND;PRS
+mësoj	mësuakeni	V;2;PL;ADM;PRS
+reagoj	reagofshin	V;3;PL;OPT;PRS
+anëtar	anëtari	N;GEN;SG;NDEF
+masturboj	të masturboj	V;1;SG;SBJV;PRS
+nxehtësi	nxehtësisë	N;ABL;SG;DEF
+nënkuptoj	nënkuptojmë	V;1;PL;IND;PRS
+zyrë	zyre	N;DAT;SG;NDEF
+ndryshohem	u ndryshofsha	V;1;SG;OPT;PRS
+xixëllonjë	xixëllonjës	N;ABL;SG;DEF
+bekoj	të bekoja	V;1;SG;SBJV;PST
+zhvillohem	qofshin zhvilluar	V;3;PL;OPT;PRF
+shikoj	shikojnë	V;3;PL;IND;PRS
+dorëzohem	u dorëzuakan	V;3;PL;ADM;PRS
+ngrihem	të ishin ngritur	V;3;PL;SBJV;PRF;PST
+hardhucë	hardhuce	N;DAT;SG;NDEF
+lyp	të lypin	V;3;PL;SBJV;PRS
+zonë	zona	N;NOM;PL;NDEF
+transferoj	do të transferonte	V;3;SG;COND;PRS
+avantazh	avantazhin	N;ACC;SG;DEF
+ndal	ndal	V;2;SG;IND;PRS
+shfuqizoj	shfuqizuakëshin	V;3;PL;ADM;IPFV
+relaksohem	do të jem relaksuar	V;1;SG;IND;PRF;FUT
+dimër	dimrin	N;ACC;SG;DEF
+abrogoj	duke pasë abroguar	V;V.PTCP;PST
+ledhatoj	do të kenë ledhatuar	V;3;PL;IND;PRF;FUT
+zgjedh	pati zgjedhur	V;3;SG;IND;PRF;PST
+prodhoj	kam prodhuar	V;1;SG;IND;PRF
+prish	prishka	V;3;SG;ADM;PRS
+motër	motra	N;ACC;PL;NDEF
+antonim	antonimit	N;ABL;SG;DEF
+shkërdhej	të kemi shkërdhyer	V;1;PL;SBJV;PRF
+mirësoj	duke mirësuar	V;V.PTCP;PRS
+propozoj	të propozosh	V;2;SG;SBJV;PRS
+konsistoj	konsistuakësha	V;1;SG;ADM;IPFV
+shpall	shpall	V;3;SG;IND;PRS
+interpretoj	paskam interpretuar	V;1;SG;ADM;PRF
+stopohem	do të stopoheshe	V;2;SG;COND;PRS
+masturbohem	masturbohej	V;3;SG;IND;IPFV
+dërgoj	të kishte dërguar	V;3;SG;SBJV;PRF;PST
+arësyetoj	arësyetuakësha	V;1;SG;ADM;IPFV
+nënkuptoj	nënkuptova	V;1;SG;IND;PST
+thithkë	thithkave	N;DAT;PL;NDEF
+përmirësoj	përmirësuakëshe	V;2;SG;ADM;IPFV
+afirmoj	afirmuakëshe	V;2;SG;ADM;IPFV
+fe	fesh	N;ABL;PL;NDEF
+nxehtësi	nxehtësi	N;NOM;SG;NDEF
+shkërdhej	paskësha shkërdhyer	V;1;SG;ADM;PRF;PST
+injoroj	injorofshit	V;2;PL;OPT;PRS
+bakter	bakteret	N;ACC;PL;DEF
+sulmoj	sulmuakeni	V;2;PL;ADM;PRS
+injorohem	të injorohet	V;3;SG;SBJV;PRS
+hasmëri	hasmëri	N;NOM;SG;NDEF
+themeloj	paska themeluar	V;3;SG;ADM;PRF
+forcë	forcat	N;ACC;PL;DEF
+urrej	pati urryer	V;3;SG;IND;PRF;PST
+pompoj	pompuakësha	V;1;SG;ADM;IPFV
+interpretoj	të interpretoje	V;2;SG;SBJV;PST
+sodomizohem	të sodomizohem	V;1;SG;SBJV;PRS
+keqkuptoj	patët keqkuptuar	V;2;PL;IND;PRF;PRF
+bashkëndodhi	bashkëndodhive	N;GEN;PL;DEF
+kundërthem	kundërthemi	V;1;PL;IND;PRS
+ndërlikoj	paskëshin ndërlikuar	V;3;PL;ADM;PRF;PST
+qesh	qeshshin	V;3;PL;OPT;PRS
+gaboj	gaboj	V;1;SG;IND;PRS
+aftësi	aftësive	N;DAT;PL;DEF
+zëmër	zëmrave	N;ABL;PL;DEF
+vij	do të vijmë	V;1;PL;IND;FUT
+asnjanësoj	asnjanësova	V;1;SG;IND;PST
+abuzoj	abuzofsha	V;1;SG;OPT;PRS
+abonohem	qofsha abonuar	V;1;SG;OPT;PRF
+copëtoj	të kemi copëtuar	V;1;PL;SBJV;PRF
+mbaroj	duke mbaruar	V;V.PTCP;PRS
+ëndërroj	ëndërruakësha	V;1;SG;ADM;IPFV
+peshohem	jeni peshuar	V;2;PL;IND;PRF
+përmirësoj	do të kem përmirësuar	V;1;SG;IND;PRF;FUT
+stopohem	është stopuar	V;3;SG;IND;PRF
+asnjanësoj	asnjanësofsha	V;1;SG;OPT;PRS
+fërkoj	do të fërkoj	V;1;SG;IND;FUT
+argëtoj	argëton	V;2;SG;IND;PRS
+vë	do të kishim vënë	V;1;PL;COND;PRF
+bëj	bëfshit	V;2;PL;OPT;PRS
+prish	prishni	V;2;PL;IND;PRS
+punësoj	të punësojmë	V;1;PL;SBJV;PRS
+shtrembëroj	pate shtrembëruar	V;2;SG;IND;PRF;PST
+lëshoj	duke lëshuar	V;V.PTCP;PRS
+vendos	paskëshit vendosur	V;2;PL;ADM;PRF;PRF
+notoj	të notojë	V;3;SG;SBJV;PRS
+hidhërohem	hidhëroheshit	V;2;PL;IND;IPFV
+shtrembëroj	do të kenë shtrembëruar	V;3;PL;IND;PRF;FUT
+valixhe	valixheje	N;ABL;SG;NDEF
+propozoj	propozove	V;2;SG;IND;PST
+rrezikoj	do të rrezikoja	V;1;SG;COND;PRS
+lafshë	lafshe	N;ABL;SG;NDEF
+miqësohem	do të miqësohemi	V;1;PL;IND;FUT
+udhëheq	udhëhiqje	V;2;SG;IND;IPFV
+ndryshoj	do të kesh ndryshuar	V;2;SG;IND;PRF;FUT
+zhvirgjërohem	qenka zhvirgjëruar	V;3;SG;ADM;PRF
+përdor	përdorkëshit	V;2;PL;ADM;IPFV
+zhvilloj	të zhvillonim	V;1;PL;SBJV;PST
+përkthim	përkthimet	N;ACC;PL;DEF
+ndaj	kemi ndarë	V;1;PL;IND;PRF
+krijoj	të krijonin	V;3;PL;SBJV;PST
+notoj	paskan notuar	V;3;PL;ADM;PRF
+qaj	ka qarë	V;3;SG;IND;PRF
+mbaroj	mbaruan	V;3;PL;IND;PST
+tradhëtoj	të kemi tradhëtuar	V;1;PL;SBJV;PRF
+qortoj	paskam qortuar	V;1;SG;ADM;PRF
+zëmër	zëmrës	N;ABL;SG;DEF
+jetoj	paskësh jetuar	V;3;SG;ADM;PRF;PST
+çelës	çelësat	N;NOM;PL;DEF
+shpjegoj	shpjegonit	V;2;PL;IND;IPFV
+lëshoj	do të lëshojnë	V;3;PL;IND;FUT
+mbroj	do të kishin mbruar	V;3;PL;COND;PRF
+sëmundje	sëmundje	N;NOM;SG;NDEF
+qij	paskëshim qirë	V;1;PL;ADM;PRF;PST
+njoftoj	njoftojnë	V;3;PL;IND;PRS
+shkencë	shkencave	N;DAT;PL;NDEF
+pompoj	të kishim pompuar	V;1;PL;SBJV;PRF;PST
+fytyrë	fytyre	N;DAT;SG;NDEF
+masturbohem	masturbohen	V;3;PL;IND;PRS
+shpjegoj	të shpjegojë	V;3;SG;SBJV;PRS
+vendos	vendosja	V;1;SG;IND;IPFV
+apologji	apologjive	N;GEN;PL;DEF
+lëshoj	duke pasë lëshuar	V;V.PTCP;PST
+injoroj	paçim injoruar	V;1;PL;OPT;PRF
+mbaroj	pate mbaruar	V;2;SG;IND;PRF;PST
+pranoj	patën pranuar	V;3;PL;IND;PRF;PST
+lidh	do të kishim lidhur	V;1;PL;COND;PRF
+zhvilloj	zhvilloni	V;2;PL;IMP
+shkërdhej	shkërdhyekëshit	V;2;PL;ADM;IPFV
+jetoj	do të kishte jetuar	V;3;SG;COND;PRF
+shurroj	do të kishte shurruar	V;3;SG;COND;PRF
+dërmoj	do të kemi dërmuar	V;1;PL;IND;PRF;FUT
+mas	matëm	V;1;PL;IND;PST
+abrogoj	do të kenë abroguar	V;3;PL;IND;PRF;FUT
+përkthej	paske përkthyer	V;2;SG;ADM;PRF
+analogji	analogjive	N;GEN;PL;DEF
+mësohem	do të jenë mësuar	V;3;PL;IND;PRF;FUT
+masturbohem	masturbohu	V;2;SG;IMP
+shurroj	paskemi shurruar	V;1;PL;ADM;PRF
+gjuhësi	gjuhësisë	N;ABL;SG;DEF
+qen	qene	N;ACC;PL;NDEF
+sqaroj	do të sqaroni	V;2;PL;IND;FUT
+organizëm	organizmave	N;DAT;PL;NDEF
+miqësohem	ishte miqësuar	V;3;SG;IND;PRF;PST
+abonohem	abonoheshin	V;3;PL;IND;IPFV
+përkëdhel	paçin përkëdhelur	V;3;PL;OPT;PRF
+shpjegoj	shpjeguakam	V;1;SG;ADM;PRS
+ha	do të hanit	V;2;PL;COND;PRS
+komunikoj	të komunikonin	V;3;PL;SBJV;PST
+kundërthem	patën kundërthënë	V;3;PL;IND;PRF;PST
+miqësohem	miqësohem	V;1;SG;IND;PRS
+shuaj	duke shuajtur	V;V.PTCP;PRS
+peshohem	do të peshoheshit	V;2;PL;COND;PRS
+nderoj	paskan nderuar	V;3;PL;ADM;PRF
+pompoj	patët pompuar	V;2;PL;IND;PRF;PRF
+bisedoj	bisedofshin	V;3;PL;OPT;PRS
+fyt	fytet	N;NOM;PL;DEF
+çliroj	do të çlironit	V;2;PL;COND;PRS
+kam	të kishe	V;2;SG;SBJV;PST
+gënjej	gënjefsh	V;2;SG;OPT;PRS
+absorboj	pastë absorbuar	V;3;SG;OPT;PRF
+orientim	orientimeve	N;DAT;PL;NDEF
+qafë	qafës	N;GEN;SG;DEF
+zgjedh	të kishin zgjedhur	V;3;PL;SBJV;PRF;PST
+lidh	lidh	V;2;SG;IMP
+qaj	të kishim qarë	V;1;PL;SBJV;PRF;PST
+çlirohem	ishte çliruar	V;3;SG;IND;PRF;PST
+rrezikoj	të kisha rrezikuar	V;1;SG;SBJV;PRF;PST
+urrej	do të urrente	V;3;SG;COND;PRS
+ngjitem	ngjitet	V;3;SG;IND;PRS
+dëmtoj	dëmtonte	V;3;SG;IND;IPFV
+shahist	shahistin	N;ACC;SG;DEF
+mënd	për të mëndur	V;NFIN
+buzëqesh	paça buzëqeshur	V;1;SG;OPT;PRF
+abonohem	do të abonohesha	V;1;SG;COND;PRS
+shpjegoj	shpjeguam	V;1;PL;IND;PST
+biletë	biletave	N;GEN;PL;DEF
+trishtohem	trishtoheshin	V;3;PL;IND;IPFV
+krijoj	krijonit	V;2;PL;IND;IPFV
+gjeografi	gjeografisë	N;ABL;SG;DEF
+zhvilloj	do të kishte zhvilluar	V;3;SG;COND;PRF
+liri	liri	N;NOM;SG;NDEF
+përdor	përdor	V;1;SG;IND;PRS
+akrep	akrepit	N;DAT;SG;DEF
+përkthej	të përkthenit	V;2;PL;SBJV;PST
+mardh	do të mardhësh	V;2;SG;IND;FUT
+them	thoni	V;2;PL;IND;PRS
+përkufizoj	të kenë përkufizuar	V;3;PL;SBJV;PRF
+fërkoj	do të fërkojnë	V;3;PL;IND;FUT
+dritë	dritave	N;DAT;PL;NDEF
+ledhatoj	për të ledhatuar	V;NFIN
+adhuroj	do të kesh adhuruar	V;2;SG;IND;PRF;FUT
+rrezikoj	patën rrezikuar	V;3;PL;IND;PRF;PST
+seksolog	seksologëve	N;GEN;PL;DEF
+hidhërohem	do të hidhëroheshit	V;2;PL;COND;PRS
+pastroj	patët pastruar	V;2;PL;IND;PRF;PRF
+zhvirgjëroj	pate zhvirgjëruar	V;2;SG;IND;PRF;PST
+asgjësoj	të kesh asgjësuar	V;2;SG;SBJV;PRF
+kafshoj	paska kafshuar	V;3;SG;ADM;PRF
+shkëlqej	shkëlqyekëshim	V;1;PL;ADM;IPFV
+copëtoj	copëtuakëshin	V;3;PL;ADM;IPFV
+pshurr	kam pshurrur	V;1;SG;IND;PRF
+bekoj	do të bekoj	V;1;SG;IND;FUT
+zonjë	zonjës	N;ABL;SG;DEF
+shpall	kanë shpallur	V;3;PL;IND;PRF
+komunikoj	komunikofshin	V;3;PL;OPT;PRS
+palloj	paskan palluar	V;3;PL;ADM;PRF
+lahem	jeni larë	V;2;PL;IND;PRF
+shfuqizoj	të shfuqizonim	V;1;PL;SBJV;PST
+urroj	urruakeni	V;2;PL;ADM;PRS
+ligjëroj	ligjëroni	V;2;PL;IMP
+ofendoj	ofendoja	V;1;SG;IND;IPFV
+zhvirgjëroj	të zhvirgjëronim	V;1;PL;SBJV;PST
+jetoj	pate jetuar	V;2;SG;IND;PRF;PST
+gjenocid	gjenocide	N;ACC;PL;NDEF
+sulmohem	duke u pasë sulmuar	V;V.PTCP;PST
+pastroj	do të kishim pastruar	V;1;PL;COND;PRF
+notoj	do të notosh	V;2;SG;IND;FUT
+filloj	pastë filluar	V;3;SG;OPT;PRF
+ëndërroj	paske ëndërruar	V;2;SG;ADM;PRF
+biletë	biletat	N;ACC;PL;DEF
+epshmëri	epshmëri	N;ACC;SG;NDEF
+reagim	reagimi	N;GEN;SG;NDEF
+përmirësoj	të përmirësojmë	V;1;PL;SBJV;PRS
+shqipoj	do të kishte shqipuar	V;3;SG;COND;PRF
+duroj	durojnë	V;3;PL;IND;PRS
+asnjanësoj	asnjanësuakeni	V;2;PL;ADM;PRS
+jap	duke dhënë	V;V.PTCP;PRS
+çukë	çukë	N;ACC;SG;NDEF
+përkufizoj	përkufizoni	V;2;PL;IMP
+asgjësoj	asgjësoje	V;2;SG;IND;IPFV
+zgjedh	kam zgjedhur	V;1;SG;IND;PRF
+shtet	shteteve	N;GEN;PL;NDEF
+strategji	strategjie	N;DAT;SG;NDEF
+tempull	tempujve	N;GEN;PL;DEF
+justifikoj	justifikonin	V;3;PL;IND;IPFV
+injorohem	do të jem injoruar	V;1;SG;IND;PRF;FUT
+pompoj	të kishin pompuar	V;3;PL;SBJV;PRF;PST
+vë	vure	V;2;SG;IND;PST
+përsos	përsostë	V;3;SG;OPT;PRS
+gjëlpërë	gjëlpërave	N;ABL;PL;DEF
+konsistoj	konsistuakan	V;3;PL;ADM;PRS
+hidrat	hidrat	N;ACC;SG;NDEF
+them	thënë	V;V.PTCP
+asgjësoj	të kishim asgjësuar	V;1;PL;SBJV;PRF;PST
+ha	të haje	V;2;SG;SBJV;PST
+gjenocid	gjenocide	N;NOM;PL;NDEF
+krim	krimeve	N;GEN;PL;NDEF
+dashuroj	të dashuronte	V;3;SG;SBJV;PST
+dëshirë	dëshirave	N;DAT;PL;DEF
+jap	të kemi dhënë	V;1;PL;SBJV;PRF
+shfuqizoj	të kishe shfuqizuar	V;2;SG;SBJV;PRF;PST
+histori	historisë	N;DAT;SG;DEF
+grua	gruaja	N;NOM;SG;DEF
+vij	kemi ardhur	V;1;PL;IND;PRF
+konsistoj	konsistuakam	V;1;SG;ADM;PRS
+përkthej	përkthenim	V;1;PL;IND;IPFV
+dorë	dorës	N;GEN;SG;DEF
+jetoj	jetuaka	V;3;SG;ADM;PRS
+dhuroj	dhuruakësh	V;3;SG;ADM;IPFV
+përgjithësoj	të përgjithësojnë	V;3;PL;SBJV;PRS
+krijoj	krijoi	V;3;SG;IND;PST
+udhëzoj	udhëzon	V;2;SG;IND;PRS
+dërmoj	do të dërmojnë	V;3;PL;IND;FUT
+përsos	do të keni përsosur	V;2;PL;IND;PRF;FUT
+dërgoj	dërguakëshit	V;2;PL;ADM;IPFV
+shtrembëroj	të shtrembëronit	V;2;PL;SBJV;PST
+ngacmoj	paça ngacmuar	V;1;SG;OPT;PRF
+rri	ndenjçim	V;1;PL;OPT;PRS
+zgjohem	do të zgjohet	V;3;SG;IND;FUT
+ndaj	të ndanim	V;1;PL;SBJV;PST
+ejakulacion	ejakulacionin	N;ACC;SG;DEF
+kafshoj	të kafshonte	V;3;SG;SBJV;PST
+komunikoj	paskeni komunikuar	V;2;PL;ADM;PRF
+hallë	halle	N;GEN;SG;NDEF
+bëj	do të bënim	V;1;PL;COND;PRS
+mbarohem	mbaroheshim	V;1;PL;IND;IPFV
+afrohem	të afrohemi	V;1;PL;SBJV;PRS
+punësi	punësisë	N;ABL;SG;DEF
+gjëlpërë	gjëlpëre	N;DAT;SG;NDEF
+injorohem	do të ishim injoruar	V;1;PL;COND;PRF
+palloj	do të ketë palluar	V;3;SG;IND;PRF;FUT
+masturboj	paske masturbuar	V;2;SG;ADM;PRF
+nënkuptoj	do të nënkuptonit	V;2;PL;COND;PRS
+hoxhë	hoxhëve	N;DAT;PL;NDEF
+homoseksual	homoseksualit	N;ABL;SG;DEF
+bizon	bizonet	N;ACC;PL;DEF
+kundërthem	kundërthënç	V;2;SG;OPT;PRS
+duroj	duronim	V;1;PL;IND;IPFV
+daj	do të kishit darë	V;2;PL;COND;PRF
+dërgoj	dërgoja	V;1;SG;IND;IPFV
+bashkëpunoj	do të kishim bashkëpunuar	V;1;PL;COND;PRF
+peshohem	të peshoheni	V;2;PL;SBJV;PRS
+stimuloj	stimuluar	V;V.PTCP
+themeloj	paça themeluar	V;1;SG;OPT;PRF
+ndaloj	do të ndaloni	V;2;PL;IND;FUT
+fshij	fshike	V;2;SG;ADM;PRS
+sodomizohem	qenkëshe sodomizuar	V;2;SG;ADM;PRF;PST
+vij	paskëshim ardhur	V;1;PL;ADM;PRF;PST
+shpresoj	të shpresoni	V;2;PL;SBJV;PRS
+ndaj	të kishit ndarë	V;2;PL;SBJV;PRF;PRF
+shoh	do të shoh	V;1;SG;IND;FUT
+shkronjë	shkronje	N;GEN;SG;NDEF
+numër	numrave	N;GEN;PL;NDEF
+zhvilloj	për të zhvilluar	V;NFIN
+flirtoj	ka flirtuar	V;3;SG;IND;PRF
+zbeh	paça zbehur	V;1;SG;OPT;PRF
+bëhem	qofshim bërë	V;1;PL;OPT;PRF
+kam	paske	V;2;SG;ADM;PRS
+përparoj	paskeni përparuar	V;2;PL;ADM;PRF
+sqaroj	sqaruakësha	V;1;SG;ADM;IPFV
+ndjesi	ndjesie	N;GEN;SG;NDEF
+dhuroj	paskësha dhuruar	V;1;SG;ADM;PRF;PST
+krijoj	pate krijuar	V;2;SG;IND;PRF;PST
+fshij	të ketë fshirë	V;3;SG;SBJV;PRF
+thek	të theknit	V;2;PL;SBJV;PST
+këndoj	këndoj	V;1;SG;IND;PRS
+asgjësoj	të kenë asgjësuar	V;3;PL;SBJV;PRF
+sakrifikoj	patëm sakrifikuar	V;1;PL;IND;PRF;PST
+konsistoj	konsistoni	V;2;PL;IND;PRS
+pornograf	pornografit	N;ABL;SG;DEF
+konsistoj	do të konsistojnë	V;3;PL;IND;FUT
+anëtar	anëtarëve	N;DAT;PL;DEF
+shkretoj	paça shkretuar	V;1;SG;OPT;PRF
+peshohem	qenkan peshuar	V;3;PL;ADM;PRF
+thaj	do të kisha tharë	V;1;SG;COND;PRF
+sodomizoj	paça sodomizuar	V;1;SG;OPT;PRF
+pranoj	paskëshit pranuar	V;2;PL;ADM;PRF;PRF
+adhuroj	të adhuronin	V;3;PL;SBJV;PST
+gjahtar	gjahtarit	N;ABL;SG;DEF
+tradhëtoj	do të tradhëtonim	V;1;PL;COND;PRS
+mendoj	paskëshit menduar	V;2;PL;ADM;PRF;PRF
+mirësoj	do të mirësoni	V;2;PL;IND;FUT
+udhëhiqem	të udhëhiqeshin	V;3;PL;SBJV;PST
+udhëtoj	udhëto	V;2;SG;IMP
+plagoj	do të plagonin	V;3;PL;COND;PRS
+emtë	emte	N;ABL;SG;NDEF
+lëpij	lëpiva	V;1;SG;IND;PST
+gjakmarrje	gjakmarrjeve	N;DAT;PL;NDEF
+duroj	duroi	V;3;SG;IND;PST
+mandarinë	mandarinave	N;GEN;PL;DEF
+komunikoj	do të komunikosh	V;2;SG;IND;FUT
+stimuloj	paskemi stimuluar	V;1;PL;ADM;PRF
+gaboj	do të gabosh	V;2;SG;IND;FUT
+takohem	qenka takuar	V;3;SG;ADM;PRF
+ftohtësi	ftohtësi	N;ACC;SG;NDEF
+shtegtoj	të shtegtojë	V;3;SG;SBJV;PRS
+vazhdoj	vazhduaka	V;3;SG;ADM;PRS
+mbuloj	mbuloje	V;2;SG;IND;IPFV
+mbuloj	paçit mbuluar	V;2;PL;OPT;PRF
+transferoj	transferuam	V;1;PL;IND;PST
+iki	ikikësha	V;1;SG;ADM;IPFV
+përkthej	të përkthejnë	V;3;PL;SBJV;PRS
+mbroj	paça mbruar	V;1;SG;OPT;PRF
+plagoj	plagofshim	V;1;PL;OPT;PRS
+lë	të linin	V;3;PL;SBJV;PST
+ndih	paskeni ndihur	V;2;PL;ADM;PRF
+kërcej	të kërcenit	V;2;PL;SBJV;PST
+femër	femër	N;NOM;SG;NDEF
+bashkëveproj	bashkëvepronte	V;3;SG;IND;IPFV
+shurroj	të kesh shurruar	V;2;SG;SBJV;PRF
+përfitoj	përfitoi	V;3;SG;IND;PST
+peshkaqen	peshkaqenin	N;ACC;SG;DEF
+nënkuptoj	nënkuptoni	V;2;PL;IND;PRS
+grafik	grafikut	N;DAT;SG;DEF
+shqipoj	do të kishe shqipuar	V;2;SG;COND;PRF
+punëtor	punëtorët	N;NOM;PL;DEF
+dhuroj	dhuruakëshe	V;2;SG;ADM;IPFV
+transferoj	transferoje	V;2;SG;IND;IPFV
+thek	paçit thekur	V;2;PL;OPT;PRF
+shfuqizoj	të shfuqizonin	V;3;PL;SBJV;PST
+fërkoj	të fërkoja	V;1;SG;SBJV;PST
+asgjësoj	paskeni asgjësuar	V;2;PL;ADM;PRF
+fushatë	fushata	N;ACC;PL;NDEF
+gjakmarrje	gjakmarrjes	N;GEN;SG;DEF
+sqaroj	sqaruakan	V;3;PL;ADM;PRS
+bizon	bizone	N;NOM;PL;NDEF
+qij	qifshit	V;2;PL;OPT;PRS
+pshurr	paskeni pshurrur	V;2;PL;ADM;PRF
+ndal	ndalka	V;3;SG;ADM;PRS
+udhëtoj	pati udhëtuar	V;3;SG;IND;PRF;PST
+kuçedër	kuçedrës	N;ABL;SG;DEF
+ushqim	ushqime	N;NOM;PL;NDEF
+transferoj	të kesh transferuar	V;2;SG;SBJV;PRF
+afrohem	do të afrohesha	V;1;SG;COND;PRS
+lexoj	paskësha lexuar	V;1;SG;ADM;PRF;PST
+vendos	për të vendosur	V;NFIN
+njoftoj	paça njoftuar	V;1;SG;OPT;PRF
+mënd	mëndte	V;3;SG;IND;IPFV
+shpif	të kenë shpifur	V;3;PL;SBJV;PRF
+ndryshohem	ndryshohem	V;1;SG;IND;PRS
+zbeh	do të kishit zbehur	V;2;PL;COND;PRF
+kërcej	kemi kërcyer	V;1;PL;IND;PRF
+lyp	do të kesh lypur	V;2;SG;IND;PRF;FUT
+rrahje	rrahjeve	N;DAT;PL;NDEF
+liqen	liqene	N;NOM;PL;NDEF
+pshurr	pshurrni	V;2;PL;IMP
+ndryshohem	do të jenë ndryshuar	V;3;PL;IND;PRF;FUT
+reagim	reagim	N;ACC;SG;NDEF
+shpjegoj	do të kemi shpjeguar	V;1;PL;IND;PRF;FUT
+vazhdoj	të kishin vazhduar	V;3;PL;SBJV;PRF;PST
+orgazmë	orgazmat	N;NOM;PL;DEF
+mendoj	kemi menduar	V;1;PL;IND;PRF
+lexoj	të kisha lexuar	V;1;SG;SBJV;PRF;PST
+ledhatoj	do të ledhatoni	V;2;PL;IND;FUT
+udhëheq	udhëhoqi	V;3;SG;IND;PST
+nënkuptoj	të nënkuptojë	V;3;SG;SBJV;PRS
+thaj	thaka	V;3;SG;ADM;PRS
+veçoj	të veçonim	V;1;PL;SBJV;PST
+hap	hapsha	V;1;SG;OPT;PRS
+liri	lirive	N;DAT;PL;DEF
+gjeologji	gjeologjisë	N;ABL;SG;DEF
+copëtoj	kemi copëtuar	V;1;PL;IND;PRF
+prezervativ	prezervativet	N;NOM;PL;DEF
+abrogoj	do të kemi abroguar	V;1;PL;IND;PRF;FUT
+ndih	të keni ndihur	V;2;PL;SBJV;PRF
+prek	prekur	V;V.PTCP
+zgjoj	do të kishit zgjuar	V;2;PL;COND;PRF
+çift	çifteve	N;GEN;PL;DEF
+udhëheq	udhëhiqnim	V;1;PL;IND;IPFV
+trishtohem	të jenë trishtuar	V;3;PL;SBJV;PRF
+përmirësoj	patëm përmirësuar	V;1;PL;IND;PRF;PST
+vyshkem	qenka vyshkuar	V;3;SG;ADM;PRF
+shkëlqej	shkëlqefsh	V;2;SG;OPT;PRS
+fiziologji	fiziologji	N;NOM;SG;NDEF
+tradhëtoj	tradhëtuam	V;1;PL;IND;PST
+admiroj	të kisha admiruar	V;1;SG;SBJV;PRF;PST
+urrej	urryekam	V;1;SG;ADM;PRS
+xhaxha	xhaxhai	N;DAT;SG;NDEF
+astrobiolog	astrobiologëve	N;ABL;PL;DEF
+përmirësoj	përmirësojnë	V;3;PL;IND;PRS
+harroj	do të harronim	V;1;PL;COND;PRS
+dorëzohem	dorëzoheshit	V;2;PL;IND;IPFV
+sodomizohem	je sodomizuar	V;2;SG;IND;PRF
+zbuloj	patën zbuluar	V;3;PL;IND;PRF;PST
+notoj	notuar	V;V.PTCP
+afirmoj	patët afirmuar	V;2;PL;IND;PRF;PRF
+ha	pata ngrënë	V;1;SG;IND;PRF;PST
+dorëzohem	qenkam dorëzuar	V;1;SG;ADM;PRF
+daj	do të daje	V;2;SG;COND;PRS
+ngjitem	do të isha ngjituar	V;1;SG;COND;PRF
+hardhucë	hardhucën	N;ACC;SG;DEF
+zanafillë	zanafillat	N;NOM;PL;DEF
+grafik	grafikët	N;NOM;PL;DEF
+jap	paskëshit dhënë	V;2;PL;ADM;PRF;PRF
+mësohem	qenkësha mësuar	V;1;SG;ADM;PRF;PST
+ndihmoj	ndihmojmë	V;1;PL;IND;PRS
+konsistoj	ke konsistuar	V;2;SG;IND;PRF
+njoftoj	të kenë njoftuar	V;3;PL;SBJV;PRF
+fërgoj	fërguakemi	V;1;PL;ADM;PRS
+lodër	lodrës	N;GEN;SG;DEF
+krijoj	krijuat	V;2;PL;IND;PST
+homoseksual	homoseksualëve	N;GEN;PL;DEF
+shfuqizim	shfuqizimeve	N;GEN;PL;DEF
+shikoj	shikuake	V;2;SG;ADM;PRS
+ofendoj	ofendoj	V;1;SG;IND;PRS
+harroj	harrove	V;2;SG;IND;PST
+stinë	stinës	N;GEN;SG;DEF
+fsheh	fshehkëshit	V;2;PL;ADM;IPFV
+ngre	të kishim ngritur	V;1;PL;SBJV;PRF;PST
+kundërthem	do të kundërthuash	V;2;SG;IND;FUT
+shtegtoj	shtegtofsh	V;2;SG;OPT;PRS
+emër	emrave	N;DAT;PL;DEF
+abrogoj	abrogonte	V;3;SG;IND;IPFV
+zgjedh	do të zgjedhnit	V;2;PL;COND;PRS
+pranverë	pranvere	N;GEN;SG;NDEF
+astrobiologji	astrobiologjisë	N;DAT;SG;DEF
+gjahtar	gjahtari	N;NOM;SG;DEF
+grua	gra	N;NOM;PL;NDEF
+admiroj	admiron	V;3;SG;IND;PRS
+përkufizoj	të kishe përkufizuar	V;2;SG;SBJV;PRF;PST
+lyp	paskemi lypur	V;1;PL;ADM;PRF
+shoh	do të shihje	V;2;SG;COND;PRS
+sajoj	të sajojnë	V;3;PL;SBJV;PRS
+dorëzohem	do të dorëzoheshin	V;3;PL;COND;PRS
+grua	grave	N;DAT;PL;NDEF
+këndoj	këndoi	V;3;SG;IND;PST
+bukë	bukës	N;ABL;SG;DEF
+ndërlikoj	paçim ndërlikuar	V;1;PL;OPT;PRF
+punësohem	janë punësuar	V;3;PL;IND;PRF
+lexoj	lexoni	V;2;PL;IND;PRS
+bashkëpunoj	bashkëpunove	V;2;SG;IND;PST
+mbuloj	kanë mbuluar	V;3;PL;IND;PRF
+apologji	apologji	N;NOM;PL;NDEF
+urrej	urren	V;3;SG;IND;PRS
+pompoj	do të kishte pompuar	V;3;SG;COND;PRF
+kundërshtoj	kundërshtofsh	V;2;SG;OPT;PRS
+mbaroj	mbaron	V;3;SG;IND;PRS
+hardhucë	hardhuce	N;GEN;SG;NDEF
+degjoj	degjuam	V;1;PL;IND;PST
+mardh	mardhkësh	V;3;SG;ADM;IPFV
+përfitoj	do të përfitonim	V;1;PL;COND;PRS
+urroj	do të kishe urruar	V;2;SG;COND;PRF
+kam	paskemi	V;1;PL;ADM;PRS
+vaginë	vagine	N;DAT;SG;NDEF
+kafshoj	do të kafshoje	V;2;SG;COND;PRS
+vagjinë	vagjine	N;ABL;SG;NDEF
+veçoj	të veçojë	V;3;SG;SBJV;PRS
+mjekër	mjekrat	N;ACC;PL;DEF
+justifikoj	pate justifikuar	V;2;SG;IND;PRF;PST
+ofendoj	do të ofendonte	V;3;SG;COND;PRS
+rënkoj	do të kemi rënkuar	V;1;PL;IND;PRF;FUT
+shtegtoj	patëm shtegtuar	V;1;PL;IND;PRF;PST
+përmirësoj	do të kesh përmirësuar	V;2;SG;IND;PRF;FUT
+absorboj	absorbova	V;1;SG;IND;PST
+ha	të kenë ngrënë	V;3;PL;SBJV;PRF
+shfuqizoj	do të shfuqizojnë	V;3;PL;IND;FUT
+peshohem	isha peshuar	V;1;SG;IND;PRF;PST
+stopohem	do të jesh stopuar	V;2;SG;IND;PRF;FUT
+kam	paskëshin	V;3;PL;ADM;IPFV
+urroj	urrofshit	V;2;PL;OPT;PRS
+ngre	paskëshim ngritur	V;1;PL;ADM;PRF;PST
+zbuloj	ke zbuluar	V;2;SG;IND;PRF
+daj	do të daj	V;1;SG;IND;FUT
+ndërlikoj	kemi ndërlikuar	V;1;PL;IND;PRF
+ngjitem	ngjiteshe	V;2;SG;IND;IPFV
+ofendoj	ofenduakëshit	V;2;PL;ADM;IPFV
+jam	isha	V;1;SG;IND;IPFV
+udhëhiqem	u udhëheqsh	V;2;SG;OPT;PRS
+masturbohem	u masturbuakëshim	V;1;PL;ADM;IPFV
+hyrje	hyrje	N;ACC;PL;NDEF
+propozoj	të kishit propozuar	V;2;PL;SBJV;PRF;PRF
+yndyrë	yndyrës	N;ABL;SG;DEF
+fshij	kam fshirë	V;1;SG;IND;PRF
+ligjëroj	ligjërofshin	V;3;PL;OPT;PRS
+urrej	të urrenim	V;1;PL;SBJV;PST
+tradhëtoj	paskëshe tradhëtuar	V;2;SG;ADM;PRF;PST
+armatos	armatoskemi	V;1;PL;ADM;PRS
+yjësi	yjësive	N;ABL;PL;DEF
+pjekuri	pjekuria	N;NOM;SG;DEF
+lajm	lajm	N;ACC;SG;NDEF
+punësohem	do të jem punësuar	V;1;SG;IND;PRF;FUT
+mesazh	mesazhit	N;ABL;SG;DEF
+ndihmoj	të ndihmonit	V;2;PL;SBJV;PST
+gjeometri	gjeometri	N;ACC;SG;NDEF
+mirësoj	të mirësojë	V;3;SG;SBJV;PRS
+shpall	pate shpallur	V;2;SG;IND;PRF;PST
+qesh	do të qeshnit	V;2;PL;COND;PRS
+sulmoj	paska sulmuar	V;3;SG;ADM;PRF
+zhvillim	zhvillimet	N;NOM;PL;DEF
+emër	emrash	N;ABL;PL;NDEF
+takoj	takuar	V;V.PTCP
+përkëdhel	paske përkëdhelur	V;2;SG;ADM;PRF
+zbeh	zbehkeni	V;2;PL;ADM;PRS
+admiroj	admironte	V;3;SG;IND;IPFV
+dashuroj	të kemi dashuruar	V;1;PL;SBJV;PRF
+ndal	ndalje	V;2;SG;IND;IPFV
+gaboj	pati gabuar	V;3;SG;IND;PRF;PST
+prezervativ	prezervativeve	N;ABL;PL;DEF
+udhëhiqem	qenkam udhëhequr	V;1;SG;ADM;PRF
+lule	lules	N;DAT;SG;DEF
+punësoj	do të punësojmë	V;1;PL;IND;FUT
+zhvirgjëroj	do të keni zhvirgjëruar	V;2;PL;IND;PRF;FUT
+luftoj	do të kesh luftuar	V;2;SG;IND;PRF;FUT
+parabolë	parabolën	N;ACC;SG;DEF
+jam	ishin	V;3;PL;IND;IPFV
+ledhatoj	paç ledhatuar	V;2;SG;OPT;PRF
+ndih	do të ndihja	V;1;SG;COND;PRS
+takoj	do të takoni	V;2;PL;IND;FUT
+urroj	urrofshin	V;3;PL;OPT;PRS
+ngrij	paskëshin ngrirë	V;3;PL;ADM;PRF;PST
+qortoj	duke qortuar	V;V.PTCP;PRS
+argëtoj	argëtuar	V;V.PTCP
+takohem	u takuakësh	V;3;SG;ADM;IPFV
+ofendoj	ofendoi	V;3;SG;IND;PST
+paradigmë	paradigmash	N;ABL;PL;NDEF
+qafë	qafa	N;NOM;SG;DEF
+veçanti	veçantie	N;DAT;SG;NDEF
+pompoj	paskëshe pompuar	V;2;SG;ADM;PRF;PST
+përkthej	përktheu	V;3;SG;IND;PST
+shtegtoj	shtegtuakëshin	V;3;PL;ADM;IPFV
+uroj	patëm uruar	V;1;PL;IND;PRF;PST
+gojë	gojë	N;ACC;PL;NDEF
+palloj	kanë palluar	V;3;PL;IND;PRF
+zbeh	zbehkësh	V;3;SG;ADM;IPFV
+rrezikoj	kanë rrezikuar	V;3;PL;IND;PRF
+vendos	do të kisha vendosur	V;1;SG;COND;PRF
+sulmohem	sulmoheshe	V;2;SG;IND;IPFV
+përkufizoj	përkufizofsha	V;1;SG;OPT;PRS
+daj	do të kishin darë	V;3;PL;COND;PRF
+shurroj	shurrofshim	V;1;PL;OPT;PRS
+gojë	gojës	N;DAT;SG;DEF
+jetoj	jetoi	V;3;SG;IND;PST
+ekologji	ekologji	N;ACC;SG;NDEF
+relaksohem	do të isha relaksuar	V;1;SG;COND;PRF
+pjeshkë	pjeshkë	N;NOM;SG;NDEF
+nënkuptoj	të nënkuptoni	V;2;PL;SBJV;PRS
+hardhucë	hardhucave	N;DAT;PL;NDEF
+shkatërroj	të kisha shkatërruar	V;1;SG;SBJV;PRF;PST
+jap	të jap	V;1;SG;SBJV;PRS
+ledhatoj	do të kemi ledhatuar	V;1;PL;IND;PRF;FUT
+punësoj	punëso	V;2;SG;IMP
+jetoj	të jetonit	V;2;PL;SBJV;PST
+zbuloj	zbulofshin	V;3;PL;OPT;PRS
+organizoj	paske organizuar	V;2;SG;ADM;PRF
+organizoj	të kishim organizuar	V;1;PL;SBJV;PRF;PST
+fërkoj	fërkoni	V;2;PL;IMP
+preferoj	preferonim	V;1;PL;IND;IPFV
+shfuqizoj	të kishte shfuqizuar	V;3;SG;SBJV;PRF;PST
+luftoj	të kesh luftuar	V;2;SG;SBJV;PRF
+kërcej	do të kërcejnë	V;3;PL;IND;FUT
+relaksohem	u relaksuakëshit	V;2;PL;ADM;IPFV
+ngrij	do të kishit ngrirë	V;2;PL;COND;PRF
+prodhoj	do të kishin prodhuar	V;3;PL;COND;PRF
+shkëlqej	kam shkëlqyer	V;1;SG;IND;PRF
+buzëqesh	buzëqeshnit	V;2;PL;IND;IPFV
+zhvirgjërohem	do të jeni zhvirgjëruar	V;2;PL;IND;PRF;FUT
+plagoj	plaguakemi	V;1;PL;ADM;PRS
+bëj	patën bërë	V;3;PL;IND;PRF;PST
+reagoj	reagoftë	V;3;SG;OPT;PRS
+dërmoj	patëm dërmuar	V;1;PL;IND;PRF;PST
+filloj	të fillonim	V;1;PL;SBJV;PST
+notoj	notuakeni	V;2;PL;ADM;PRS
+pastroj	të kishin pastruar	V;3;PL;SBJV;PRF;PST
+lexoj	paçim lexuar	V;1;PL;OPT;PRF
+reagoj	do të kishit reaguar	V;2;PL;COND;PRF
+vendos	patën vendosur	V;3;PL;IND;PRF;PST
+vazhdoj	do të vazhdoni	V;2;PL;IND;FUT
+udhëzim	udhëzimet	N;NOM;PL;DEF
+lyp	lypkëshe	V;2;SG;ADM;IPFV
+degjoj	do të degjoj	V;1;SG;IND;FUT
+avulloj	për të avulluar	V;NFIN
+urinë	urinës	N;ABL;SG;DEF
+këndoj	paskemi kënduar	V;1;PL;ADM;PRF
+shkronjë	shkronjat	N;ACC;PL;DEF
+asnjanësoj	do të kishin asnjanësuar	V;3;PL;COND;PRF
+uroj	uruar	V;V.PTCP
+ngrij	duke ngrirë	V;V.PTCP;PRS
+shuaj	shuajtke	V;2;SG;ADM;PRS
+urinim	urinimeve	N;GEN;PL;NDEF
+themeloj	themelonim	V;1;PL;IND;IPFV
+transferoj	të transferoj	V;1;SG;SBJV;PRS
+takohem	të takoheshit	V;2;PL;SBJV;PST
+sakrifikoj	paçin sakrifikuar	V;3;PL;OPT;PRF
+besoj	paskëshim besuar	V;1;PL;ADM;PRF;PST
+preferoj	preferove	V;2;SG;IND;PST
+shpall	do të kishit shpallur	V;2;PL;COND;PRF
+dërgoj	të dërgoj	V;1;SG;SBJV;PRS
+ha	do të hamë	V;1;PL;IND;FUT
+arësyetoj	paskësha arësyetuar	V;1;SG;ADM;PRF;PST
+krijoj	të kishe krijuar	V;2;SG;SBJV;PRF;PST
+dhunoj	do të kem dhunuar	V;1;SG;IND;PRF;FUT
+luftoj	pati luftuar	V;3;SG;IND;PRF;PST
+thjeshtëzoj	pati thjeshtëzuar	V;3;SG;IND;PRF;PST
+shqipoj	shqiponte	V;3;SG;IND;IPFV
+abdikoj	do të kem abdikuar	V;1;SG;IND;PRF;FUT
+notoj	paskëshit notuar	V;2;PL;ADM;PRF;PRF
+rri	duke pasë ndenjur	V;V.PTCP;PST
+dëmtoj	do të keni dëmtuar	V;2;PL;IND;PRF;FUT
+armatos	paskëshit armatosur	V;2;PL;ADM;PRF;PRF
+njoftim	njoftimet	N;NOM;PL;DEF
+preferoj	do të preferonit	V;2;PL;COND;PRS
+degjoj	keni degjuar	V;2;PL;IND;PRF
+kundërthem	do të kishte kundërthënë	V;3;SG;COND;PRF
+zhvirgjërohem	u zhvirgjëruan	V;3;PL;IND;PST
+qesh	do të keni qeshur	V;2;PL;IND;PRF;FUT
+hidhërohem	do të jeni hidhëruar	V;2;PL;IND;PRF;FUT
+parapëlqej	të parapëlqenim	V;1;PL;SBJV;PST
+plagoj	plaguan	V;3;PL;IND;PST
+abdikoj	paskësh abdikuar	V;3;SG;ADM;PRF;PST
+thek	do të kesh thekur	V;2;SG;IND;PRF;FUT
+copëtoj	copëtuakam	V;1;SG;ADM;PRS
+sulmohem	të jenë sulmuar	V;3;PL;SBJV;PRF
+miqësohem	miqësohemi	V;1;PL;IND;PRS
+kam	kishim	V;1;PL;IND;IPFV
+ha	ngrënka	V;3;SG;ADM;PRS
+çliroj	çliruaka	V;3;SG;ADM;PRS
+dhunoj	do të dhunojë	V;3;SG;IND;FUT
+gëzoj	do të gëzojnë	V;3;PL;IND;FUT
+miqësohem	do të jenë miqësuar	V;3;PL;IND;PRF;FUT
+sqaroj	paska sqaruar	V;3;SG;ADM;PRF
+kafshoj	ke kafshuar	V;2;SG;IND;PRF
+kuptoj	kuptonte	V;3;SG;IND;IPFV
+zbuloj	zbulofshit	V;2;PL;OPT;PRS
+ngrihem	të jem ngritur	V;1;SG;SBJV;PRF
+armatos	kam armatosur	V;1;SG;IND;PRF
+kundërthem	ke kundërthënë	V;2;SG;IND;PRF
+testikul	testikulit	N;ABL;SG;DEF
+histori	historisë	N;ABL;SG;DEF
+përkëdhel	do të përkëdhelim	V;1;PL;IND;FUT
+kar	kari	N;DAT;SG;NDEF
+veçoj	do të veçoj	V;1;SG;IND;FUT
+qij	patën qirë	V;3;PL;IND;PRF;PST
+afirmoj	të afirmosh	V;2;SG;SBJV;PRS
+gëzoj	gëzoje	V;2;SG;IND;IPFV
+mardh	do të mardhë	V;3;SG;IND;FUT
+mbaroj	mbaronte	V;3;SG;IND;IPFV
+asgjësoj	ka asgjësuar	V;3;SG;IND;PRF
+ndih	ndihshin	V;3;PL;OPT;PRS
+filloj	fillonte	V;3;SG;IND;IPFV
+kafshoj	kafshuakemi	V;1;PL;ADM;PRS
+çliroj	çliruakësha	V;1;SG;ADM;IPFV
+nderoj	paskam nderuar	V;1;SG;ADM;PRF
+vë	duke vënë	V;V.PTCP;PRS
+shqiptar	shqiptarin	N;ACC;SG;DEF
+përparoj	përparuakëshe	V;2;SG;ADM;IPFV
+bëj	bëfshin	V;3;PL;OPT;PRS
+shpirtëroj	të shpirtëronim	V;1;PL;SBJV;PST
+dhuratë	dhuratash	N;ABL;PL;NDEF
+radiolog	radiolog	N;NOM;SG;NDEF
+trajtë	trajtave	N;ABL;PL;DEF
+kuçedër	kuçedrave	N;DAT;PL;DEF
+peshohem	do të peshohesh	V;2;SG;IND;FUT
+vyshkem	vyshkesha	V;1;SG;IND;IPFV
+nderoj	të kishte nderuar	V;3;SG;SBJV;PRF;PST
+apologji	apologjisë	N;GEN;SG;DEF
+fshij	do të kishin fshirë	V;3;PL;COND;PRF
+vë	paskeni vënë	V;2;PL;ADM;PRF
+dorëzohem	ishit dorëzuar	V;2;PL;IND;PRF;PRF
+nderoj	të nderosh	V;2;SG;SBJV;PRS
+zbukuroj	kanë zbukuruar	V;3;PL;IND;PRF
+shpall	të ketë shpallur	V;3;SG;SBJV;PRF
+punësohem	u punësuakëshit	V;2;PL;ADM;IPFV
+çlirohem	u çliruakeni	V;2;PL;ADM;PRS
+rënkoj	kanë rënkuar	V;3;PL;IND;PRF
+besoj	keni besuar	V;2;PL;IND;PRF
+shtegtoj	paskëshit shtegtuar	V;2;PL;ADM;PRF;PRF
+krahasoj	krahasonim	V;1;PL;IND;IPFV
+lidh	do të kenë lidhur	V;3;PL;IND;PRF;FUT
+shurrohem	shurroheshe	V;2;SG;IND;IPFV
+transferoj	do të kemi transferuar	V;1;PL;IND;PRF;FUT
+keqkuptim	keqkuptime	N;ACC;PL;NDEF
+bjond	bjondëve	N;GEN;PL;DEF
+zbuloj	zbuluakëshim	V;1;PL;ADM;IPFV
+krahasoj	të kemi krahasuar	V;1;PL;SBJV;PRF
+përdor	duke përdorur	V;V.PTCP;PRS
+qij	të qijnë	V;3;PL;SBJV;PRS
+qesh	duke pasë qeshur	V;V.PTCP;PST
+filloj	fillofsh	V;2;SG;OPT;PRS
+mas	matkëshe	V;2;SG;ADM;IPFV
+njeri	njeri	N;NOM;SG;NDEF
+kundërthem	të kishit kundërthënë	V;2;PL;SBJV;PRF;PRF
+lahem	të ishte larë	V;3;SG;SBJV;PRF;PST
+zvarranik	zvarranikët	N;ACC;PL;DEF
+punësoj	paskëshin punësuar	V;3;PL;ADM;PRF;PST
+sulmoj	patën sulmuar	V;3;PL;IND;PRF;PST
+shpall	të shpallja	V;1;SG;SBJV;PST
+relaksohem	u relaksuakëshe	V;2;SG;ADM;IPFV
+pastroj	kanë pastruar	V;3;PL;IND;PRF
+mendoj	menduakësha	V;1;SG;ADM;IPFV
+lidh	lidhni	V;2;PL;IND;PRS
+parapëlqej	do të kemi parapëlqyer	V;1;PL;IND;PRF;FUT
+dritë	drita	N;NOM;SG;DEF
+abrogoj	paçit abroguar	V;2;PL;OPT;PRF
+degjoj	degjuaka	V;3;SG;ADM;PRS
+gjëlpërë	gjëlpërat	N;ACC;PL;DEF
+fërkoj	të fërkonit	V;2;PL;SBJV;PST
+mjekër	mjekra	N;ACC;PL;NDEF
+iki	paç ikiur	V;2;SG;OPT;PRF
+fe	feja	N;NOM;SG;DEF
+stuhi	stuhi	N;NOM;SG;NDEF
+çlirohem	do të çlirohesh	V;2;SG;IND;FUT
+sëmundje	sëmundjeve	N;DAT;PL;DEF
+copëtoj	për të copëtuar	V;NFIN
+përkthej	përkthejnë	V;3;PL;IND;PRS
+zgjedh	të kishit zgjedhur	V;2;PL;SBJV;PRF;PRF
+burrë	burrin	N;ACC;SG;DEF
+teze	tezes	N;DAT;SG;DEF
+hidhërohem	u hidhëruakemi	V;1;PL;ADM;PRS
+transferoj	kam transferuar	V;1;SG;IND;PRF
+grumbulloj	të grumbulloje	V;2;SG;SBJV;PST
+zhvirgjëroj	zhvirgjëruaka	V;3;SG;ADM;PRS
+mardh	të kenë mardhur	V;3;PL;SBJV;PRF
+udhëzim	udhëzim	N;ACC;SG;NDEF
+stopohem	u stopuakan	V;3;PL;ADM;PRS
+çliroj	çlirofshit	V;2;PL;OPT;PRS
+gëzoj	gëzuar	V;V.PTCP
+reagim	reagim	N;NOM;SG;NDEF
+ngritje	ngritjes	N;DAT;SG;DEF
+daj	daje	V;2;SG;IND;IPFV
+kam	për të pasur	V;NFIN
+dërgoj	do të dërgoja	V;1;SG;COND;PRS
+sodomizohem	u sodomizofshit	V;2;PL;OPT;PRS
+mësohem	qenkëshin mësuar	V;3;PL;ADM;PRF;PST
+takohem	do të ishte takuar	V;3;SG;COND;PRF
+vyshkem	do të vyshken	V;3;PL;IND;FUT
+punësohem	u punësuakësh	V;3;SG;ADM;IPFV
+ngrihem	të jesh ngritur	V;2;SG;SBJV;PRF
+absorboj	absorbuakemi	V;1;PL;ADM;PRS
+parapëlqej	do të parapëlqejë	V;3;SG;IND;FUT
+lafshë	lafshave	N;GEN;PL;NDEF
+mbarohem	u mbaruaka	V;3;SG;ADM;PRS
+vjeshtë	vjeshtave	N;DAT;PL;NDEF
+shkencë	shkencave	N;DAT;PL;DEF
+lexoj	lexofshin	V;3;PL;OPT;PRS
+shkërdhej	të shkërdhente	V;3;SG;SBJV;PST
+afrohem	do të afrohemi	V;1;PL;IND;FUT
+skllavëroj	do të skllavëronim	V;1;PL;COND;PRS
+gaboj	gabofshit	V;2;PL;OPT;PRS
+këmbë	këmbët	N;ACC;PL;DEF
+dimër	dimrave	N;GEN;PL;DEF
+daj	patët darë	V;2;PL;IND;PRF;PRF
+njoftoj	njoftoni	V;2;PL;IND;PRS
+teknologji	teknologji	N;ACC;SG;NDEF
+shpirtëroj	do të kenë shpirtëruar	V;3;PL;IND;PRF;FUT
+dërmoj	dërmonit	V;2;PL;IND;IPFV
+hidhërohem	qoftë hidhëruar	V;3;SG;OPT;PRF
+absorboj	për të absorbuar	V;NFIN
+mbarohem	duke u mbaruar	V;V.PTCP;PRS
+pjeshkë	pjeshkave	N;ABL;PL;DEF
+gjarpër	gjarpërinjve	N;GEN;PL;NDEF
+pornografi	pornografi	N;ACC;SG;NDEF
+mbaroj	paskëshim mbaruar	V;1;PL;ADM;PRF;PST
+mbuloj	të mbulojnë	V;3;PL;SBJV;PRS
+jap	dhënka	V;3;SG;ADM;PRS
+mbaroj	të kem mbaruar	V;1;SG;SBJV;PRF
+adhuroj	adhuruakam	V;1;SG;ADM;PRS
+armatos	armatosi	V;3;SG;IND;PST
+thjeshtëzoj	thjeshtëzofsh	V;2;SG;OPT;PRS
+ndih	ke ndihur	V;2;SG;IND;PRF
+lahem	do të lahemi	V;1;PL;IND;FUT
+parabolë	parabole	N;GEN;SG;NDEF
+shqipoj	shqipuakan	V;3;PL;ADM;PRS
+shtyp	pati shtypur	V;3;SG;IND;PRF;PST
+udhëhiqem	qofshit udhëhequr	V;2;PL;OPT;PRF
+hidhërohem	qofshit hidhëruar	V;2;PL;OPT;PRF
+dhuroj	të dhuroj	V;1;SG;SBJV;PRS
+adhuroj	adhuronim	V;1;PL;IND;IPFV
+duroj	duruakemi	V;1;PL;ADM;PRS
+mas	do të kem matur	V;1;SG;IND;PRF;FUT
+tradhëtoj	paska tradhëtuar	V;3;SG;ADM;PRF
+qelizë	qelizës	N;GEN;SG;DEF
+zbuloj	pastë zbuluar	V;3;SG;OPT;PRF
+them	patën thënë	V;3;PL;IND;PRF;PST
+adhuroj	adhuruakemi	V;1;PL;ADM;PRS
+arësyetoj	do të ketë arësyetuar	V;3;SG;IND;PRF;FUT
+notoj	të notonim	V;1;PL;SBJV;PST
+përfitoj	të përfitonin	V;3;PL;SBJV;PST
+frikë	frikave	N;DAT;PL;NDEF
+rri	ka ndenjur	V;3;SG;IND;PRF
+kundërthem	do të kundërthoshim	V;1;PL;COND;PRS
+injorohem	injorohet	V;3;SG;IND;PRS
+takoj	paçim takuar	V;1;PL;OPT;PRF
+udhëzoj	të kenë udhëzuar	V;3;PL;SBJV;PRF
+bëj	paskësha bërë	V;1;SG;ADM;PRF;PST
+veçoj	veçofsh	V;2;SG;OPT;PRS
+fshij	të fshinim	V;1;PL;SBJV;PST
+thek	paskemi thekur	V;1;PL;ADM;PRF
+vyshkem	është vyshkuar	V;3;SG;IND;PRF
+ha	do të ketë ngrënë	V;3;SG;IND;PRF;FUT
+vazhdoj	ke vazhduar	V;2;SG;IND;PRF
+stimuloj	do të stimulonin	V;3;PL;COND;PRS
+thjeshtëzoj	do të kemi thjeshtëzuar	V;1;PL;IND;PRF;FUT
+urroj	pata urruar	V;1;SG;IND;PRF;PST
+dajë	dajë	N;NOM;SG;NDEF
+sqaroj	sqarofshin	V;3;PL;OPT;PRS
+ndaloj	të kishim ndaluar	V;1;PL;SBJV;PRF;PST
+përgjithësoj	pati përgjithësuar	V;3;SG;IND;PRF;PST
+lidh	lidhsh	V;2;SG;OPT;PRS
+udhëhiqem	do të isha udhëhequr	V;1;SG;COND;PRF
+abuzoj	abuzuan	V;3;PL;IND;PST
+lexoj	do të lexonte	V;3;SG;COND;PRS
+rreth	rrethi	N;DAT;SG;NDEF
+grumbulloj	do të kemi grumbulluar	V;1;PL;IND;PRF;FUT
+shpjegoj	të kisha shpjeguar	V;1;SG;SBJV;PRF;PST
+argëtoj	do të argëtonim	V;1;PL;COND;PRS
+tërheq	tërhoqa	V;1;SG;IND;PST
+shikoj	do të shikosh	V;2;SG;IND;FUT
+ngjitem	janë ngjituar	V;3;PL;IND;PRF
+thjeshtëzoj	do të thjeshtëzonte	V;3;SG;COND;PRS
+udhëzoj	paskemi udhëzuar	V;1;PL;ADM;PRF
+zgjoj	do të ketë zgjuar	V;3;SG;IND;PRF;FUT
+provoj	provuam	V;1;PL;IND;PST
+arratisem	të jemi arratisuar	V;1;PL;SBJV;PRF
+vyshkem	të vyshkeshit	V;2;PL;SBJV;PST
+shtyp	shtypka	V;3;SG;ADM;PRS
+prodhoj	për të prodhuar	V;NFIN
+takoj	të takojnë	V;3;PL;SBJV;PRS
+copëtoj	do të kishim copëtuar	V;1;PL;COND;PRF
+komunikoj	do të ketë komunikuar	V;3;SG;IND;PRF;FUT
+krahasoj	do të krahasoni	V;2;PL;IND;FUT
+shqipoj	do të kishit shqipuar	V;2;PL;COND;PRF
+harroj	paskan harruar	V;3;PL;ADM;PRF
+vyshkem	qofshin vyshkuar	V;3;PL;OPT;PRF
+admiroj	paskeni admiruar	V;2;PL;ADM;PRF
+dhuroj	dhuroi	V;3;SG;IND;PST
+matematikan	matematikanë	N;NOM;PL;NDEF
+biseksualitet	biseksualitet	N;ACC;SG;NDEF
+prek	pata prekur	V;1;SG;IND;PRF;PST
+testikul	testikujve	N;DAT;PL;NDEF
+arratisem	qenkëshit arratisuar	V;2;PL;ADM;PRF;PRF
+lëshoj	paskëshit lëshuar	V;2;PL;ADM;PRF;PRF
+provoj	provuakësh	V;3;SG;ADM;IPFV
+sulmim	sulmime	N;NOM;PL;NDEF
+zgjohem	u zgjofshit	V;2;PL;OPT;PRS
+mal	maleve	N;GEN;PL;DEF
+besoj	të kemi besuar	V;1;PL;SBJV;PRF
+krahasoj	patët krahasuar	V;2;PL;IND;PRF;PRF
+dritë	dritave	N;ABL;PL;DEF
+dërgoj	pati dërguar	V;3;SG;IND;PRF;PST
+fërkoj	fërkove	V;2;SG;IND;PST
+zbeh	zbehtë	V;3;SG;OPT;PRS
+bashkëveproj	bashkëveprofshit	V;2;PL;OPT;PRS
+injoroj	paça injoruar	V;1;SG;OPT;PRF
+udhëhiqem	do të jesh udhëhequr	V;2;SG;IND;PRF;FUT
+gënjej	gënjefshim	V;1;PL;OPT;PRS
+luginë	luginave	N;DAT;PL;DEF
+qortoj	të kishit qortuar	V;2;PL;SBJV;PRF;PRF
+udhëheq	për të udhëhequr	V;NFIN
+mbaroj	mbaruakam	V;1;SG;ADM;PRS
+thaj	do të kenë tharë	V;3;PL;IND;PRF;FUT
+fytyrë	fytyrat	N;NOM;PL;DEF
+krahasoj	të kishte krahasuar	V;3;SG;SBJV;PRF;PST
+bëhem	do të bëheshim	V;1;PL;COND;PRS
+dëmtoj	pastë dëmtuar	V;3;SG;OPT;PRF
+krahasim	krahasimet	N;NOM;PL;DEF
+udhëhiqem	u udhëheqshin	V;3;PL;OPT;PRS
+dërgoj	pata dërguar	V;1;SG;IND;PRF;PST
+argëtoj	argëtofshit	V;2;PL;OPT;PRS
+legjendë	legjendave	N;DAT;PL;NDEF
+transferoj	do të kishte transferuar	V;3;SG;COND;PRF
+gjëlpërë	gjëlpërave	N;GEN;PL;DEF
+shpif	shpifi	V;3;SG;IND;PST
+dëshiroj	do të kisha dëshiruar	V;1;SG;COND;PRF
+bëhem	isha bërë	V;1;SG;IND;PRF;PST
+copëtoj	paçit copëtuar	V;2;PL;OPT;PRF
+shkëlqej	shkëlqyekeni	V;2;PL;ADM;PRS
+masturbohem	masturboheshin	V;3;PL;IND;IPFV
+ndryshoj	do të kishit ndryshuar	V;2;PL;COND;PRF
+shuaj	shuaj	V;2;SG;IMP
+lafshë	lafshat	N;ACC;PL;DEF
+zdrukthëtar	zdrukthëtar	N;NOM;SG;NDEF
+qëndroj	qëndroj	V;1;SG;IND;PRS
+udhëhiqem	jeni udhëhequr	V;2;PL;IND;PRF
+ndryshoj	kanë ndryshuar	V;3;PL;IND;PRF
+gaboj	do të gaboje	V;2;SG;COND;PRS
+vendos	vendosnim	V;1;PL;IND;IPFV
+shurrohem	të shurroheshim	V;1;PL;SBJV;PST
+urroj	paskemi urruar	V;1;PL;ADM;PRF
+gjakmarrje	gjakmarrjeve	N;GEN;PL;NDEF
+skelet	skeletëve	N;GEN;PL;NDEF
+skllavëroj	të kem skllavëruar	V;1;SG;SBJV;PRF
+hap	hapja	V;1;SG;IND;IPFV
+shkatërroj	kanë shkatërruar	V;3;PL;IND;PRF
+sajoj	sajuakëshit	V;2;PL;ADM;IPFV
+urroj	urronit	V;2;PL;IND;IPFV
+bashkëveproj	bashkëvepronim	V;1;PL;IND;IPFV
+palloj	palluakan	V;3;PL;ADM;PRS
+sqarim	sqarimi	N;DAT;SG;NDEF
+pjeshkë	pjeshkash	N;ABL;PL;NDEF
+prish	prishkëshit	V;2;PL;ADM;IPFV
+shfuqizoj	do të shfuqizoja	V;1;SG;COND;PRS
+buzëqeshje	buzëqeshje	N;ACC;PL;NDEF
+tërheq	tërheqkeni	V;2;PL;ADM;PRS
+bëhem	të bëhen	V;3;PL;SBJV;PRS
+përparoj	përparoni	V;2;PL;IND;PRS
+abdikoj	abdikove	V;2;SG;IND;PST
+mendje	mendje	N;ACC;SG;NDEF
+shkatërroj	shkatërruakëshe	V;2;SG;ADM;IPFV
+kapak	kapakët	N;ACC;PL;DEF
+shtrembëroj	do të shtrembërosh	V;2;SG;IND;FUT
+shpall	të shpallnim	V;1;PL;SBJV;PST
+relaksohem	qenkëshim relaksuar	V;1;PL;ADM;PRF;PST
+transferoj	transferuar	V;V.PTCP
+bukë	bukë	N;NOM;PL;NDEF
+shtyp	të kisha shtypur	V;1;SG;SBJV;PRF;PST
+qesh	qeshje	V;2;SG;IND;IPFV
+mendoj	do të kishin menduar	V;3;PL;COND;PRF
+plagoj	do të plagojnë	V;3;PL;IND;FUT
+tërheq	paça tërhequr	V;1;SG;OPT;PRF
+peshoj	paçin peshuar	V;3;PL;OPT;PRF
+krah	krahut	N;ABL;SG;DEF
+lyp	do të lypte	V;3;SG;COND;PRS
+enigmë	enigma	N;NOM;SG;DEF
+gjeolog	gjeologëve	N;GEN;PL;NDEF
+punësohem	u punësuan	V;3;PL;IND;PST
+relaksohem	u relaksuakëshin	V;3;PL;ADM;IPFV
+rënkoj	patët rënkuar	V;2;PL;IND;PRF;PRF
+peshoj	peshojnë	V;3;PL;IND;PRS
+kam	do të kisha	V;1;SG;COND;PRS
+shëndet	shëndeti	N;NOM;SG;DEF
+ledhatoj	ledhatonit	V;2;PL;IND;IPFV
+justifikoj	paçim justifikuar	V;1;PL;OPT;PRF
+fërgoj	të kishe fërguar	V;2;SG;SBJV;PRF;PST
+kuptoj	kupton	V;3;SG;IND;PRS
+sulmoj	sulmofshit	V;2;PL;OPT;PRS
+ndaloj	do të ketë ndaluar	V;3;SG;IND;PRF;FUT
+shpejtësi	shpejtësive	N;GEN;PL;NDEF
+adhuroj	paskan adhuruar	V;3;PL;ADM;PRF
+rrezikoj	të kishe rrezikuar	V;2;SG;SBJV;PRF;PST
+tradhëtoj	duke pasë tradhëtuar	V;V.PTCP;PST
+pompoj	pompuat	V;2;PL;IND;PST
+dorëzohem	do të dorëzohen	V;3;PL;IND;FUT
+pshurr	pshurrur	V;V.PTCP
+xhami	xhamie	N;DAT;SG;NDEF
+shoh	shihje	V;2;SG;IND;IPFV
+jam	ishit	V;2;PL;IND;IPFV
+thjeshtëzoj	duke thjeshtëzuar	V;V.PTCP;PRS
+stimuloj	të kem stimuluar	V;1;SG;SBJV;PRF
+gaboj	gabuat	V;2;PL;IND;PST
+prodhoj	do të kishte prodhuar	V;3;SG;COND;PRF
+zbukuroj	do të zbukuroni	V;2;PL;IND;FUT
+shqyptar	shqyptarve	N;DAT;PL;NDEF
+vij	paskëshin ardhur	V;3;PL;ADM;PRF;PST
+shpall	do të shpallnim	V;1;PL;COND;PRS
+shkretoj	të kishe shkretuar	V;2;SG;SBJV;PRF;PST
+fërgoj	të kem fërguar	V;1;SG;SBJV;PRF
+duroj	kanë duruar	V;3;PL;IND;PRF
+them	do të kishte thënë	V;3;SG;COND;PRF
+sodomizohem	sodomizohuni	V;2;PL;IMP
+asnjanësoj	asnjanësuakëshim	V;1;PL;ADM;IPFV
+titull	tituj	N;ACC;PL;NDEF
+xhagajdur	xhagajdurëve	N;DAT;PL;NDEF
+kërkoj	pastë kërkuar	V;3;SG;OPT;PRF
+stimuloj	stimuloj	V;1;SG;IND;PRS
+punësohem	të punësohesh	V;2;SG;SBJV;PRS
+copëtoj	pata copëtuar	V;1;SG;IND;PRF;PST
+shkatërroj	paskëshit shkatërruar	V;2;PL;ADM;PRF;PRF
+reagoj	të kemi reaguar	V;1;PL;SBJV;PRF
+abrogoj	paskemi abroguar	V;1;PL;ADM;PRF
+gjeografi	gjeografie	N;GEN;SG;NDEF
+mbroj	mbronit	V;2;PL;IND;IPFV
+bëj	bëke	V;2;SG;ADM;PRS
+flirtoj	do të kishte flirtuar	V;3;SG;COND;PRF
+bark	barqeve	N;DAT;PL;NDEF
+bëhem	do të ishim bërë	V;1;PL;COND;PRF
+relaksohem	të relaksohen	V;3;PL;SBJV;PRS
+udhëtoj	paça udhëtuar	V;1;SG;OPT;PRF
+shkëlqej	shkëlqyekan	V;3;PL;ADM;PRS
+përparoj	pata përparuar	V;1;SG;IND;PRF;PST
+përgjithësoj	pate përgjithësuar	V;2;SG;IND;PRF;PST
+dashuroj	për të dashuruar	V;NFIN
+bekoj	bekoni	V;2;PL;IMP
+përmirësoj	kam përmirësuar	V;1;SG;IND;PRF
+plagoj	plaguar	V;V.PTCP
+sodomizohem	qofsh sodomizuar	V;2;SG;OPT;PRF
+transferoj	të kishe transferuar	V;2;SG;SBJV;PRF;PST
+punësoj	ka punësuar	V;3;SG;IND;PRF
+justifikoj	të justifikoja	V;1;SG;SBJV;PST
+zbuloj	paska zbuluar	V;3;SG;ADM;PRF
+shqyptar	shqyptarve	N;DAT;PL;DEF
+ledhatoj	kanë ledhatuar	V;3;PL;IND;PRF
+shpresoj	paskam shpresuar	V;1;SG;ADM;PRF
+reagoj	paskan reaguar	V;3;PL;ADM;PRF
+fortësi	fortësie	N;GEN;SG;NDEF
+dashuroj	dashuron	V;3;SG;IND;PRS
+ndaloj	do të ndalojnë	V;3;PL;IND;FUT
+iki	do të iki	V;1;SG;IND;FUT
+këndoj	të këndojë	V;3;SG;SBJV;PRS
+pshurr	paske pshurrur	V;2;SG;ADM;PRF
+dëmtoj	patën dëmtuar	V;3;PL;IND;PRF;PST
+përsos	paskësh përsosur	V;3;SG;ADM;PRF;PST
+prezervativ	prezervativi	N;NOM;SG;DEF
+anëtar	anëtarëve	N;DAT;PL;NDEF
+notoj	do të keni notuar	V;2;PL;IND;PRF;FUT
+ledhatoj	paskëshim ledhatuar	V;1;PL;ADM;PRF;PST
+palloj	do të kishit palluar	V;2;PL;COND;PRF
+këndoj	të kishin kënduar	V;3;PL;SBJV;PRF;PST
+mbroj	mbrofsh	V;2;SG;OPT;PRS
+luginë	luginash	N;ABL;PL;NDEF
+rreth	rrathëve	N;DAT;PL;DEF
+fërgoj	të fërgonin	V;3;PL;SBJV;PST
+ndryshohem	do të ndryshoheshe	V;2;SG;COND;PRS
+shqipoj	shqipuan	V;3;PL;IND;PST
+qaj	qajmë	V;1;PL;IND;PRS
+prek	pati prekur	V;3;SG;IND;PRF;PST
+shoh	do të shihnit	V;2;PL;COND;PRS
+zhvirgjërohem	zhvirgjërohuni	V;2;PL;IMP
+ledhatoj	paskam ledhatuar	V;1;SG;ADM;PRF
+dashuroj	dashuronte	V;3;SG;IND;IPFV
+ndryshohem	u ndryshuakësha	V;1;SG;ADM;IPFV
+gjithësi	gjithësia	N;NOM;SG;DEF
+uroj	urofsh	V;2;SG;OPT;PRS
+qëndroj	do të qëndroni	V;2;PL;IND;FUT
+kafshë	kafshëve	N;GEN;PL;DEF
+urroj	paskësha urruar	V;1;SG;ADM;PRF;PST
+armatos	do të armatosni	V;2;PL;IND;FUT
+morfologji	morfologji	N;ACC;SG;NDEF
+transferoj	transferuakeni	V;2;PL;ADM;PRS
+mbaroj	mbaruakëshin	V;3;PL;ADM;IPFV
+relaksohem	relaksohu	V;2;SG;IMP
+krijoj	krijuakëshin	V;3;PL;ADM;IPFV
+ndërlikoj	paçit ndërlikuar	V;2;PL;OPT;PRF
+qaj	paskeni qarë	V;2;PL;ADM;PRF
+zonë	zonat	N;NOM;PL;DEF
+gëzoj	gëzuakëshe	V;2;SG;ADM;IPFV
+filxhan	filxhanësh	N;ABL;PL;NDEF
+interpretoj	të kishin interpretuar	V;3;PL;SBJV;PRF;PST
+ujë	uji	N;NOM;SG;DEF
+abdikoj	abdikuan	V;3;PL;IND;PST
+ngjitem	qofsh ngjituar	V;2;SG;OPT;PRF
+mbaroj	do të kisha mbaruar	V;1;SG;COND;PRF
+ngacmoj	ngacmuakemi	V;1;PL;ADM;PRS
+krijoj	ka krijuar	V;3;SG;IND;PRF
+shqiptar	shqiptarët	N;NOM;PL;DEF
+punësohem	u punësuake	V;2;SG;ADM;PRS
+shpall	paskëshe shpallur	V;2;SG;ADM;PRF;PST
+skllavëroj	do të skllavërojë	V;3;SG;IND;FUT
+homoseksual	homoseksualë	N;NOM;PL;NDEF
+shqiponjë	shqiponjat	N;NOM;PL;DEF
+jetoj	jetuakëshit	V;2;PL;ADM;IPFV
+parapëlqej	paskeni parapëlqyer	V;2;PL;ADM;PRF
+sodomizoj	do të kishe sodomizuar	V;2;SG;COND;PRF
+arkeologji	arkeologjie	N;ABL;SG;NDEF
+bëhem	bëheshit	V;2;PL;IND;IPFV
+injorohem	do të ishte injoruar	V;3;SG;COND;PRF
+kundërthem	të kenë kundërthënë	V;3;PL;SBJV;PRF
+shoh	keni parë	V;2;PL;IND;PRF
+duroj	paskësha duruar	V;1;SG;ADM;PRF;PST
+ofendoj	ofendonit	V;2;PL;IND;IPFV
+skllavëroj	pati skllavëruar	V;3;SG;IND;PRF;PST
+komunikoj	të kishit komunikuar	V;2;PL;SBJV;PRF;PRF
+zoologji	zoologjie	N;GEN;SG;NDEF
+shpall	shpallsh	V;2;SG;OPT;PRS
+kalë	kuajve	N;DAT;PL;DEF
+madhësi	madhësie	N;GEN;SG;NDEF
+enigmë	enigme	N;GEN;SG;NDEF
+ndaloj	paskëshim ndaluar	V;1;PL;ADM;PRF;PST
+hidhërohem	hidhërohu	V;2;SG;IMP
+shpresoj	paçin shpresuar	V;3;PL;OPT;PRF
+prodhoj	prodhuan	V;3;PL;IND;PST
+urrej	do të urrenim	V;1;PL;COND;PRS
+mbarohem	isha mbaruar	V;1;SG;IND;PRF;PST
+zgjedh	paskëshe zgjedhur	V;2;SG;ADM;PRF;PST
+daj	të kenë darë	V;3;PL;SBJV;PRF
+thjeshtëzoj	ka thjeshtëzuar	V;3;SG;IND;PRF
+përkufizoj	të përkufizoja	V;1;SG;SBJV;PST
+tempull	tempullit	N;DAT;SG;DEF
+sajoj	paske sajuar	V;2;SG;ADM;PRF
+përfitoj	do të përfitoni	V;2;PL;IND;FUT
+plagoj	paskeni plaguar	V;2;PL;ADM;PRF
+shurrohem	qenkëshim shurruar	V;1;PL;ADM;PRF;PST
+ndaj	do të keni ndarë	V;2;PL;IND;PRF;FUT
+stuhi	stuhitë	N;ACC;PL;DEF
+lidh	paskësh lidhur	V;3;SG;ADM;PRF;PST
+mbuloj	të kisha mbuluar	V;1;SG;SBJV;PRF;PST
+këndoj	të kemi kënduar	V;1;PL;SBJV;PRF
+peshohem	për t'u peshuar	V;NFIN
+qesh	kanë qeshur	V;3;PL;IND;PRF
+gëzoj	gëzuakeni	V;2;PL;ADM;PRS
+parapëlqej	parapëlqyekëshim	V;1;PL;ADM;IPFV
+punësohem	u punësoftë	V;3;SG;OPT;PRS
+bakteriologji	bakteriologjie	N;DAT;SG;NDEF
+ledhatoj	ledhatoftë	V;3;SG;OPT;PRS
+mas	të keni matur	V;2;PL;SBJV;PRF
+qortoj	të kesh qortuar	V;2;SG;SBJV;PRF
+mësohem	do të isha mësuar	V;1;SG;COND;PRF
+dëmtoj	paskeni dëmtuar	V;2;PL;ADM;PRF
+abonohem	u abonofshit	V;2;PL;OPT;PRS
+asgjësoj	asgjësuakëshit	V;2;PL;ADM;IPFV
+mesazh	mesazheve	N;ABL;PL;DEF
+këndoj	kënduakësha	V;1;SG;ADM;IPFV
+shkatërroj	të kishit shkatërruar	V;2;PL;SBJV;PRF;PRF
+them	do të thoshim	V;1;PL;COND;PRS
+provoj	paskam provuar	V;1;SG;ADM;PRF
+gënjej	gënjen	V;2;SG;IND;PRS
+hidhërohem	u hidhëruam	V;1;PL;IND;PST
+cjap	cjapi	N;GEN;SG;NDEF
+arësyetoj	paska arësyetuar	V;3;SG;ADM;PRF
+gjakmarrje	gjakmarrja	N;NOM;SG;DEF
+avulloj	paskëshin avulluar	V;3;PL;ADM;PRF;PST
+ngjyrë	ngjyrat	N;ACC;PL;DEF
+shpresoj	shpresoj	V;1;SG;IND;PRS
+mardh	kanë mardhur	V;3;PL;IND;PRF
+njeri	njerëzit	N;NOM;PL;DEF
+vazhdoj	të kem vazhduar	V;1;SG;SBJV;PRF
+mbarohem	të jemi mbaruar	V;1;PL;SBJV;PRF
+ngre	paske ngritur	V;2;SG;ADM;PRF
+qortoj	do të qortoni	V;2;PL;IND;FUT
+dimër	dimri	N;GEN;SG;NDEF
+abrogoj	paskësh abroguar	V;3;SG;ADM;PRF;PST
+sajoj	paskëshin sajuar	V;3;PL;ADM;PRF;PST
+ndih	të ndihnim	V;1;PL;SBJV;PST
+urrej	urreni	V;2;PL;IND;PRS
+gjilpërë	gjilpërës	N;ABL;SG;DEF
+kërcej	kërcyekan	V;3;PL;ADM;PRS
+shtrembëroj	shtrembërofshim	V;1;PL;OPT;PRS
+asnjanësoj	asnjanësonim	V;1;PL;IND;IPFV
+shkëlqej	do të shkëlqente	V;3;SG;COND;PRS
+shkërdhej	shkërdhente	V;3;SG;IND;IPFV
+iki	paçim ikiur	V;1;PL;OPT;PRF
+sulmim	sulmime	N;ACC;PL;NDEF
+pompoj	ke pompuar	V;2;SG;IND;PRF
+nënkuptoj	do të nënkuptonte	V;3;SG;COND;PRS
+vij	pate ardhur	V;2;SG;IND;PRF;PST
+arratisem	do të jem arratisuar	V;1;SG;IND;PRF;FUT
+ligjëroj	të ligjëroje	V;2;SG;SBJV;PST
+përsos	pate përsosur	V;2;SG;IND;PRF;PST
+injoroj	injoruakëshe	V;2;SG;ADM;IPFV
+prek	paça prekur	V;1;SG;OPT;PRF
+pshurr	ka pshurrur	V;3;SG;IND;PRF
+ngrihem	do të jetë ngritur	V;3;SG;IND;PRF;FUT
+justifikoj	paska justifikuar	V;3;SG;ADM;PRF
+kundërshtoj	kundërshtonit	V;2;PL;IND;IPFV
+birë	birës	N;DAT;SG;DEF
+vë	pate vënë	V;2;SG;IND;PRF;PST
+gjeolog	gjeologu	N;DAT;SG;NDEF
+plagoj	do të kenë plaguar	V;3;PL;IND;PRF;FUT
+zbuloj	patëm zbuluar	V;1;PL;IND;PRF;PST
+besoj	të besonit	V;2;PL;SBJV;PST
+femër	femra	N;ACC;PL;NDEF
+shtyp	do të shtypin	V;3;PL;IND;FUT
+interpretoj	të interpretoj	V;1;SG;SBJV;PRS
+thithë	thithëash	N;ABL;PL;NDEF
+kërkesë	kërkesave	N;GEN;PL;NDEF
+abuzoj	abuzo	V;2;SG;IMP
+zgjoj	duke zgjuar	V;V.PTCP;PRS
+injoroj	patën injoruar	V;3;PL;IND;PRF;PST
+reagim	reagimi	N;NOM;SG;DEF
+shtegtoj	shtegtoni	V;2;PL;IND;PRS
+admiroj	paç admiruar	V;2;SG;OPT;PRF
+krahasoj	krahasuakeni	V;2;PL;ADM;PRS
+prish	prishën	V;3;PL;IND;PST
+shtyp	shtyp	V;3;SG;IND;PRS
+kam	paskësh pasur	V;3;SG;ADM;PRF;PST
+sulmoj	do të kisha sulmuar	V;1;SG;COND;PRF
+buzëqesh	do të kisha buzëqeshur	V;1;SG;COND;PRF
+njoftoj	do të njoftojë	V;3;SG;IND;FUT
+këmbë	këmbës	N;ABL;SG;DEF
+fsheh	do të fshehnim	V;1;PL;COND;PRS
+sakrifikoj	të kishim sakrifikuar	V;1;PL;SBJV;PRF;PST
+vendos	vendosnit	V;2;PL;IND;IPFV
+zbukuroj	do të zbukuronin	V;3;PL;COND;PRS
+kundërshtoj	do të kundërshtonte	V;3;SG;COND;PRS
+abrogoj	kanë abroguar	V;3;PL;IND;PRF
+ndryshohem	të ndryshohen	V;3;PL;SBJV;PRS
+çlirohem	do të çliroheshe	V;2;SG;COND;PRS
+qen	qeneve	N;DAT;PL;NDEF
+fitore	fitoreje	N;GEN;SG;NDEF
+ndaloj	të ndalojmë	V;1;PL;SBJV;PRS
+palloj	të pallonin	V;3;PL;SBJV;PST
+dhunoj	të dhunonim	V;1;PL;SBJV;PST
+vë	patët vënë	V;2;PL;IND;PRF;PRF
+vagjinë	vagjinave	N;GEN;PL;NDEF
+urinim	urinimet	N;NOM;PL;DEF
+abrogoj	të abrogonit	V;2;PL;SBJV;PST
+mbarohem	jeni mbaruar	V;2;PL;IND;PRF
+hidhërohem	do të jem hidhëruar	V;1;SG;IND;PRF;FUT
+dhuroj	dhuronin	V;3;PL;IND;IPFV
+zgjohem	qofshit zgjuar	V;2;PL;OPT;PRF
+armatos	armatose	V;2;SG;IND;PST
+përkufizoj	pate përkufizuar	V;2;SG;IND;PRF;PST
+dritë	dritat	N;ACC;PL;DEF
+avulloj	do të avullojnë	V;3;PL;IND;FUT
+thjeshtëzoj	paskëshin thjeshtëzuar	V;3;PL;ADM;PRF;PST
+armatos	duke armatosur	V;V.PTCP;PRS
+harroj	harroni	V;2;PL;IMP
+rajon	rajone	N;ACC;PL;NDEF
+galaktikë	galaktikave	N;GEN;PL;NDEF
+udhëzoj	udhëzoni	V;2;PL;IND;PRS
+mbret	mbreti	N;DAT;SG;NDEF
+dhuroj	dhuruam	V;1;PL;IND;PST
+fsheh	patëm fshehur	V;1;PL;IND;PRF;PST
+tradhëtoj	pastë tradhëtuar	V;3;SG;OPT;PRF
+tërheq	tërhoqi	V;3;SG;IND;PST
+puth	puthshim	V;1;PL;OPT;PRS
+urroj	paskam urruar	V;1;SG;ADM;PRF
+ndal	do të keni ndalur	V;2;PL;IND;PRF;FUT
+copë	copës	N;DAT;SG;DEF
+lafshë	lafshë	N;ACC;SG;NDEF
+shpresoj	për të shpresuar	V;NFIN
+prish	prishkemi	V;1;PL;ADM;PRS
+filloj	paçit filluar	V;2;PL;OPT;PRF
+injorohem	të injoroheshim	V;1;PL;SBJV;PST
+keqkuptoj	keqkuptove	V;2;SG;IND;PST
+preferoj	do të kishit preferuar	V;2;PL;COND;PRF
+armatos	armatos	V;2;SG;IMP
+gropë	grope	N;GEN;SG;NDEF
+krijoj	për të krijuar	V;NFIN
+nderoj	paska nderuar	V;3;SG;ADM;PRF
+lëpij	lëpitë	V;2;PL;IND;PST
+thaj	të kem tharë	V;1;SG;SBJV;PRF
+udhëtoj	për të udhëtuar	V;NFIN
+ngjitem	të ishte ngjituar	V;3;SG;SBJV;PRF;PST
+përdor	të përdorësh	V;2;SG;SBJV;PRS
+votoj	votonte	V;3;SG;IND;IPFV
+dëshiroj	do të kem dëshiruar	V;1;SG;IND;PRF;FUT
+bukë	buke	N;ABL;SG;NDEF
+bëj	do të kishin bërë	V;3;PL;COND;PRF
+fërgoj	të fërgojë	V;3;SG;SBJV;PRS
+grua	grave	N;GEN;PL;NDEF
+relaksohem	u relaksoi	V;3;SG;IND;PST
+takohem	do të ishe takuar	V;2;SG;COND;PRF
+sulmoj	sulmuakësh	V;3;SG;ADM;IPFV
+qaj	do të qanim	V;1;PL;COND;PRS
+dritare	dritareje	N;ABL;SG;NDEF
+kar	kar	N;NOM;SG;NDEF
+mendoj	menduat	V;2;PL;IND;PST
+thek	thekkësha	V;1;SG;ADM;IPFV
+bashkëpunim	bashkëpunimi	N;DAT;SG;NDEF
+çantë	çantën	N;ACC;SG;DEF
+prish	do të kisha prishur	V;1;SG;COND;PRF
+punësoj	të kishit punësuar	V;2;PL;SBJV;PRF;PRF
+vjeshtë	vjeshtë	N;NOM;SG;NDEF
+mas	mate	V;2;SG;IND;PST
+konsistoj	konsistoj	V;1;SG;IND;PRS
+avulloj	do të keni avulluar	V;2;PL;IND;PRF;FUT
+arratisem	jam arratisuar	V;1;SG;IND;PRF
+dërmoj	paçim dërmuar	V;1;PL;OPT;PRF
+gëzoj	gëzoni	V;2;PL;IMP
+argëtoj	argëtofsha	V;1;SG;OPT;PRS
+udhëhiqem	udhëhiqesh	V;3;SG;IND;IPFV
+argëtoj	do të kishte argëtuar	V;3;SG;COND;PRF
+ofendoj	ka ofenduar	V;3;SG;IND;PRF
+përsos	do të përsosë	V;3;SG;IND;FUT
+konsistoj	paske konsistuar	V;2;SG;ADM;PRF
+sodomizohem	të sodomizohej	V;3;SG;SBJV;PST
+përgjithësoj	do të përgjithësonin	V;3;PL;COND;PRS
+mësoj	mësonin	V;3;PL;IND;IPFV
+miqësohem	u miqësuakësha	V;1;SG;ADM;IPFV
+mënd	do të mëndë	V;3;SG;IND;FUT
+dhunoj	dhunoftë	V;3;SG;OPT;PRS
+gjenocid	gjenocideve	N;GEN;PL;NDEF
+gaboj	të gaboni	V;2;PL;SBJV;PRS
+injorohem	injoroheshe	V;2;SG;IND;IPFV
+vyshkem	do të vyshkeshe	V;2;SG;COND;PRS
+flirtoj	do të flirtoje	V;2;SG;COND;PRS
+arësyetoj	paskëshim arësyetuar	V;1;PL;ADM;PRF;PST
+vyshkem	isha vyshkuar	V;1;SG;IND;PRF;PST
+notoj	notuakëshim	V;1;PL;ADM;IPFV
+luftoj	luftofsha	V;1;SG;OPT;PRS
+ndaj	paskësh ndarë	V;3;SG;ADM;PRF;PST
+besoj	paçit besuar	V;2;PL;OPT;PRF
+pompoj	patën pompuar	V;3;PL;IND;PRF;PST
+skllav	skllavësh	N;ABL;PL;NDEF
+shfuqizoj	paskemi shfuqizuar	V;1;PL;ADM;PRF
+mësohem	të mësoheshe	V;2;SG;SBJV;PST
+lë	do të linim	V;1;PL;COND;PRS
+filloj	filluan	V;3;PL;IND;PST
+urrej	do të kemi urryer	V;1;PL;IND;PRF;FUT
+jetoj	jetojnë	V;3;PL;IND;PRS
+grumbulloj	do të grumbullonte	V;3;SG;COND;PRS
+veçoj	veçuakëshe	V;2;SG;ADM;IPFV
+transferoj	transferojmë	V;1;PL;IND;PRS
+përdor	përdorkam	V;1;SG;ADM;PRS
+shpëtim	shpëtimit	N;DAT;SG;DEF
+zgjedh	do të kishe zgjedhur	V;2;SG;COND;PRF
+tempull	tempull	N;ACC;SG;NDEF
+skllav	skllavi	N;GEN;SG;NDEF
+fshij	për të fshirë	V;NFIN
+lëshoj	të kishte lëshuar	V;3;SG;SBJV;PRF;PST
+përkëdhel	përkëdhelshit	V;2;PL;OPT;PRS
+degjoj	do të keni degjuar	V;2;PL;IND;PRF;FUT
+fjalë	fjala	N;NOM;SG;DEF
+shkencëtar	shkencëtarët	N;ACC;PL;DEF
+organizoj	organizon	V;2;SG;IND;PRS
+fërkoj	paska fërkuar	V;3;SG;ADM;PRF
+qendër	qendrës	N;ABL;SG;DEF
+fyt	fyteve	N;DAT;PL;NDEF
+abdikim	abdikimeve	N;DAT;PL;NDEF
+degjoj	paske degjuar	V;2;SG;ADM;PRF
+përkufizoj	pati përkufizuar	V;3;SG;IND;PRF;PST
+keqkuptoj	të keqkuptojnë	V;3;PL;SBJV;PRS
+shok	shokut	N;GEN;SG;DEF
+përdor	paçit përdorur	V;2;PL;OPT;PRF
+zhvilloj	patëm zhvilluar	V;1;PL;IND;PRF;PST
+ar	arit	N;DAT;SG;DEF
+ofendoj	ofendofsh	V;2;SG;OPT;PRS
+shikoj	do të kem shikuar	V;1;SG;IND;PRF;FUT
+dëshiroj	dëshirojmë	V;1;PL;IND;PRS
+përgjithësoj	të përgjithësojmë	V;1;PL;SBJV;PRS
+përsos	përsosni	V;2;PL;IND;PRS
+lexoj	lexuakëshim	V;1;PL;ADM;IPFV
+shkretoj	të shkretoja	V;1;SG;SBJV;PST
+thjeshtëzoj	thjeshtëzoni	V;2;PL;IMP
+fërgoj	fërguakëshit	V;2;PL;ADM;IPFV
+udhëhiqem	udhëhiquni	V;2;PL;IMP
+ndih	ndihnim	V;1;PL;IND;IPFV
+fërkoj	fërkofsha	V;1;SG;OPT;PRS
+rajon	rajonit	N;GEN;SG;DEF
+bisedoj	bisedove	V;2;SG;IND;PST
+takohem	u takuakemi	V;1;PL;ADM;PRS
+zëmër	zëmër	N;NOM;SG;NDEF
+pornograf	pornografi	N;NOM;SG;DEF
+dëmtoj	duke pasë dëmtuar	V;V.PTCP;PST
+avulloj	avullove	V;2;SG;IND;PST
+abstenoj	do të ketë abstenuar	V;3;SG;IND;PRF;FUT
+peshë	peshave	N;DAT;PL;NDEF
+adhuroj	të kenë adhuruar	V;3;PL;SBJV;PRF
+iki	paskëshe ikiur	V;2;SG;ADM;PRF;PST
+pranoj	do të kishit pranuar	V;2;PL;COND;PRF
+zgjoj	pata zgjuar	V;1;SG;IND;PRF;PST
+shpresoj	do të shpresojmë	V;1;PL;IND;FUT
+skllavëroj	paça skllavëruar	V;1;SG;OPT;PRF
+virgjëreshë	virgjëreshave	N;DAT;PL;NDEF
+skllav	skllavit	N;GEN;SG;DEF
+shpif	do të shpifte	V;3;SG;COND;PRS
+udhëheq	kanë udhëhequr	V;3;PL;IND;PRF
+mas	mata	V;1;SG;IND;PST
+zëmër	zëmre	N;DAT;SG;NDEF
+pjeshkë	pjeshkave	N;DAT;PL;NDEF
+krijoj	do të krijoj	V;1;SG;IND;FUT
+përfitoj	të kem përfituar	V;1;SG;SBJV;PRF
+kafshoj	do të kafshonin	V;3;PL;COND;PRS
+injorohem	të jenë injoruar	V;3;PL;SBJV;PRF
+takohem	do të takohej	V;3;SG;COND;PRS
+ngrij	ngrikëshit	V;2;PL;ADM;IPFV
+ngacmoj	do të ngacmojmë	V;1;PL;IND;FUT
+shqipoj	shqipoj	V;1;SG;IND;PRS
+sulmohem	sulmohuni	V;2;PL;IMP
+peshohem	qofshin peshuar	V;3;PL;OPT;PRF
+bashkëpunoj	bashkëpunoje	V;2;SG;IND;IPFV
+bashkëveproj	do të kishit bashkëvepruar	V;2;PL;COND;PRF
+tradhëtoj	tradhëtofsha	V;1;SG;OPT;PRS
+hidhërohem	hidhërohesha	V;1;SG;IND;IPFV
+them	paça thënë	V;1;SG;OPT;PRF
+konsistoj	të konsistonte	V;3;SG;SBJV;PST
+kundërshtoj	të kundërshtonim	V;1;PL;SBJV;PST
+kundërthem	kundërthëntë	V;3;SG;OPT;PRS
+vendos	të vendosë	V;3;SG;SBJV;PRS
+fërgoj	paç fërguar	V;2;SG;OPT;PRF
+rënkoj	të rënkonte	V;3;SG;SBJV;PST
+shurrohem	qoftë shurruar	V;3;SG;OPT;PRF
+them	të kisha thënë	V;1;SG;SBJV;PRF;PST
+bekoj	patën bekuar	V;3;PL;IND;PRF;PST
+thaj	do të kishim tharë	V;1;PL;COND;PRF
+shpresoj	shpresuakësha	V;1;SG;ADM;IPFV
+kërkoj	kërkoi	V;3;SG;IND;PST
+arësyetoj	të arësyetonte	V;3;SG;SBJV;PST
+mënd	do të kishte mëndur	V;3;SG;COND;PRF
+thjeshtëzoj	do të kenë thjeshtëzuar	V;3;PL;IND;PRF;FUT
+besoj	besuakësha	V;1;SG;ADM;IPFV
+degjoj	degjoj	V;1;SG;IND;PRS
+themeloj	të themelosh	V;2;SG;SBJV;PRS
+urinoj	urinofshim	V;1;PL;OPT;PRS
+shqipoj	shqipoi	V;3;SG;IND;PST
+axhë	axha	N;NOM;PL;NDEF
+zgjedh	zgjedhkëshin	V;3;PL;ADM;IPFV
+urinoj	do të kesh urinuar	V;2;SG;IND;PRF;FUT
+dëshiroj	paç dëshiruar	V;2;SG;OPT;PRF
+justifikoj	do të justifikoj	V;1;SG;IND;FUT
+stinë	stinës	N;DAT;SG;DEF
+dritë	dritat	N;NOM;PL;DEF
+biologji	biologjia	N;NOM;SG;DEF
+byrektore	byrektoreve	N;ABL;PL;DEF
+shurrohem	të ishim shurruar	V;1;PL;SBJV;PRF;PST
+dorëzohem	do të jesh dorëzuar	V;2;SG;IND;PRF;FUT
+punësohem	ishin punësuar	V;3;PL;IND;PRF;PST
+ngritje	ngritjeje	N;GEN;SG;NDEF
+zgjohem	u zgjova	V;1;SG;IND;PST
+sistem	sisteme	N;NOM;PL;NDEF
+admiroj	të admironte	V;3;SG;SBJV;PST
+kuptoj	do të kuptoj	V;1;SG;IND;FUT
+kafshoj	kafshuakëshim	V;1;PL;ADM;IPFV
+hidhërohem	hidhëroheshe	V;2;SG;IND;IPFV
+vë	vënçim	V;1;PL;OPT;PRS
+hidhërohem	të ishim hidhëruar	V;1;PL;SBJV;PRF;PST
+dorë	dorës	N;DAT;SG;DEF
+ndihmoj	do të ndihmosh	V;2;SG;IND;FUT
+ngjitem	do të ishin ngjituar	V;3;PL;COND;PRF
+vaginë	vaginat	N;NOM;PL;DEF
+thaj	thava	V;1;SG;IND;PST
+thek	do të theknim	V;1;PL;COND;PRS
+vjeshtë	vjeshtave	N;GEN;PL;NDEF
+themeloj	paskësha themeluar	V;1;SG;ADM;PRF;PST
+votoj	paskëshit votuar	V;2;PL;ADM;PRF;PRF
+thithë	thithëave	N;GEN;PL;NDEF
+bashkëveproj	do të bashkëveproj	V;1;SG;IND;FUT
+dajë	daja	N;NOM;SG;DEF
+reagoj	të reagonte	V;3;SG;SBJV;PST
+lëng	lëngjeve	N;DAT;PL;NDEF
+mendoj	paçim menduar	V;1;PL;OPT;PRF
+muaj	muaj	N;NOM;PL;NDEF
+zgjohem	qenkëshe zgjuar	V;2;SG;ADM;PRF;PST
+bashkëpunoj	do të kishit bashkëpunuar	V;2;PL;COND;PRF
+zhvilloj	zhvilluakësha	V;1;SG;ADM;IPFV
+kam	do të ketë pasur	V;3;SG;IND;PRF;FUT
+shikoj	shikonin	V;3;PL;IND;IPFV
+shtrembëroj	paskemi shtrembëruar	V;1;PL;ADM;PRF
+provoj	kanë provuar	V;3;PL;IND;PRF
+zhvirgjëroj	të zhvirgjërojnë	V;3;PL;SBJV;PRS
+ngjitem	të jemi ngjituar	V;1;PL;SBJV;PRF
+shikoj	kanë shikuar	V;3;PL;IND;PRF
+tradhëtoj	paskan tradhëtuar	V;3;PL;ADM;PRF
+prodhoj	prodhuakësha	V;1;SG;ADM;IPFV
+zhvirgjëroj	do të zhvirgjërojnë	V;3;PL;IND;FUT
+aftësi	aftësish	N;ABL;PL;NDEF
+injoroj	të kishit injoruar	V;2;PL;SBJV;PRF;PRF
+çlirohem	u çliruan	V;3;PL;IND;PST
+masturbohem	ishit masturbuar	V;2;PL;IND;PRF;PRF
+gjilpërë	gjilpërave	N;DAT;PL;DEF
+bashkëpunoj	pastë bashkëpunuar	V;3;SG;OPT;PRF
+interpretoj	interpretuakëshin	V;3;PL;ADM;IPFV
+prodhoj	paç prodhuar	V;2;SG;OPT;PRF
+dërgoj	duke dërguar	V;V.PTCP;PRS
+shigjetar	shigjetarëve	N;ABL;PL;DEF
+asnjanësoj	do të kishe asnjanësuar	V;2;SG;COND;PRF
+shkretoj	shkretoni	V;2;PL;IND;PRS
+mbuloj	paskëshe mbuluar	V;2;SG;ADM;PRF;PST
+ndal	ndalim	V;1;PL;IND;PRS
+xhelozi	xhelozisë	N;DAT;SG;DEF
+mënd	do të mëndje	V;2;SG;COND;PRS
+përmirësoj	pate përmirësuar	V;2;SG;IND;PRF;PST
+urinoj	urinuaka	V;3;SG;ADM;PRS
+mrekulli	mrekullie	N;GEN;SG;NDEF
+kafshoj	patëm kafshuar	V;1;PL;IND;PRF;PST
+zbuloj	do të kishte zbuluar	V;3;SG;COND;PRF
+sqaroj	do të sqarojmë	V;1;PL;IND;FUT
+abrogoj	abroguan	V;3;PL;IND;PST
+mbretëri	mbretërie	N;GEN;SG;NDEF
+shfuqizoj	shfuqizoje	V;2;SG;IND;IPFV
+abuzoj	do të abuzosh	V;2;SG;IND;FUT
+mbroj	keni mbruar	V;2;PL;IND;PRF
+lidh	lidhshit	V;2;PL;OPT;PRS
+ligjëroj	ligjërofshim	V;1;PL;OPT;PRS
