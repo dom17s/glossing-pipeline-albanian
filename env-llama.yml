@@ -1,0 +1,17 @@
+name: env-llama
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+      - transformers
+      - accelerate
+      - einops
+      - bitsandbytes
+      - ipykernel
