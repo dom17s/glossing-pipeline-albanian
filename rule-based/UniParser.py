@@ -1,13 +1,10 @@
 from uniparser_albanian import AlbanianAnalyzer
 
-# Initialize analyzer
 a = AlbanianAnalyzer(mode='strict')
 
-# Input and output files
 input_file = 'UniMorph-test-words.txt'
 output_file = 'UniParser-test-output.txt'
 
-# Open input and output files
 with open(input_file, 'r', encoding='utf-8') as fin, open(output_file, 'w', encoding='utf-8') as fout:
     for line in fin:
         word = line.strip()
@@ -24,7 +21,6 @@ with open(input_file, 'r', encoding='utf-8') as fin, open(output_file, 'w', enco
         lemma = ana.lemma.lower()
         wf = ana.wf.lower()
         tags = ana.gramm.upper().split(',')
-        #fout.write(f"test\t{wf}\t{ana.gramm.upper()}\n")
 
         if 'NOUN' in tags:
             case = next((t for t in tags if t in {'ACC', 'NOM', 'GEN', 'DAT', 'ABL'}), 'UNK')
@@ -38,7 +34,6 @@ with open(input_file, 'r', encoding='utf-8') as fin, open(output_file, 'w', enco
             mood = next((t for t in tags if t in {'IND', 'SUBJ', 'IMP'}), '')
             tense = next((t for t in tags if t in {'PRS', 'PST', 'FUT', 'PRES', 'AOR'}), '')
 
-            # Normalize tense values
             if tense == 'PRES':
                 tense = 'PRS'
             elif tense == 'AOR':
@@ -48,19 +43,3 @@ with open(input_file, 'r', encoding='utf-8') as fin, open(output_file, 'w', enco
 
         else:
             fout.write(f"UNK\t{wf}\tUNK\n")
-
-    
-#morfologji	morfologjinë	N;ACC;SG;DEF
-#morfologji morfologjinë NOUN,F,INANIM,BORR,IT,NEW,SG,ACC,DEF
-
-#ndaloj	ndalojmë	V;1;PL;IND;PRS
-#ndaloj ndalojmë V,VT,VI,ALB,DERIV,1,PL,PRES,IND,ACT
-
-# "abdikoj": {
-#             "pos": "V",
-#             "person": "1",
-#             "number": "SG",
-#             "mood": "IND",
-#             "tense": "PRS",
-#             "lemma": "abdikoj"
-#         },
