@@ -1,6 +1,6 @@
 import re
 
-# Define suffix rules for nouns
+# suffix rules for nouns
 noun_rules = [
     # Singular, Indefinite
     (r'(.*)im$', 'N;NOM;SG;NDEF;MASC', r'\1im'),           # verbal noun singular
@@ -86,7 +86,7 @@ def analyze_word(word):
             return f"{lemma}\t{word}\t{tag}"
     return f"{word}\t{word}\tUNK"
 
-# Process the input file
+# Process input file
 def process_file(input_path, output_path):
     with open(input_path, 'r', encoding='utf-8') as infile, \
          open(output_path, 'w', encoding='utf-8') as outfile:
@@ -99,7 +99,8 @@ def process_file(input_path, output_path):
 
 # Main execution
 if __name__ == "__main__":
-    input_file = "UniMorph-test-words.txt"           # contains only words, one per line
+    input_file = "UniMorph-test-words.txt"
     output_file = "only_rules_analyzer_test_output.txt"
     process_file(input_file, output_file)
     print(f"Analysis complete. Output saved to: {output_file}")
+
