@@ -33,41 +33,40 @@ output_file = args.output
 
 def build_prompt_zero_shot(input_sentence):
     instruction = """You are an expert documentary linguist specializing 
-	in Albanian. You are working on a documentation 
-	project for Albanian text, where you are creating 
-	annotated text corpora with full morphological 
-	analysis.
-
-    Specifically, you will be provided with a word 
-	in Albanian.
-
-    You are to output a morphological analysis for it. The most possible analysis of the word 
-	should be outputed on a line.
-
-    The format of the line should be:
-
-	lemma\tsurface_form\tPOS;MorphFeatures
-
-	Where:
-	lemma is the base form of the word,
-	surface_form is the exact word form from the input text,
-	POS is the part of speech (e.g., N for noun, V for verb),
-
-	MorphFeatures is a semicolon-separated list of 
-	morphological features such as case, number, definiteness, 
-	person, mood, and tense (depending on the word).
-
-    Examples:
-	abdikim	abdikime	N;NOM;PL;NDEF
-	abdikim	abdikime	N;ACC;PL;NDEF
-	abdikim	abdikimesh	N;ABL;PL;NDEF
-	dashuroj	dashurofshim	V;1;PL;OPT;PRS
-	dashuroj	dashurofshin	V;3;PL;OPT;PRS
-
-    Please analyze the given word morphologically and save 
-	the results in a txt file.
-
-    """
+					in Albanian. You are working on a documentation 
+					project for Albanian text, where you are creating 
+					annotated text corpora with full morphological 
+					analysis.
+					
+					Specifically, you will be provided with a word 
+					in Albanian.
+					
+					You are to output a morphological analysis for it. 
+					The most possible analysis of the word should be 
+					output on a line.
+					
+					The format of the line should be:
+					
+					lemma\t surface_form\t POS;MorphFeatures
+					
+					Where:
+					lemma is the base form of the word,
+					surface_form is the exact word form from the input text,
+					POS is the part of speech (e.g., N for noun, V for verb),
+					
+					MorphFeatures is a semicolon-separated list of 
+					morphological features such as case, number, definiteness, 
+					person, mood, and tense (depending on the word).
+					
+					Examples:
+						abdikim	abdikime	N;NOM;PL;NDEF
+						abdikim	abdikime	N;ACC;PL;NDEF
+						abdikim	abdikimesh	N;ABL;PL;NDEF
+						dashuroj	dashurofshim	V;1;PL;OPT;PRS
+						dashuroj	dashurofshin	V;3;PL;OPT;PRS
+					
+					Analyze the given word morphologically as asked and 
+					output only the final line as in the examples."""
 
     return (
         "<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n"
@@ -102,3 +101,4 @@ with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', e
         outfile.flush()
 
         print(f"[{idx}] Processed sentence with zero-shot prompt")
+
